@@ -1,6 +1,6 @@
 # legal
 
 ## SCOTUSblog
-- [ ] [Monday round-up](http://www.scotusblog.com/2015/10/monday-round-up-277/)
+- [Monday round-up](http://www.scotusblog.com/2015/10/monday-round-up-277/)
 
 
