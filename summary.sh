@@ -2,11 +2,13 @@
 
 exec >SUMMARY.md
 
+echo
 echo "# Summary"
 for d in $(ls -d ????-??-??); do 
-  echo "[$d]($d/index.md)"
+  echo "* [$d]($d/index.md)"
   for p in $(ls $d/*.md | sort); do
     name=$(basename $p)
     echo "  * [${name%.md}]($p)"
   done
+  echo
 done

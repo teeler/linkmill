@@ -1,6 +1,6 @@
-# Summary
 
-[2015-10-26](2015-10-26/index.md)
+# Summary
+* [2015-10-26](2015-10-26/index.md)
   * [FOOD](2015-10-26/FOOD.md)
   * [HW](2015-10-26/HW.md)
   * [Linkmillery](2015-10-26/Linkmillery.md)
@@ -16,7 +16,7 @@
   * [sfx](2015-10-26/sfx.md)
   * [video](2015-10-26/video.md)
 
-[2015-10-28](2015-10-28/index.md)
+* [2015-10-28](2015-10-28/index.md)
   * [FOOD](2015-10-28/FOOD.md)
   * [HW](2015-10-28/HW.md)
   * [Linkmillery](2015-10-28/Linkmillery.md)
@@ -32,7 +32,7 @@
   * [sfx](2015-10-28/sfx.md)
   * [video](2015-10-28/video.md)
 
-[2015-11-01](2015-11-01/index.md)
+* [2015-11-01](2015-11-01/index.md)
   * [FOOD](2015-11-01/FOOD.md)
   * [HW](2015-11-01/HW.md)
   * [Linkmillery](2015-11-01/Linkmillery.md)
@@ -47,3 +47,4 @@
   * [sec](2015-11-01/sec.md)
   * [sfx](2015-11-01/sfx.md)
   * [video](2015-11-01/video.md)
+
