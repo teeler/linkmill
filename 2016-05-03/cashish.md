@@ -1,6 +1,6 @@
 # cashish
 
-## Latest Filings - Wed, 04 May 2016 09:56:33 EDT
+## Latest Filings - Wed, 04 May 2016 13:00:21 EDT
 - [13F-HR - Bowling Portfolio Management LLC (0001322590) (Filer)](http://www.sec.gov/Archives/edgar/data/1322590/000132259016000012/0001322590-16-000012-index.htm)
 - [13F-HR - J&P(CHINA)CAPITAL MANAGEMENT CO.,LTD (0001605949) (Filer)](http://www.sec.gov/Archives/edgar/data/1605949/000160594916000011/0001605949-16-000011-index.htm)
 - [13F-HR - Johanson Financial Advisors, Inc. (0001665589) (Filer)](http://www.sec.gov/Archives/edgar/data/1665589/000108514616003571/0001085146-16-003571-index.htm)
@@ -37,57 +37,18 @@
 - [13F-HR - Gagnon Advisors, LLC (0001599466) (Filer)](http://www.sec.gov/Archives/edgar/data/1599466/000101905616001286/0001019056-16-001286-index.htm)
 - [13F-HR - MIDDLETON & CO INC/MA (0000919497) (Filer)](http://www.sec.gov/Archives/edgar/data/919497/000142050616000928/0001420506-16-000928-index.htm)
 - [13F-HR - C V STARR & CO INC (0001340459) (Filer)](http://www.sec.gov/Archives/edgar/data/1340459/000114036116062987/0001140361-16-062987-index.htm)
-- [13F-HR - WealthTrust Fairport, LLC (0001427806) (Filer)](http://www.sec.gov/Archives/edgar/data/1427806/000142780616000009/0001427806-16-000009-index.htm)
-- [13F-HR - SCOUT INVESTMENTS, INC. (0001161927) (Filer)](http://www.sec.gov/Archives/edgar/data/1161927/000116192716000013/0001161927-16-000013-index.htm)
-- [13F-HR - Municipal Employees' Retirement System of Michigan (0001588873) (Filer)](http://www.sec.gov/Archives/edgar/data/1588873/000158887316000010/0001588873-16-000010-index.htm)
-- [13F-HR - Pelham Capital Ltd. (0001654111) (Filer)](http://www.sec.gov/Archives/edgar/data/1654111/000131586316001424/0001315863-16-001424-index.htm)
-- [13F-NT - HSBC Global Asset Management (Canada) LTD (0001580935) (Filer)](http://www.sec.gov/Archives/edgar/data/1580935/000158093516000007/0001580935-16-000007-index.htm)
-- [13F-HR - MAR VISTA INVESTMENT PARTNERS LLC (0001419999) (Filer)](http://www.sec.gov/Archives/edgar/data/1419999/000121465916011217/0001214659-16-011217-index.htm)
-- [13F-HR - Hood River Capital Management LLC (0001578177) (Filer)](http://www.sec.gov/Archives/edgar/data/1578177/000121465916011215/0001214659-16-011215-index.htm)
-- [13F-HR - TORRAY LLC (0000098758) (Filer)](http://www.sec.gov/Archives/edgar/data/98758/000095012316016157/0000950123-16-016157-index.htm)
-- [13F-HR - MOTCO (0001306333) (Filer)](http://www.sec.gov/Archives/edgar/data/1306333/000130633316000012/0001306333-16-000012-index.htm)
-- [13F-HR - Lakeview Capital Partners, LLC (0001633172) (Filer)](http://www.sec.gov/Archives/edgar/data/1633172/000139834416012761/0001398344-16-012761-index.htm)
-- [13F-HR - Capital Investment Counsel, Inc (0001418421) (Filer)](http://www.sec.gov/Archives/edgar/data/1418421/000139834416012759/0001398344-16-012759-index.htm)
-- [13F-HR/A - PRICE T ROWE ASSOCIATES INC /MD/ (0000080255) (Filer)](http://www.sec.gov/Archives/edgar/data/80255/000008025516001241/0000080255-16-001241-index.htm)
-- [13F-HR - DUFF & PHELPS INVESTMENT MANAGEMENT CO (0000765443) (Filer)](http://www.sec.gov/Archives/edgar/data/765443/000076544316000037/0000765443-16-000037-index.htm)
-- [13F-HR - WHITEBOX ADVISORS LLC (0001257391) (Filer)](http://www.sec.gov/Archives/edgar/data/1257391/000095012316016154/0000950123-16-016154-index.htm)
-- [13F-HR - Veritas Investment Management (UK) Ltd (0001577920) (Filer)](http://www.sec.gov/Archives/edgar/data/1577920/000114036116062949/0001140361-16-062949-index.htm)
-- [13F-HR - Veritas Investment Management LLP (0001576707) (Filer)](http://www.sec.gov/Archives/edgar/data/1576707/000114036116062946/0001140361-16-062946-index.htm)
-- [13F-HR - DST Managers Ltd (0001550224) (Filer)](http://www.sec.gov/Archives/edgar/data/1550224/000095012316016151/0000950123-16-016151-index.htm)
-- [13F-HR - DST Global Advisors Ltd (0001550172) (Filer)](http://www.sec.gov/Archives/edgar/data/1550172/000095012316016150/0000950123-16-016150-index.htm)
-- [13F-HR - Parkside Financial Bank & Trust (0001455267) (Filer)](http://www.sec.gov/Archives/edgar/data/1455267/000139834416012754/0001398344-16-012754-index.htm)
-- [13F-HR - Partnervest Advisory Services LLC (0001532516) (Filer)](http://www.sec.gov/Archives/edgar/data/1532516/000158064216008507/0001580642-16-008507-index.htm)
-- [13F-NT - HUNTINGTON BANCSHARES INC/MD (0000049196) (Filer)](http://www.sec.gov/Archives/edgar/data/49196/000004919616000042/0000049196-16-000042-index.htm)
-- [13F-HR - Three Peaks Capital Management, LLC (0001598013) (Filer)](http://www.sec.gov/Archives/edgar/data/1598013/000159801316000013/0001598013-16-000013-index.htm)
-- [13F-HR - Baskin Financial Services Inc. (0001511098) (Filer)](http://www.sec.gov/Archives/edgar/data/1511098/000151109816000007/0001511098-16-000007-index.htm)
-- [13F-HR - Matson Money. Inc. (0001672512) (Filer)](http://www.sec.gov/Archives/edgar/data/1672512/000167251216000001/0001672512-16-000001-index.htm)
-- [13F-HR - CAPITAL ADVISORS INC/OK (0000860828) (Filer)](http://www.sec.gov/Archives/edgar/data/860828/000086082816000009/0000860828-16-000009-index.htm)
-- [13F-HR - Stadion Money Management, LLC (0001321220) (Filer)](http://www.sec.gov/Archives/edgar/data/1321220/000139834416012746/0001398344-16-012746-index.htm)
-- [13F-HR - BRYN MAWR TRUST Co (0000900974) (Filer)](http://www.sec.gov/Archives/edgar/data/900974/000090097416000029/0000900974-16-000029-index.htm)
-- [13F-HR - Geneva Advisors, LLC (0001269932) (Filer)](http://www.sec.gov/Archives/edgar/data/1269932/000114420416098533/0001144204-16-098533-index.htm)
-- [13F-HR - EDMP, INC. (0001016021) (Filer)](http://www.sec.gov/Archives/edgar/data/1016021/000101602116000007/0001016021-16-000007-index.htm)
-- [13F-HR - COMPASS CAPITAL MANAGEMENT INC/ (0001002152) (Filer)](http://www.sec.gov/Archives/edgar/data/1002152/000108514616003568/0001085146-16-003568-index.htm)
-- [13F-HR - GILDER GAGNON HOWE & CO LLC (0000902464) (Filer)](http://www.sec.gov/Archives/edgar/data/902464/000114036116062917/0001140361-16-062917-index.htm)
-- [13F-HR - COLUMBUS CIRCLE INVESTORS (0001228773) (Filer)](http://www.sec.gov/Archives/edgar/data/1228773/000108514616003567/0001085146-16-003567-index.htm)
-- [13F-HR - Arlington Capital Management, Inc. (0001606507) (Filer)](http://www.sec.gov/Archives/edgar/data/1606507/000108514616003566/0001085146-16-003566-index.htm)
-- [13F-HR - MONTAG & CALDWELL, LLC (0000067698) (Filer)](http://www.sec.gov/Archives/edgar/data/67698/000006769816000019/0000067698-16-000019-index.htm)
-- [13F-HR - BANK OF THE WEST (0000059951) (Filer)](http://www.sec.gov/Archives/edgar/data/59951/000005995116000014/0000059951-16-000014-index.htm)
-- [13F-HR - HUDSON CANYON INVESTMENT COUNSELORS LLC (0001167026) (Filer)](http://www.sec.gov/Archives/edgar/data/1167026/000116702616000012/0001167026-16-000012-index.htm)
-- [13F-HR - FIRST NATIONAL BANK SIOUX FALLS (0001085041) (Filer)](http://www.sec.gov/Archives/edgar/data/1085041/000108504116000007/0001085041-16-000007-index.htm)
-- [13F-HR - Alta Advisers Ltd (0001536114) (Filer)](http://www.sec.gov/Archives/edgar/data/1536114/000090342316000998/0000903423-16-000998-index.htm)
-- [13F-HR - AUGUSTINE ASSET MANAGEMENT INC (0000778963) (Filer)](http://www.sec.gov/Archives/edgar/data/778963/000077896316000007/0000778963-16-000007-index.htm)
-- [13F-HR - RENAISSANCE GROUP LLC (0000944234) (Filer)](http://www.sec.gov/Archives/edgar/data/944234/000094423416000015/0000944234-16-000015-index.htm)
-- [13F-HR - Financial Advisory Service, Inc. (0001596957) (Filer)](http://www.sec.gov/Archives/edgar/data/1596957/000139834416012739/0001398344-16-012739-index.htm)
-- [13F-HR - DILLON & ASSOCIATES INC (0001054425) (Filer)](http://www.sec.gov/Archives/edgar/data/1054425/000105442516000006/0001054425-16-000006-index.htm)
-- [13F-HR - Marble Harbor Investment Counsel, LLC (0001387130) (Filer)](http://www.sec.gov/Archives/edgar/data/1387130/000142050616000926/0001420506-16-000926-index.htm)
-- [13F-HR - MARINER INVESTMENT GROUP LLC (0001096978) (Filer)](http://www.sec.gov/Archives/edgar/data/1096978/000109697816000003/0001096978-16-000003-index.htm)
-- [13F-HR - JACOBSON & SCHMITT ADVISORS, LLC (0001632096) (Filer)](http://www.sec.gov/Archives/edgar/data/1632096/000163209616000008/0001632096-16-000008-index.htm)
-- [13F-HR - J.H. Whitney Capital Partners, LLC (0001567443) (Filer)](http://www.sec.gov/Archives/edgar/data/1567443/000110465916116968/0001104659-16-116968-index.htm)
-- [13F-NT - Daniels&Tansey,LLP (0001478179) (Filer)](http://www.sec.gov/Archives/edgar/data/1478179/000095012316016144/0000950123-16-016144-index.htm)
 
 ## Press Releases
 - [SEC Adopts Amendments to Implement JOBS Act and FAST Act Changes for Exchange Act Registration Requirements](http://www.sec.gov/news/pressrelease/2016-81.html)
 - [SEC and Law Enforcement Partners Crack Stock Promotion and Kickback Schemes](http://www.sec.gov/news/pressrelease/2016-80.html)
+
+## Latest Filings - Wed, 04 May 2016 12:20:49 EDT
+- [S-1 - TearLab Corp (0001299139) (Filer)](http://www.sec.gov/Archives/edgar/data/1299139/000149315216009365/0001493152-16-009365-index.htm)
+- [S-1/A - Capstone Systems Inc (0001651577) (Filer)](http://www.sec.gov/Archives/edgar/data/1651577/000147793216010032/0001477932-16-010032-index.htm)
+- [S-1/A - Pulse Biosciences, Inc. (0001625101) (Filer)](http://www.sec.gov/Archives/edgar/data/1625101/000119312516575202/0001193125-16-575202-index.htm)
+- [S-1/A - HarborOne Bancorp, Inc. (0001668224) (Filer)](http://www.sec.gov/Archives/edgar/data/1668224/000104746916012831/0001047469-16-012831-index.htm)
+- [S-1/A - CF Corp (0001668428) (Filer)](http://www.sec.gov/Archives/edgar/data/1668428/000157104916014708/0001571049-16-014708-index.htm)
+- [S-1/A - Viamet Pharmaceuticals Holdings LLC (0001538928) (Filer)](http://www.sec.gov/Archives/edgar/data/1538928/000119312516573714/0001193125-16-573714-index.htm)
 
 ## Insider Monkey – Free Hedge Fund and Insider Trading Data
 - [Ring Energy Inc (REI): MSD Partners Increases Its Stake to 5.94%](http://feedproxy.google.com/~r/InsiderMonkey/~3/IXGe0RmTg_I/)
@@ -100,7 +61,6 @@
 - [5 Energy Stocks Lucas Capital Likes for Q2](http://feedproxy.google.com/~r/InsiderMonkey/~3/piGZLJioD_c/)
 - [Why These Stocks Are in Spotlight Today?](http://feedproxy.google.com/~r/InsiderMonkey/~3/LNNrcrqzyoc/)
 - [The Only 4 Stocks That Matter to VY Capital](http://feedproxy.google.com/~r/InsiderMonkey/~3/z4dsaLZHBmA/)
-- [Billionaire David Einhorn’s Investor Letter: 2 New Picks and Other Holdings](http://feedproxy.google.com/~r/InsiderMonkey/~3/fmwbgPvTG9Y/)
 
 ## The Globe and Mail - Globe Investor
 - [For patient investors, this utility stock offers steady growth](http://www.theglobeandmail.com/globe-investor/investment-ideas/strategy-lab/dividend-investing/canadian-utilities-is-moving-in-the-right-direction/article29840159/?cmpid=rss1)
@@ -119,7 +79,5 @@
 - [Has the TSX peaked? ‘We doubt it’](http://www.theglobeandmail.com/report-on-business/top-business-stories/is-the-tsx-peaking-we-doubt-it/article29830832/?cmpid=rss1)
 - [TSX, Dow tumble as global growth fears resurface](http://www.theglobeandmail.com/globe-investor/inside-the-market/market-updates/at-the-open-tsx-falls-as-lower-oil-weighs-on-energy-stocks/article29830797/?cmpid=rss1)
 - [Tuesday’s TSX breakouts: Another earnings beat could send this stock higher](http://www.theglobeandmail.com/globe-investor/inside-the-market/tuesdays-tsx-breakouts-another-earnings-beat-could-send-this-stock-higher/article29830698/?cmpid=rss1)
-- [Tuesday&#039;s analyst upgrades and downgrades](http://www.theglobeandmail.com/globe-investor/inside-the-market/tuesdays-analyst-upgrades-and-downgrades/article29830647/?cmpid=rss1)
-- [Top Links: Why this may be a good summer for investors to do nothing](http://www.theglobeandmail.com/globe-investor/inside-the-market/top-links-manufacturing-jobs-aint-ever-coming-back/article29830509/?cmpid=rss1)
 
 
