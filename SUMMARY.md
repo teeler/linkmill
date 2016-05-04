@@ -299,6 +299,7 @@
   * [SEA](2016-05-03/SEA.md)
   * [cashish](2016-05-03/cashish.md)
   * [funky](2016-05-03/funky.md)
+  * [home](2016-05-03/home.md)
   * [journals](2016-05-03/journals.md)
   * [legal](2016-05-03/legal.md)
   * [p](2016-05-03/p.md)

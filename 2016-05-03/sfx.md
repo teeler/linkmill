@@ -28,6 +28,7 @@
 
 ## News
 - [Making Waves on Mira](http://1.usa.gov/1NjV6tQ)
+- [Could Aluminum Nitride Produce Quantum Bits?](http://1.usa.gov/1SYWdOw)
 - [A Cleansing Rain Falls; A Soil-Filled Mist Arises](http://1.usa.gov/24xtw0r)
 
 ## NSF News

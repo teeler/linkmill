@@ -1,7 +1,6 @@
 # sec
 
 ## Office of Inadequate Security
-- [Data breach widens at Guilford school district as more employees complain of ID theft](http://www.databreaches.net/data-breach-widens-at-guilford-school-district-as-more-employees-complain-of-id-theft/)
 - [Eastern Health Employee Fired for ‘Deliberate’ Privacy Breach](http://www.databreaches.net/eastern-health-employee-fired-for-deliberate-privacy-breach/)
 - [Member Of Large-Scale, $5 Million ATM Skimming Scheme Sentenced To More Than Seven Years In Prison](http://www.databreaches.net/member-of-large-scale-5-million-atm-skimming-scheme-sentenced-to-more-than-seven-years-in-prison/)
 - [Michigan electricity utility downed by ransomware attack](http://www.databreaches.net/michigan-electricity-utility-downed-by-ransomware-attack/)

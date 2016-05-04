@@ -1,6 +1,18 @@
 # cashish
 
-## Latest Filings - Wed, 04 May 2016 13:41:39 EDT
+## Latest Filings - Wed, 04 May 2016 14:38:15 EDT
+- [S-1 - TearLab Corp (0001299139) (Filer)](http://www.sec.gov/Archives/edgar/data/1299139/000149315216009365/0001493152-16-009365-index.htm)
+- [S-1/A - Capstone Systems Inc (0001651577) (Filer)](http://www.sec.gov/Archives/edgar/data/1651577/000147793216010032/0001477932-16-010032-index.htm)
+- [S-1/A - Pulse Biosciences, Inc. (0001625101) (Filer)](http://www.sec.gov/Archives/edgar/data/1625101/000119312516575202/0001193125-16-575202-index.htm)
+- [S-1/A - HarborOne Bancorp, Inc. (0001668224) (Filer)](http://www.sec.gov/Archives/edgar/data/1668224/000104746916012831/0001047469-16-012831-index.htm)
+- [S-1/A - CF Corp (0001668428) (Filer)](http://www.sec.gov/Archives/edgar/data/1668428/000157104916014708/0001571049-16-014708-index.htm)
+- [S-1/A - Viamet Pharmaceuticals Holdings LLC (0001538928) (Filer)](http://www.sec.gov/Archives/edgar/data/1538928/000119312516573714/0001193125-16-573714-index.htm)
+
+## Press Releases
+- [SEC Adopts Amendments to Implement JOBS Act and FAST Act Changes for Exchange Act Registration Requirements](http://www.sec.gov/news/pressrelease/2016-81.html)
+- [SEC and Law Enforcement Partners Crack Stock Promotion and Kickback Schemes](http://www.sec.gov/news/pressrelease/2016-80.html)
+
+## Latest Filings - Wed, 04 May 2016 14:38:20 EDT
 - [13F-HR - Bowling Portfolio Management LLC (0001322590) (Filer)](http://www.sec.gov/Archives/edgar/data/1322590/000132259016000012/0001322590-16-000012-index.htm)
 - [13F-HR - J&P(CHINA)CAPITAL MANAGEMENT CO.,LTD (0001605949) (Filer)](http://www.sec.gov/Archives/edgar/data/1605949/000160594916000011/0001605949-16-000011-index.htm)
 - [13F-HR - Johanson Financial Advisors, Inc. (0001665589) (Filer)](http://www.sec.gov/Archives/edgar/data/1665589/000108514616003571/0001085146-16-003571-index.htm)
@@ -13,36 +25,6 @@
 - [13F-HR - JENSEN INVESTMENT MANAGEMENT INC (0001106129) (Filer)](http://www.sec.gov/Archives/edgar/data/1106129/000117120016000218/0001171200-16-000218-index.htm)
 - [13F-HR - Kalos Management, Inc. (0001666788) (Filer)](http://www.sec.gov/Archives/edgar/data/1666788/000166678816000002/0001666788-16-000002-index.htm)
 - [13F-HR - RIVERPARK CAPITAL MANAGEMENT LLC (0001614704) (Filer)](http://www.sec.gov/Archives/edgar/data/1614704/000114420416098699/0001144204-16-098699-index.htm)
-- [13F-HR - RiverPark Advisors, LLC (0001484256) (Filer)](http://www.sec.gov/Archives/edgar/data/1484256/000114420416098696/0001144204-16-098696-index.htm)
-- [13F-HR - Richard Bernstein Advisors LLC (0001528214) (Filer)](http://www.sec.gov/Archives/edgar/data/1528214/000142050616000930/0001420506-16-000930-index.htm)
-- [13F-HR - JCF III AIV I GP Ltd. (0001673642) (Filer)](http://www.sec.gov/Archives/edgar/data/1673642/000090342316000999/0000903423-16-000999-index.htm)
-- [13F-HR - GLOBEFLEX CAPITAL L P (0000921531) (Filer)](http://www.sec.gov/Archives/edgar/data/921531/000092153116000011/0000921531-16-000011-index.htm)
-- [13F-HR - First Dallas Securities Inc. (0001378559) (Filer)](http://www.sec.gov/Archives/edgar/data/1378559/000137855916000008/0001378559-16-000008-index.htm)
-- [13F-HR - Springhouse Capital Management, LP (0001660086) (Filer)](http://www.sec.gov/Archives/edgar/data/1660086/000139834416012779/0001398344-16-012779-index.htm)
-- [13F-HR - HANSEATIC MANAGEMENT SERVICES INC (0001128074) (Filer)](http://www.sec.gov/Archives/edgar/data/1128074/000112807416000009/0001128074-16-000009-index.htm)
-- [13F-HR - DONALD SMITH & CO., INC. (0000814375) (Filer)](http://www.sec.gov/Archives/edgar/data/814375/000081437516000068/0000814375-16-000068-index.htm)
-- [13F-HR - Armbruster Capital Management, Inc. (0001664847) (Filer)](http://www.sec.gov/Archives/edgar/data/1664847/000114036116063073/0001140361-16-063073-index.htm)
-- [13F-HR - Arcus Capital Partners, LLC (0001651960) (Filer)](http://www.sec.gov/Archives/edgar/data/1651960/000165196016000006/0001651960-16-000006-index.htm)
-- [13F-HR - Devon Park Associates, LLC (0001610920) (Filer)](http://www.sec.gov/Archives/edgar/data/1610920/000114036116063059/0001140361-16-063059-index.htm)
-- [13F-HR - JENNISON ASSOCIATES LLC (0000053417) (Filer)](http://www.sec.gov/Archives/edgar/data/53417/000005341716000376/0000053417-16-000376-index.htm)
-- [13F-NT - Credit Suisse Fund Management S.A. (0001520225) (Filer)](http://www.sec.gov/Archives/edgar/data/1520225/000114036116063046/0001140361-16-063046-index.htm)
-- [13F-NT - CREDIT SUISSE CAPITAL LLC/ (0001335627) (Filer)](http://www.sec.gov/Archives/edgar/data/1335627/000114036116063033/0001140361-16-063033-index.htm)
-- [13F-NT - CREDIT SUISSE ASSET MANAGEMENT LLC/NY (0000903954) (Filer)](http://www.sec.gov/Archives/edgar/data/903954/000114036116063023/0001140361-16-063023-index.htm)
-- [13F-HR - BlueCrest Capital Management Ltd (0001610880) (Filer)](http://www.sec.gov/Archives/edgar/data/1610880/000114036116063017/0001140361-16-063017-index.htm)
-- [13F-NT - Credit Suisse (Italy) S.p.a. (0001428599) (Filer)](http://www.sec.gov/Archives/edgar/data/1428599/000114036116063006/0001140361-16-063006-index.htm)
-- [13F-HR - STARR INTERNATIONAL CO INC (0001236615) (Filer)](http://www.sec.gov/Archives/edgar/data/1236615/000114036116063001/0001140361-16-063001-index.htm)
-
-## Press Releases
-- [SEC Adopts Amendments to Implement JOBS Act and FAST Act Changes for Exchange Act Registration Requirements](http://www.sec.gov/news/pressrelease/2016-81.html)
-- [SEC and Law Enforcement Partners Crack Stock Promotion and Kickback Schemes](http://www.sec.gov/news/pressrelease/2016-80.html)
-
-## Latest Filings - Wed, 04 May 2016 12:20:49 EDT
-- [S-1 - TearLab Corp (0001299139) (Filer)](http://www.sec.gov/Archives/edgar/data/1299139/000149315216009365/0001493152-16-009365-index.htm)
-- [S-1/A - Capstone Systems Inc (0001651577) (Filer)](http://www.sec.gov/Archives/edgar/data/1651577/000147793216010032/0001477932-16-010032-index.htm)
-- [S-1/A - Pulse Biosciences, Inc. (0001625101) (Filer)](http://www.sec.gov/Archives/edgar/data/1625101/000119312516575202/0001193125-16-575202-index.htm)
-- [S-1/A - HarborOne Bancorp, Inc. (0001668224) (Filer)](http://www.sec.gov/Archives/edgar/data/1668224/000104746916012831/0001047469-16-012831-index.htm)
-- [S-1/A - CF Corp (0001668428) (Filer)](http://www.sec.gov/Archives/edgar/data/1668428/000157104916014708/0001571049-16-014708-index.htm)
-- [S-1/A - Viamet Pharmaceuticals Holdings LLC (0001538928) (Filer)](http://www.sec.gov/Archives/edgar/data/1538928/000119312516573714/0001193125-16-573714-index.htm)
 
 ## Insider Monkey – Free Hedge Fund and Insider Trading Data
 - [Ring Energy Inc (REI): MSD Partners Increases Its Stake to 5.94%](http://feedproxy.google.com/~r/InsiderMonkey/~3/IXGe0RmTg_I/)
@@ -50,8 +32,6 @@
 - [VAALCO Energy Inc (EGY): Lone Star Value Management Discloses New Position](http://feedproxy.google.com/~r/InsiderMonkey/~3/-sWzUXZknJ4/)
 - [Bill Ackman Presentation Discusses Top Picks, Takes Another Shot at Herbalife](http://feedproxy.google.com/~r/InsiderMonkey/~3/wg_ubcIZKqE/)
 - [Why HSBC, Texas Roadhouse, Clorox and Two Other Stocks Are Trending Today](http://feedproxy.google.com/~r/InsiderMonkey/~3/uMqzS07UnsQ/)
-- [Why These Five Stocks Are on the Move Today?](http://feedproxy.google.com/~r/InsiderMonkey/~3/bwtod5ZydUE/)
-- [Heavy Insider Selling at Pioneer Natural Resources (PXD), BNY Mellon (BK), Graphic Packaging (GPK)](http://feedproxy.google.com/~r/InsiderMonkey/~3/OhTOj4uI7Og/)
 
 ## The Globe and Mail - Globe Investor
 - [For patient investors, this utility stock offers steady growth](http://www.theglobeandmail.com/globe-investor/investment-ideas/strategy-lab/dividend-investing/canadian-utilities-is-moving-in-the-right-direction/article29840159/?cmpid=rss1)
@@ -65,7 +45,5 @@
 - [After sector&#039;s huge advance, mining shares are ‘starting to look vulnerable’](http://www.theglobeandmail.com/globe-investor/inside-the-market/miners-beaten-down-by-chinese-manufacturing-dip/article29833191/?cmpid=rss1)
 - [Warning: Your portfolio may rely too heavily on financials](http://www.theglobeandmail.com/globe-investor/inside-the-market/warning-your-portfolio-may-rely-too-heavily-on-financials/article29832252/?cmpid=rss1)
 - [Chart Watch: Selling pressure ahead, but bulls control the market](http://www.theglobeandmail.com/globe-investor/investment-ideas/research-reports/chart-watch-selling-pressure-ahead-but-bulls-control-the-market/article29831995/?cmpid=rss1)
-- [Three top stock picks from Industrial Alliance’s John DeGoey](http://www.theglobeandmail.com/globe-investor/funds-and-etfs/etfs/three-top-stock-picks-from-industrial-alliances-john-degoey/article29831658/?cmpid=rss1)
-- [The one major currency losing ground against the U.S. dollar](http://www.theglobeandmail.com/report-on-business/economy/currencies/the-one-major-currency-losing-ground-against-the-us-dollar/article29831626/?cmpid=rss1)
 
 

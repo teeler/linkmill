@@ -87,18 +87,15 @@
 - [When Makers Apply to College — Learning Machine Blog — Medium](https://medium.com/learning-machine-blog/when-makers-apply-to-college-f0b28a70d02e#.vtrajnv67)
 - [Homemade Hoverbike - YouTube](https://www.youtube.com/watch?v=soxxPyaAT1k)
 
+## Arduino Blog
+- [Find the best bar with a smart DIY compass!](https://blog.arduino.cc/2016/05/03/find-the-best-bar-with-a-smart-diy-compass/)
+
 ## Pinboard (items tagged hardware)
 - [Report: Apple designing its own servers to avoid snooping | Ars Technica](http://arstechnica.com/information-technology/2016/03/report-apple-designing-its-own-servers-to-avoid-snooping/)
 - [Using Lego-Like Bricks to Teach Kids Braille Is a Stroke of Genius](http://gizmodo.com/using-lego-like-bricks-to-teach-kids-braille-is-a-strok-1774438336)
 - [HP Unveils Premium Chromebook: 3K Display, Intel Core M, 16 GB of RAM and USB-C](http://www.anandtech.com/show/10291/hp-unveils-premium-chromebook-3k-display-intel-core-m3-16-gb-of-ram-and-usbc)
 - [Can't Hack a Hacker: Reverse Engineering a Discovered ATM Skimmer - TrustFoundry](https://trustfoundry.net/reverse-engineering-a-discovered-atm-skimmer/)
 - [Open Source Storage Server: 60 Hard Drives 480TB Storage](https://www.backblaze.com/blog/open-source-data-storage-server/)
-
-## Arduino Blog
-- [Find the best bar with a smart DIY compass!](https://blog.arduino.cc/2016/05/03/find-the-best-bar-with-a-smart-diy-compass/)
-
-## Hackaday
-- [An Open Source Lead Tester](http://hackaday.com/2016/05/03/an-open-source-lead-tester/)
 
 ## SparkFun Electronics Blog Posts
 - [T³: Battery Basics](https://www.sparkfun.com/news/2091)
