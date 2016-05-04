@@ -1,5 +1,8 @@
 # sfx
 
+## Jobs
+- [Physicist](https://www.usajobs.gov/GetJob/ViewDetails/437793900)
+
 ## NIH News Release
 - [Age-related macular degeneration before and after the era of anti-VEGF drugs](https://www.nih.gov/news-events/news-releases/age-related-macular-degeneration-before-after-era-anti-vegf-drugs)
 - [NIH resources to help families navigate pediatric palliative care](https://www.nih.gov/news-events/news-releases/nih-resources-help-families-navigate-pediatric-palliative-care)
@@ -17,9 +20,14 @@
 - [Notice of National Cancer Institute's Participation in PA-16-187 "Mechanisms, Models, Measurement,  and  Management in Pain Research (R21)"](http://grants.nih.gov/grants/guide/notice-files/NOT-CA-16-043.html)
 - [Notice of Intent to Release Names of NIH-Funded Research Project Personnel in the NIH Research Portfolio Online Reporting Tools Expenditures and Results (RePORTER) System](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-088.html)
 - [Notice of Correction of Expiration Date for RFA-RM-15-020 Limited Competition - Stimulating Peripheral Activity to Relieve Conditions (SPARC): Foundational Functional Mapping of Neuroanatomy and Neurobiology of Organs (OT2)](http://grants.nih.gov/grants/guide/notice-files/NOT-RM-16-013.html)
+- [Health Services Research on Minority Health and Health Disparities (R01)](http://grants.nih.gov/grants/guide/pa-files/PAR-16-221.html)
+- [Health Services Research on Minority Health and Health Disparities (R21)](http://grants.nih.gov/grants/guide/pa-files/PAR-16-222.html)
+- [BD2K Mentored Career Development Award in Biomedical  Big Data Science for Clinicians and Doctorally Prepared Scientists (K01)](http://grants.nih.gov/grants/guide/rfa-files/RFA-ES-16-002.html)
+- [BD2K Mentored Career Development Award in Biomedical  Big Data Science for Intramural Investigators (K22)](http://grants.nih.gov/grants/guide/rfa-files/RFA-ES-16-003.html)
 - [Mechanism for Time-Sensitive Opportunity in Environmental Health Sciences (R21)](http://grants.nih.gov/grants/guide/rfa-files/RFA-ES-16-005.html)
 
 ## News
+- [Making Waves on Mira](http://1.usa.gov/1NjV6tQ)
 - [A Cleansing Rain Falls; A Soil-Filled Mist Arises](http://1.usa.gov/24xtw0r)
 
 ## NSF News

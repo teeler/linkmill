@@ -1,6 +1,6 @@
 # cashish
 
-## Latest Filings - Wed, 04 May 2016 13:00:21 EDT
+## Latest Filings - Wed, 04 May 2016 13:41:39 EDT
 - [13F-HR - Bowling Portfolio Management LLC (0001322590) (Filer)](http://www.sec.gov/Archives/edgar/data/1322590/000132259016000012/0001322590-16-000012-index.htm)
 - [13F-HR - J&P(CHINA)CAPITAL MANAGEMENT CO.,LTD (0001605949) (Filer)](http://www.sec.gov/Archives/edgar/data/1605949/000160594916000011/0001605949-16-000011-index.htm)
 - [13F-HR - Johanson Financial Advisors, Inc. (0001665589) (Filer)](http://www.sec.gov/Archives/edgar/data/1665589/000108514616003571/0001085146-16-003571-index.htm)
@@ -31,12 +31,6 @@
 - [13F-HR - BlueCrest Capital Management Ltd (0001610880) (Filer)](http://www.sec.gov/Archives/edgar/data/1610880/000114036116063017/0001140361-16-063017-index.htm)
 - [13F-NT - Credit Suisse (Italy) S.p.a. (0001428599) (Filer)](http://www.sec.gov/Archives/edgar/data/1428599/000114036116063006/0001140361-16-063006-index.htm)
 - [13F-HR - STARR INTERNATIONAL CO INC (0001236615) (Filer)](http://www.sec.gov/Archives/edgar/data/1236615/000114036116063001/0001140361-16-063001-index.htm)
-- [13F-HR - STALEY CAPITAL ADVISERS INC (0001106565) (Filer)](http://www.sec.gov/Archives/edgar/data/1106565/000110656516000010/0001106565-16-000010-index.htm)
-- [13F-HR - C.V. Starr & Co., Inc. Trust (0001393369) (Filer)](http://www.sec.gov/Archives/edgar/data/1393369/000114036116062992/0001140361-16-062992-index.htm)
-- [13F-HR - GAGNON SECURITIES LLC (0001125725) (Filer)](http://www.sec.gov/Archives/edgar/data/1125725/000101905616001288/0001019056-16-001288-index.htm)
-- [13F-HR - Gagnon Advisors, LLC (0001599466) (Filer)](http://www.sec.gov/Archives/edgar/data/1599466/000101905616001286/0001019056-16-001286-index.htm)
-- [13F-HR - MIDDLETON & CO INC/MA (0000919497) (Filer)](http://www.sec.gov/Archives/edgar/data/919497/000142050616000928/0001420506-16-000928-index.htm)
-- [13F-HR - C V STARR & CO INC (0001340459) (Filer)](http://www.sec.gov/Archives/edgar/data/1340459/000114036116062987/0001140361-16-062987-index.htm)
 
 ## Press Releases
 - [SEC Adopts Amendments to Implement JOBS Act and FAST Act Changes for Exchange Act Registration Requirements](http://www.sec.gov/news/pressrelease/2016-81.html)
@@ -58,9 +52,6 @@
 - [Why HSBC, Texas Roadhouse, Clorox and Two Other Stocks Are Trending Today](http://feedproxy.google.com/~r/InsiderMonkey/~3/uMqzS07UnsQ/)
 - [Why These Five Stocks Are on the Move Today?](http://feedproxy.google.com/~r/InsiderMonkey/~3/bwtod5ZydUE/)
 - [Heavy Insider Selling at Pioneer Natural Resources (PXD), BNY Mellon (BK), Graphic Packaging (GPK)](http://feedproxy.google.com/~r/InsiderMonkey/~3/OhTOj4uI7Og/)
-- [5 Energy Stocks Lucas Capital Likes for Q2](http://feedproxy.google.com/~r/InsiderMonkey/~3/piGZLJioD_c/)
-- [Why These Stocks Are in Spotlight Today?](http://feedproxy.google.com/~r/InsiderMonkey/~3/LNNrcrqzyoc/)
-- [The Only 4 Stocks That Matter to VY Capital](http://feedproxy.google.com/~r/InsiderMonkey/~3/z4dsaLZHBmA/)
 
 ## The Globe and Mail - Globe Investor
 - [For patient investors, this utility stock offers steady growth](http://www.theglobeandmail.com/globe-investor/investment-ideas/strategy-lab/dividend-investing/canadian-utilities-is-moving-in-the-right-direction/article29840159/?cmpid=rss1)
@@ -76,8 +67,5 @@
 - [Chart Watch: Selling pressure ahead, but bulls control the market](http://www.theglobeandmail.com/globe-investor/investment-ideas/research-reports/chart-watch-selling-pressure-ahead-but-bulls-control-the-market/article29831995/?cmpid=rss1)
 - [Three top stock picks from Industrial Alliance’s John DeGoey](http://www.theglobeandmail.com/globe-investor/funds-and-etfs/etfs/three-top-stock-picks-from-industrial-alliances-john-degoey/article29831658/?cmpid=rss1)
 - [The one major currency losing ground against the U.S. dollar](http://www.theglobeandmail.com/report-on-business/economy/currencies/the-one-major-currency-losing-ground-against-the-us-dollar/article29831626/?cmpid=rss1)
-- [Has the TSX peaked? ‘We doubt it’](http://www.theglobeandmail.com/report-on-business/top-business-stories/is-the-tsx-peaking-we-doubt-it/article29830832/?cmpid=rss1)
-- [TSX, Dow tumble as global growth fears resurface](http://www.theglobeandmail.com/globe-investor/inside-the-market/market-updates/at-the-open-tsx-falls-as-lower-oil-weighs-on-energy-stocks/article29830797/?cmpid=rss1)
-- [Tuesday’s TSX breakouts: Another earnings beat could send this stock higher](http://www.theglobeandmail.com/globe-investor/inside-the-market/tuesdays-tsx-breakouts-another-earnings-beat-could-send-this-stock-higher/article29830698/?cmpid=rss1)
 
 

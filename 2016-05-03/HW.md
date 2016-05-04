@@ -2,10 +2,8 @@
 
 ## Adafruit Industries – Makers, hackers, artists, designers and engineers!
 - [Add Ribbon Cable, Sensors to any Cake to Upgrade it to ‘Connected Cake’ Status #IoT #IoTuesday](https://blog.adafruit.com/2016/05/03/add-ribbon-cable-sensors-to-any-cake-to-upgrade-it-to-connected-cake-status-iot-iotuesday/)
-- [Anatomical Animal Balloons By Jason Freeny #ArtTuesday](https://blog.adafruit.com/2016/05/03/anatomical-animal-balloons-by-jason-freeny-arttuesday/)
 - [Andrew Salomone’s Alone Together Cosplay #ArtTuesday](https://blog.adafruit.com/2016/05/03/andrew-salomones-alone-together-cosplay-arttuesday/)
 - [Ballet Dancers Practicing On The Streets Of Cuba #ArtTuesday](https://blog.adafruit.com/2016/05/03/ballet-dancers-practicing-on-the-streets-of-cuba-arttuesday/)
-- [Can AI fix education? The Verge asked Bill Gates #makereducation](https://blog.adafruit.com/2016/05/03/can-ai-fix-education-the-verge-asked-bill-gates-makereducation/)
 - [Carole A. Feuerman’s Incredible Lifelike Sculptures #ArtTuesday](https://blog.adafruit.com/2016/05/03/carole-a-feuermans-incredible-lifelike-sculptures-arttuesday/)
 - [Coming October 2016: the Art of Atari Hardcover Book #ArtTuesday](https://blog.adafruit.com/2016/05/03/coming-october-2016-the-art-of-atari-hardcover-book-arttuesday/)
 - [Compare & Contrast: Two ESP8266 WiFi Relay Modules #IoT #IoTuesday](https://blog.adafruit.com/2016/05/03/compare-contrast-two-esp8266-wifi-relay-modules-iot-iotuesday/)
@@ -22,14 +20,11 @@
 - [Off the Beat and Into a Museum: Art Helps Police Officers Learn to Look #ArtTuesday](https://blog.adafruit.com/2016/05/03/off-the-beat-and-into-a-museum-art-helps-police-officers-learn-to-look-arttuesday/)
 - [Pseudorandom – Light to Sounds (music video)](https://blog.adafruit.com/2016/05/03/pseudorandom-light-to-sounds-music-video/)
 - [Raspberry Pi Camera v2 and Your Dashboards. This is the #AdafruitIO Weekly Update #IoTuesday](https://blog.adafruit.com/2016/05/03/raspberry-pi-camera-v2-and-your-dashboards-this-is-the-adafruitio-weekly-update-iotuesday/)
-- [Science Project Report From a 7th Grader: Testing Laundry Detergents #MakerEducation](https://blog.adafruit.com/2016/05/03/science-project-report-from-a-7th-grader-testing-laundry-detergents/)
 - [Sub-$100 Vehicular LiDAR Laser Distance Sensor uses Nexus 5 Smartphone, Common Components](https://blog.adafruit.com/2016/05/03/sub-100-vehicular-lidar-laser-distance-sensor-uses-nexus-5-smartphone-common-components/)
 - [The 2016 Internet of Things ‘Landscape’ Wall Chart, by @mattturck #IoT #IoTuesday](https://blog.adafruit.com/2016/05/03/the-2016-internet-of-things-landscape-wall-chart-by-mattturck-iot-iotuesday/)
 - [The Frick Scores a Trove of 450 Historical Medals #ArtTuesday](https://blog.adafruit.com/2016/05/03/the-frick-scores-a-trove-of-450-historical-medals-arttuesday/)
 - [The Ketogenic Diet 101 – Hacking fuel sources, gadgets and more…](https://blog.adafruit.com/2016/05/03/the-ketogenic-diet-101-hacking-fuel-sources-gadgets-and-more/)
-- [Time Travel Tuesday #timetravel a look back at the Adafruit, maker, science, technology and engineering world](https://blog.adafruit.com/2016/05/03/time-travel-tuesday-timetravel-a-look-back-at-the-adafruit-maker-science-technology-and-engineering-world-146/)
 - [Tiny Xenomorph Costume Terrorized WonderCon with Cuteness](https://blog.adafruit.com/2016/05/03/tiny-xenomorph-costume-terrorized-wondercon-with-cuteness/)
-- [Torch of Gondor Costume](https://blog.adafruit.com/2016/05/03/torch-of-gondor-costume/)
 - [Innovative Shirt Allows the Deaf to Be Touched by Music #WearableWednesday](https://blog.adafruit.com/2016/05/04/innovative-shirt-allows-the-deaf-to-be-touched-by-music-wearablewednesday/)
 - [Karolina Kurkova wore a bunch of Adafruit products to the #MetGala #WearableWednesday @karolinakurkova @IBM @marchesafashion](https://blog.adafruit.com/2016/05/04/karolina-kurkova-wore-a-bunch-of-adafruit-products-to-the-metgala-wearablewednesday-karolinakurkova-ibm-marchesafashion/)
 - [Star Wars Day: May the 4th Be With You #StarWarsDay](https://blog.adafruit.com/2016/05/04/star-wars-day-may-the-4th-be-with-you-starwarsday/)
@@ -57,6 +52,22 @@
 - [Excellent photographers handbook design by LIFE magazine](https://publiclab.org/notes/show/13066)
 - [Report out: Eau Claire event](https://publiclab.org/notes/show/13067)
 
+## Dangerous Prototypes
+- [3V3/30V DC/DC converter using SN6505A](http://dangerousprototypes.com/2016/05/03/3v330v-dcdc-converter-using-sn6505a/)
+- [#FreePCB via Twitter to 2 random RTs](http://dangerousprototypes.com/2016/05/03/freepcb-via-twitter-to-2-random-rts-224/)
+- [HOW-TO: Add live websites to GIT without interruptions or security risks](http://dangerousprototypes.com/2016/05/03/how-to-add-live-websites-to-git-without-interruptions-or-security-risks/)
+- [Philips T8 LED tube teardown](http://dangerousprototypes.com/2016/05/03/philips-t8-led-tube-teardown/)
+
+## Pinboard (items tagged electronics)
+- [Art + Music + Technology](http://artmusictech.libsyn.com/)
+- [BTPA Audio Electronics](http://btpa.com/05DL5M.html)
+- [Megaprocessor](http://megaprocessor.com/index.html)
+- [Alorium Technology | Accelerating the Future](http://www.aloriumtech.com/)
+- [How Kalman Filters Work, Part 1 | An Uncommon Lab](http://www.anuncommonlab.com/articles/how-kalman-filters-work/)
+- [Raspberry Pi Project Collection](http://www.codemade.io/pin/category/raspberry-pi/)
+- [Elecfreaks Store](http://www.elecfreaks.com/estore/)
+- [Circuit Simulator Applet](http://www.falstad.com/circuit/)
+
 ## Atmel Bits & Pieces
 - [Birdhouses may soon detect forest fires and call for help](http://blog.atmel.com/2016/05/03/birdhouses-may-soon-detect-forest-fires-and-call-for-help/?utm_source=rss&utm_medium=rss)
 - [Lumi is a gamified drone that the whole family can enjoy](http://blog.atmel.com/2016/05/03/lumi-is-a-gamified-drone-that-the-whole-family-can-enjoy/?utm_source=rss&utm_medium=rss)
@@ -71,20 +82,23 @@
 - [Upgrade Your DIY Rubber Stamps with Simple, Modern Handles](http://feedproxy.google.com/~r/makezineonline/~3/WhthT8UAwi8/)
 - [Add Versatility to Your Belt Sander with a DIY 3-Position Stand](http://feedproxy.google.com/~r/makezineonline/~3/zbGsfKStorw/)
 
-## Dangerous Prototypes
-- [3V3/30V DC/DC converter using SN6505A](http://dangerousprototypes.com/2016/05/03/3v330v-dcdc-converter-using-sn6505a/)
-- [#FreePCB via Twitter to 2 random RTs](http://dangerousprototypes.com/2016/05/03/freepcb-via-twitter-to-2-random-rts-224/)
-- [HOW-TO: Add live websites to GIT without interruptions or security risks](http://dangerousprototypes.com/2016/05/03/how-to-add-live-websites-to-git-without-interruptions-or-security-risks/)
-- [Philips T8 LED tube teardown](http://dangerousprototypes.com/2016/05/03/philips-t8-led-tube-teardown/)
+## Pinboard (items tagged maker)
+- [Codemade](http://www.codemade.io/)
+- [When Makers Apply to College — Learning Machine Blog — Medium](https://medium.com/learning-machine-blog/when-makers-apply-to-college-f0b28a70d02e#.vtrajnv67)
+- [Homemade Hoverbike - YouTube](https://www.youtube.com/watch?v=soxxPyaAT1k)
+
+## Pinboard (items tagged hardware)
+- [Report: Apple designing its own servers to avoid snooping | Ars Technica](http://arstechnica.com/information-technology/2016/03/report-apple-designing-its-own-servers-to-avoid-snooping/)
+- [Using Lego-Like Bricks to Teach Kids Braille Is a Stroke of Genius](http://gizmodo.com/using-lego-like-bricks-to-teach-kids-braille-is-a-strok-1774438336)
+- [HP Unveils Premium Chromebook: 3K Display, Intel Core M, 16 GB of RAM and USB-C](http://www.anandtech.com/show/10291/hp-unveils-premium-chromebook-3k-display-intel-core-m3-16-gb-of-ram-and-usbc)
+- [Can't Hack a Hacker: Reverse Engineering a Discovered ATM Skimmer - TrustFoundry](https://trustfoundry.net/reverse-engineering-a-discovered-atm-skimmer/)
+- [Open Source Storage Server: 60 Hard Drives 480TB Storage](https://www.backblaze.com/blog/open-source-data-storage-server/)
 
 ## Arduino Blog
 - [Find the best bar with a smart DIY compass!](https://blog.arduino.cc/2016/05/03/find-the-best-bar-with-a-smart-diy-compass/)
 
 ## Hackaday
 - [An Open Source Lead Tester](http://hackaday.com/2016/05/03/an-open-source-lead-tester/)
-- [DNA Extraction With A 3D-Printed Centrifuge](http://hackaday.com/2016/05/03/dna-extraction-with-a-3d-printed-centrifuge/)
-- [Retrotechtacular: TV Troubleshooting](http://hackaday.com/2016/05/03/retrotechtacular-tv-troubleshooting/)
-- [Soldering Iron Cauterization](http://hackaday.com/2016/05/03/soldering-iron-cauterization/)
 
 ## SparkFun Electronics Blog Posts
 - [T³: Battery Basics](https://www.sparkfun.com/news/2091)
