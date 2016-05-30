@@ -381,3 +381,18 @@
   * [sec](2016-05-27/sec.md)
   * [sfx](2016-05-27/sfx.md)
 
+* [2016-05-28](2016-05-28/index.md)
+  * [FOOD](2016-05-28/FOOD.md)
+  * [HW](2016-05-28/HW.md)
+  * [Linkmillery](2016-05-28/Linkmillery.md)
+  * [Media](2016-05-28/Media.md)
+  * [SEA](2016-05-28/SEA.md)
+  * [cashish](2016-05-28/cashish.md)
+  * [funky](2016-05-28/funky.md)
+  * [home](2016-05-28/home.md)
+  * [journals](2016-05-28/journals.md)
+  * [legal](2016-05-28/legal.md)
+  * [p](2016-05-28/p.md)
+  * [sec](2016-05-28/sec.md)
+  * [sfx](2016-05-28/sfx.md)
+
