@@ -119,6 +119,10 @@ Minneapolis, October 20  / Chicago, October 21...](http://jakeandamir.com/post/
 - [File Number: 1226-EX-ST-2016, Callsign: WK9XJS](../reports/GetApplicationInfo.cfm?id_file_num=1226-EX-ST-2016)
 - [File Number: 0043-EX-CR-2016, Callsign: WH2XCI](../reports/GetApplicationInfo.cfm?id_file_num=0043-EX-CR-2016)
 
+## Marketocracy Masters
+- [Cause For Celebration In The Duchenne Muscular Dystrophy Community](http://www.forbes.com/sites/kenkam/2016/09/19/cause-for-celebration-in-the-duchenne-muscular-dystrophy-community/)
+- [After Losing Medivation, Who Is Gilead Going After Next?](http://www.forbes.com/sites/kenkam/2016/09/19/who-is-gilead-about-to-buy/)
+
 ## GOOD
 - [One Man&rsquo;s Small Act Of Kindness For NYC Cops Is Going Viral](http://www.good.is/posts/starbucks-employee-free-coffee-police-nyc-bombing)
 - [100-Year-Old Theater Turned Bookstore Is Every Bibliophile&rsquo;s Dream Come True](http://www.good.is/posts/theater-turned-bookstore)
@@ -220,6 +224,13 @@ Minneapolis, October 20  / Chicago, October 21...](http://jakeandamir.com/post/
 - [Tina Fey reacted exactly the same way you did to the Bill Cosby joke last night.](http://www.someecards.com/entertainment/tv/tina-fey-bill-cosby-joke-emmys/)
 - [Kate McKinnon's tear-filled Emmys acceptance speech was exactly as adorable as she always is.](http://www.someecards.com/entertainment/celebrities/kate-mckinnon-emmy-speech/)
 - [](http://www.someecards.com/congratulations-cards/congratulations-remember-bad-decisions-weekend-funny-ecard)
+
+## HotLinks
+- [botsplaining](http://botsplaining.tumblr.com/)
+- [Yemeni mountain village](http://www.theatlantic.com/photo/2016/09/far-from-the-war-yemens-remote-mountain-villages/500585/)
+- [The Last Epiphany](http://www.eod.com/blog/2016/09/the-last-epiphany/)
+- [The cypherpunk revolution](http://passcode.csmonitor.com/cypherpunk)
+- [19 months driving Africa](http://imgur.com/gallery/bSOKf)
 
 ## Colossal
 - [Cosmic Hand-Painted Animal Gloves by Artist Bunnie Reiss](http://www.thisiscolossal.com/2016/09/cosmic-hand-painted-animal-gloves-by-artist-bunnie-reiss/)

@@ -1,5 +1,8 @@
 # cashish
 
+## Latest Filings - Tue, 20 Sep 2016 23:25:30 EDT
+- [13F-HR/A - Pinkerton Retirement Specialists, LLC (0001536446) (Filer)](http://www.sec.gov/Archives/edgar/data/1536446/000114420416124394/0001144204-16-124394-index.htm)
+
 ## Press Releases
 - [Ernst & Young, Former Partners Charged With Violating Auditor Independence Rules](http://www.sec.gov/news/pressrelease/2016-187.html)
 

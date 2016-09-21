@@ -2,7 +2,7 @@
 
 pushd .
 cd /Users/rtp/work/linkmill.4
-./linkmill.py -c teeler.d -s '' -o ~/github/linkmill/
+./linkmill.py -c teeler.d -o ~/github/linkmill/
 popd
 ./summary.sh
 git add -A
