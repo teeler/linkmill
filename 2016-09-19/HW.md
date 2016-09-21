@@ -17,7 +17,6 @@
 - [Playing night rider with three 74HC595s #ArduinoMonday](https://blog.adafruit.com/2016/09/19/playing-night-rider-with-three-74hc595s-arduinomonday/)
 - [Pokémon Go Egg Incubator Prop](https://blog.adafruit.com/2016/09/19/pokemon-go-egg-incubator-prop/)
 - [Pouring on the solder paste #ManufacturingMonday (video)](https://blog.adafruit.com/2016/09/19/pouring-on-the-solder-paste-manufacturingmonday-video/)
-- [‘Rubber Band Thermodynamics’ – A Refrigerator Powered by Stretching Rubber Bands](https://blog.adafruit.com/2016/09/19/rubber-band-thermodynamics-a-refrigerator-powered-by-stretching-rubber-bands/)
 - [Stranger Things Theme Played Live on Stellar Synth Setup #StrangerThings #MusicMonday](https://blog.adafruit.com/2016/09/19/stranger-things-theme-played-live-on-stellar-synth-setup-strangerthings-musicmonday/)
 - [That Maker Show: Introduction to Microcontrollers](https://blog.adafruit.com/2016/09/19/that-maker-show-introduction-to-microcontrollers/)
 - [The British Wildlife Photography Awards 2016: The Winners](https://blog.adafruit.com/2016/09/19/the-british-wildlife-photography-awards-2016-the-winners/)

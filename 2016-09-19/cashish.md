@@ -1,13 +1,10 @@
 # cashish
 
-## Latest Filings - Tue, 20 Sep 2016 23:25:30 EDT
-- [13F-HR/A - Pinkerton Retirement Specialists, LLC (0001536446) (Filer)](http://www.sec.gov/Archives/edgar/data/1536446/000114420416124394/0001144204-16-124394-index.htm)
-
 ## Press Releases
 - [Ernst & Young, Former Partners Charged With Violating Auditor Independence Rules](http://www.sec.gov/news/pressrelease/2016-187.html)
 
-## Insider Monkey – Free Hedge Fund and Insider Trading Data
-- [GM Bulls Out in Force, Oclaro Makes Offering, Plus 3 More Trending Stocks](http://feedproxy.google.com/~r/InsiderMonkey/~3/U_MB1CG6ank/)
+## Latest Filings - Wed, 21 Sep 2016 00:04:00 EDT
+- [13F-HR/A - Pinkerton Retirement Specialists, LLC (0001536446) (Filer)](http://www.sec.gov/Archives/edgar/data/1536446/000114420416124394/0001144204-16-124394-index.htm)
 
 ## The Globe and Mail - Globe Investor
 - [Asia stocks waver as investors nervously await Fed, BOJ](http://www.theglobeandmail.com/globe-investor/markets/asia-stocks-waver-as-investors-nervously-await-fed-boj/article31961988/?cmpid=rss1)
