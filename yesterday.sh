@@ -3,6 +3,7 @@
 pushd .
 cd /Users/rtp/work/linkmill.4
 ./linkmill.py -c teeler.d -o ~/github/linkmill/
+echo "Exited: $?"
 popd
 ./summary.sh
 ssh-add ~/.ssh/github
