@@ -11,7 +11,7 @@ done
 
 pushd .
 cd /Users/rtp/work/linkmill.4
-./linkmill.py -n false -c teeler.d -o ~/github/linkmill/
+./linkmill.py -c teeler.d -o ~/github/linkmill/
 echo "Exited: $?"
 popd
 ./summary.sh
