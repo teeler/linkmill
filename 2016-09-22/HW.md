@@ -31,16 +31,43 @@
 - [Raspberry Pi Powered Face Tracking Desk Fan @Raspberry_Pi #piday #raspberrypi](https://blog.adafruit.com/2016/09/23/raspberry-pi-powered-face-tracking-desk-fan-raspberry_pi-piday-raspberrypi/)
 - [The robots making 100,000 Raspberry Pi computers a week #piday #raspberrypi @Raspberry_Pi](https://blog.adafruit.com/2016/09/23/the-robots-making-100000-raspberry-pi-computers-a-week-piday-raspberrypi-raspberry_pi/)
 
+## Pinboard (items tagged arduino)
+- [BLEduino: Bluetooth 4.0 Made Easy](http://bleduino.cc/start/examples/)
+- [[tutorial] EMIC2 | codebender's blog](http://blog.codebender.cc/2014/02/20/emic2/)
+- [Arduino controlled electric height adjustable desk - Page 2](http://forum.arduino.cc/index.php?topic=316282.15)
+- [Arduino Weather Station Data Analysis | MakerZone](http://makerzone.mathworks.com/resources/arduino/weather-station-data-analysis/)
+- [Guide for WS2812B Addressable RGB LED Strip with Arduino](http://randomnerdtutorials.com/guide-for-ws2812b-addressable-rgb-led-strip-with-arduino/)
+- [‎roombahacking.com/software/arduino/RoombaBumpTurn.pde](http://roombahacking.com/software/arduino/RoombaBumpTurn.pde)
+- [Snootlab: Shields and kits for Arduino](http://snootlab.com/)
+- [Weather Station Wirelessly Connected to Wunderground - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/weather-station-wirelessly-connected-to-wunderground)
+- [Samy Kamkar: MagSpoof - credit card/magstripe spoofer](https://samy.pl/magspoof/)
+- [Raspberry Pi to Arduino Shields Connection Bridge](https://www.cooking-hacks.com/documentation/tutorials/raspberry-pi-to-arduino-shields-connection-bridge#step4)
+- [How to build a robot that “sees” with $100 and TensorFlow - O'Reilly Media](https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow?twitter=@bigdata)
+- [Emic 2 Text-to-Speech Module (#30016)](https://www.parallax.com/sites/default/files/downloads/30016-Emic-2-Text-To-Speech-Documentation-v1.2.pdf)
+
 ## Recent research notes on PublicLab.org
 - [Reduce interior reflections in your spectrometer with black ink](https://publiclab.org/notes/show/13470)
+- [All Paper-n-Tape Mock-Up Upgrade of PLab 3 Spectrometer](https://publiclab.org/notes/show/13471)
+
+## Dangerous Prototypes
+- [Manufacturing in China – What you should know](http://dangerousprototypes.com/blog/2016/09/23/manufacturing-in-china-what-you-should-know/)
+
+## Pinboard (items tagged electronics)
+- [Electron - Build cross platform desktop apps with JavaScript, HTML, and CSS.](http://electron.atom.io/)
+- [Electric Motor Runs backwards, Cap OK - Electric motors & generators engineering - Eng-Tips](http://www.eng-tips.com/viewthread.cfm?qid=338598)
+- [Programming the AVR microcontroller with GCC](http://www.tuxgraphics.org/electronics/200411/article352.shtml)
+- [Mechaduino • Hackaday.io](https://hackaday.io/project/11224-mechaduino)
+- [Pi Cart: a Raspberry Pi Retro Gaming Rig in an NES Cartridge - howchoo](https://howchoo.com/g/mti0oge5nzk/pi-cart-a-raspberry-pi-retro-gaming-rig-in-an-nes-cartridge)
+- [Amazon.com: H. Ward Silver: Books, Biography, Blog, Audiobooks, Kindle](https://www.amazon.com/H.-Ward-Silver/e/B001IGOAJ2)
+- [How to build a robot that “sees” with $100 and TensorFlow - O'Reilly Media](https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow?twitter=@bigdata)
 
 ## Make: DIY Projects and Ideas for Makers
 - [Quick Tip: Perspective Drawing with String and a Paper Clip](http://feedproxy.google.com/~r/makezineonline/~3/Iae9Stp25_s/)
 - [Nepal Joins Maker Movement with Humanitarian-Focused Mini Maker Faire](http://feedproxy.google.com/~r/makezineonline/~3/aZLQSn0CQ5s/)
 - [We’re Giving Away a Brick Pizza Oven, and It Might be to You](http://feedproxy.google.com/~r/makezineonline/~3/qEUlvbiROXo/)
 
-## Dangerous Prototypes
-- [Manufacturing in China – What you should know](http://dangerousprototypes.com/blog/2016/09/23/manufacturing-in-china-what-you-should-know/)
+## Pinboard (items tagged maker)
+- [RegExr: Learn, Build, & Test RegEx](http://regexr.com/)
 
 ## Adafruit Learning System | Latest Published Guides
 - [Adafruit MAX31856 Universal Thermocouple Amplifier](https://learn.adafruit.com/adafruit-max31856-thermocouple-amplifier)
@@ -50,6 +77,25 @@
 - [An animatronic talking takeout container](https://blog.arduino.cc/2016/09/22/an-animatronic-talking-takeout-container/)
 - [IDE 1.6.12 released with Sierra support and more](https://blog.arduino.cc/2016/09/22/ide-1-6-12-released-with-sierra-support-and-more/)
 - [Build your own robotic vacuum from scratch](https://blog.arduino.cc/2016/09/23/build-your-own-robotic-vacuum-from-scratch/)
+
+## Pinboard (items tagged hardware)
+- [Electric Motor Runs backwards, Cap OK - Electric motors & generators engineering - Eng-Tips](http://www.eng-tips.com/viewthread.cfm?qid=338598)
+- [iPhone 7 Estimated to Cost Apple $220 in Materials - iClarified](http://www.iclarified.com/56992/iphone-7-estimated-to-cost-apple-220-in-materials)
+- [Wave Bubble](http://www.ladyada.net/make/wavebubble/)
+- [HP EliteBook Folio 1040 G3 Notebook Review - NotebookCheck.net Reviews](http://www.notebookcheck.net/HP-EliteBook-Folio-1040-G3-Notebook-Review.164469.0.html)
+- [What it's like to have the fastest internet in the country | PC Gamer](http://www.pcgamer.com/what-its-like-to-have-the-fastest-internet-speeds-in-the-country/)
+- [The World of Liquid Crystal Displays](http://www.personal.kent.edu/~mgu/LCD/home.htm)
+- [A first look at the amazing amount of tech packed inside Apple’s 3.5mm to Lightning adapter [Video] | 9to5Mac](https://9to5mac.com/2016/09/20/apple-3-5mm-to-lighting-adapter-teardown/)
+- [michaeldexter comments on: What laptop and BSD flavor do you use? | Lobsters](https://lobste.rs/s/adalgd/what_laptop_bsd_flavor_do_you_use/comments/erdjvk#c_erdjvk)
+- [Survey of Alternative Displays](https://medium.com/@laserpilot/survey-of-alternative-displays-82d928480b9d#.8uxlhfhl7)
+- [Twitter](https://mobile.twitter.com/BrianRoemmele/status/778372176365834240)
+- [U2F Zero](https://u2fzero.com/)
+- [Amazon.com: WD 1TB Black My Passport Ultra Portable External Hard Drive - USB 3.0 - WDBGPU0010BBK-NESN: Computers & Accessories](https://www.amazon.com/exec/obidos/ASIN/B00W8XXRPM/cooltools-20)
+- [Anker | PowerCore+ 26800 & PowerPort+ 1 | Black](https://www.anker.com/products/B1372111)
+- [CIRCL » CIRCLean - USB key sanitizer](https://www.circl.lu/projects/CIRCLean/)
+- [Electric Objects - A Computer Made for Art](https://www.electricobjects.com/)
+- [Introducing the Netgate SG-1000 microFirewall (Pre-loaded with pfSense) : sysadmin](https://www.reddit.com/r/sysadmin/comments/50bdzh/introducing_the_netgate_sg1000_microfirewall/?)
+- [DIY Gaming Table for $150 - YouTube](https://www.youtube.com/watch?v=spdescYFqIE)
 
 ## SparkFun Electronics Blog Posts
 - [The Official Stock Photo Guide to Solar Power](https://www.sparkfun.com/news/2192)

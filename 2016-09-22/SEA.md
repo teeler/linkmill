@@ -1,5 +1,9 @@
 # SEA
 
+## Seattle Transit Blog
+- [Rainier & Dearborn Queue Jump Slated for October](http://feedproxy.google.com/~r/seattletransitblog/rss/~3/9fN3I7rh-0A/)
+- [News Roundup: Coming Down](http://feedproxy.google.com/~r/seattletransitblog/rss/~3/SqAVbgq6d74/)
+
 ## seattlepi.com: Food & Recipes
 - [Winning in the kitchen: Curry cooks up career with new book](http://www.seattlepi.com/sports/article/Winning-in-the-kitchen-Curry-cooks-up-career-9239447.php)
 
@@ -19,9 +23,9 @@
 ## seattlepi.com: Opinion & Commentary
 - [Candace Calloway Whiting](http://blog.seattlepi.com/candacewhiting)
 
-## Seattle Transit Blog
-- [Rainier & Dearborn Queue Jump Slated for October](http://feedproxy.google.com/~r/seattletransitblog/rss/~3/9fN3I7rh-0A/)
-- [News Roundup: Coming Down](http://feedproxy.google.com/~r/seattletransitblog/rss/~3/SqAVbgq6d74/)
+## PhinneyWood
+- [Le Merde hosting pop-up art fundraiser Friday](http://phinneywood.com/2016/09/22/le-merde-hosting-pop-up-art-fundraiser-friday/)
+- [Carkeek Park’s Piper’s Orchard is part of City Fruit’s annual Orchard & Harvest Tour on Oct. 2](http://phinneywood.com/2016/09/22/carkeek-parks-pipers-orchard-is-part-of-city-fruits-annual-orchard-harvest-tour-on-oct-2/)
 
 ## News and current events in or about Seattle, WA, USA
 - [Surprise! A temporary no-parking sign pops up and cars get ticketed + towed within hours.](https://www.reddit.com/r/Seattle/comments/540pge/surprise_a_temporary_noparking_sign_pops_up_and/)
@@ -38,8 +42,7 @@
 - [What’s New for the 2016-2017 Season | Crystal Mountain Resort WA](https://www.reddit.com/r/Seattle/comments/540jlg/whats_new_for_the_20162017_season_crystal/)
 - [These housing markets are near the '7th inning stretch' before everything starts to crash: Seattle is one](https://www.reddit.com/r/Seattle/comments/540lfo/these_housing_markets_are_near_the_7th_inning/)
 
-## PhinneyWood
-- [Le Merde hosting pop-up art fundraiser Friday](http://phinneywood.com/2016/09/22/le-merde-hosting-pop-up-art-fundraiser-friday/)
-- [Carkeek Park’s Piper’s Orchard is part of City Fruit’s annual Orchard & Harvest Tour on Oct. 2](http://phinneywood.com/2016/09/22/carkeek-parks-pipers-orchard-is-part-of-city-fruits-annual-orchard-harvest-tour-on-oct-2/)
+## Pinboard (items tagged seattle)
+- [Robert Swift: From NBA lottery pick to drug addict to...](http://www.si.com/nba/2016/09/21/robert-swift-nba-drug-addiction-thunder-sonics)
 
 

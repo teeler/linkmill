@@ -1,51 +1,13 @@
 # cashish
 
-## Latest Filings - Thu, 22 Sep 2016 16:02:25 EDT
-- [4 - CHAZEN STEPHEN I (0001026545) (Reporting)](http://www.sec.gov/Archives/edgar/data/1026545/000114036116080547/0001140361-16-080547-index.htm)
-- [4 - OCCIDENTAL PETROLEUM CORP /DE/ (0000797468) (Issuer)](http://www.sec.gov/Archives/edgar/data/797468/000114036116080547/0001140361-16-080547-index.htm)
-- [4 - SALZMAN ERIC (0001512117) (Reporting)](http://www.sec.gov/Archives/edgar/data/1512117/000102373116000069/0001023731-16-000069-index.htm)
-- [4 - 8X8 INC /DE/ (0001023731) (Issuer)](http://www.sec.gov/Archives/edgar/data/1023731/000102373116000069/0001023731-16-000069-index.htm)
-- [3 - Nudi Jonathon (0001685072) (Reporting)](http://www.sec.gov/Archives/edgar/data/1685072/000089710116002949/0000897101-16-002949-index.htm)
-- [3 - GENERAL MILLS INC (0000040704) (Issuer)](http://www.sec.gov/Archives/edgar/data/40704/000089710116002949/0000897101-16-002949-index.htm)
-- [DEF 14C - OncoCyte Corp (0001642380) (Filer)](http://www.sec.gov/Archives/edgar/data/1642380/000156761916002997/0001567619-16-002997-index.htm)
-- [4 - ADENT JOHN EDWARD (0001651434) (Reporting)](http://www.sec.gov/Archives/edgar/data/1651434/000120919116142442/0001209191-16-142442-index.htm)
-- [4 - PATTERSON COMPANIES, INC. (0000891024) (Issuer)](http://www.sec.gov/Archives/edgar/data/891024/000120919116142442/0001209191-16-142442-index.htm)
-- [8-K - Hill-Rom Holdings, Inc. (0000047518) (Filer)](http://www.sec.gov/Archives/edgar/data/47518/000121465916013760/0001214659-16-013760-index.htm)
-- [SC 14D9/A - InvenTrust Properties Corp. (0001307748) (Subject)](http://www.sec.gov/Archives/edgar/data/1307748/000119312516717017/0001193125-16-717017-index.htm)
-- [8-K - HARMAN INTERNATIONAL INDUSTRIES INC /DE/ (0000800459) (Filer)](http://www.sec.gov/Archives/edgar/data/800459/000119312516717016/0001193125-16-717016-index.htm)
-- [4 - Robinson Donald T (0001349037) (Reporting)](http://www.sec.gov/Archives/edgar/data/1349037/000112760216063072/0001127602-16-063072-index.htm)
-- [4 - MVB FINANCIAL CORP (0001277902) (Issuer)](http://www.sec.gov/Archives/edgar/data/1277902/000112760216063072/0001127602-16-063072-index.htm)
-- [24F-2NT - INVESTMENT HOUSE FUNDS (0001160363) (Filer)](http://www.sec.gov/Archives/edgar/data/1160363/000111183016001661/0001111830-16-001661-index.htm)
-- [485BXT - iSHARES TRUST (0001100663) (Filer)](http://www.sec.gov/Archives/edgar/data/1100663/000119312516717015/0001193125-16-717015-index.htm)
-- [497 - FS Energy & Power Fund (0001501729) (Filer)](http://www.sec.gov/Archives/edgar/data/1501729/000104746916015630/0001047469-16-015630-index.htm)
-- [4 - Zynerba Pharmaceuticals, Inc. (0001621443) (Issuer)](http://www.sec.gov/Archives/edgar/data/1621443/000112329216002778/0001123292-16-002778-index.htm)
-- [4 - Fickenscher James E (0001327442) (Reporting)](http://www.sec.gov/Archives/edgar/data/1327442/000112329216002778/0001123292-16-002778-index.htm)
-- [D - HILLVIEW GLOBAL ALPHA FUND LP (0001348297) (Filer)](http://www.sec.gov/Archives/edgar/data/1348297/000134829716000003/0001348297-16-000003-index.htm)
-- [3 - Zynerba Pharmaceuticals, Inc. (0001621443) (Issuer)](http://www.sec.gov/Archives/edgar/data/1621443/000112329216002777/0001123292-16-002777-index.htm)
-- [3 - Fickenscher James E (0001327442) (Reporting)](http://www.sec.gov/Archives/edgar/data/1327442/000112329216002777/0001123292-16-002777-index.htm)
-- [D/A - Certigen Laboratory, LLC (0001653700) (Filer)](http://www.sec.gov/Archives/edgar/data/1653700/000165370016000002/0001653700-16-000002-index.htm)
-- [8-A12B - GLADSTONE INVESTMENT CORPORATION\DE (0001321741) (Filer)](http://www.sec.gov/Archives/edgar/data/1321741/000119312516717010/0001193125-16-717010-index.htm)
-- [4 - Evans Wilburn J. (0001684409) (Reporting)](http://www.sec.gov/Archives/edgar/data/1684409/000120919116142440/0001209191-16-142440-index.htm)
-- [4 - FB Financial Corp (0001649749) (Issuer)](http://www.sec.gov/Archives/edgar/data/1649749/000120919116142440/0001209191-16-142440-index.htm)
-- [485BXT - iSHARES TRUST (0001100663) (Filer)](http://www.sec.gov/Archives/edgar/data/1100663/000119312516717009/0001193125-16-717009-index.htm)
-- [8-K - WSFS FINANCIAL CORP (0000828944) (Filer)](http://www.sec.gov/Archives/edgar/data/828944/000119312516717008/0001193125-16-717008-index.htm)
-- [4 - STENEHJEM STEPHEN (0001102729) (Reporting)](http://www.sec.gov/Archives/edgar/data/1102729/000110272916000005/0001102729-16-000005-index.htm)
-- [4 - INVESTORS REAL ESTATE TRUST (0000798359) (Issuer)](http://www.sec.gov/Archives/edgar/data/798359/000110272916000005/0001102729-16-000005-index.htm)
-- [485BPOS - WESTERN ASSET FUNDS INC (0000863520) (Filer)](http://www.sec.gov/Archives/edgar/data/863520/000119312516717006/0001193125-16-717006-index.htm)
-- [485BXT - iSHARES TRUST (0001100663) (Filer)](http://www.sec.gov/Archives/edgar/data/1100663/000119312516717005/0001193125-16-717005-index.htm)
-- [4 - FB Financial Corp (0001649749) (Issuer)](http://www.sec.gov/Archives/edgar/data/1649749/000120919116142439/0001209191-16-142439-index.htm)
-- [4 - GORDON JAMES R (0001166788) (Reporting)](http://www.sec.gov/Archives/edgar/data/1166788/000120919116142439/0001209191-16-142439-index.htm)
-- [FWP - GS Finance Corp. (0001419828) (Subject)](http://www.sec.gov/Archives/edgar/data/1419828/000110465916146118/0001104659-16-146118-index.htm)
-- [485BXT - iShares U.S. ETF Trust (0001524513) (Filer)](http://www.sec.gov/Archives/edgar/data/1524513/000119312516717001/0001193125-16-717001-index.htm)
+## Latest Filings - Sat, 24 Sep 2016 00:41:37 EDT
+- [13F-HR - Fiduciary Wealth Partners, LLC (0001666504) (Filer)](http://www.sec.gov/Archives/edgar/data/1666504/000137647416000842/0001376474-16-000842-index.htm)
+- [13F-HR - Fiduciary Wealth Partners, LLC (0001666504) (Filer)](http://www.sec.gov/Archives/edgar/data/1666504/000137647416000841/0001376474-16-000841-index.htm)
 
 ## Insider Monkey – Free Hedge Fund and Insider Trading Data
 - [Arrowstreet Capital Gets Hype for Tech, Materials Stocks](http://feedproxy.google.com/~r/InsiderMonkey/~3/SDAVSFPtN5A/)
 - [43 Good Names For Investment Companies: Use Our Generator](http://feedproxy.google.com/~r/InsiderMonkey/~3/ecDfBeFWdMI/)
 - [AEW Capital Knows Real Estate and These Are Its Top Picks](http://feedproxy.google.com/~r/InsiderMonkey/~3/02laWWT0fRA/)
-
-## Latest Filings - Thu, 22 Sep 2016 16:02:28 EDT
-- [13F-HR - Fiduciary Wealth Partners, LLC (0001666504) (Filer)](http://www.sec.gov/Archives/edgar/data/1666504/000137647416000842/0001376474-16-000842-index.htm)
-- [13F-HR - Fiduciary Wealth Partners, LLC (0001666504) (Filer)](http://www.sec.gov/Archives/edgar/data/1666504/000137647416000841/0001376474-16-000841-index.htm)
 
 ## The Globe and Mail - Globe Investor
 - [Asian stocks hold near 14-month peak on Fed relief](http://www.theglobeandmail.com/globe-investor/markets/asian-stocks-hold-near-14-month-peak-on-fed-relief/article32019083/?cmpid=rss1)

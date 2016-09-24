@@ -246,6 +246,8 @@ Our justice must be swift and...](http://nprfreshair.tumblr.com/post/15078576163
 - [Meet the adults who create voices in their heads on purpose. They're called tulpamancers.](http://www.someecards.com/news/so-that-happened/tulpas-explain-imaginary-friends-voices-in-head/)
 
 ## HotLinks
+- [Palmer Luckey](http://www.thedailybeast.com/articles/2016/09/22/palmer-luckey-the-facebook-billionaire-secretly-funding-trump-s-meme-machine.html)
+- [Yahoo confirms every Yahoo Mail user ever hacked, two years ago](http://www.recode.net/2016/9/22/13021300/yahoo-hack-data-breach-500-million-accounts-stolen)
 - [Nazis in Manhattan](http://mashable.com/2016/07/27/nazis-madison-square-garden/#ZnI9aYFFraqi)
 - [Yahoo user database breach?](http://www.recode.net/2016/9/22/13012836/yahoo-is-expected-to-confirm-massive-data-breach-impacting-hundreds-of-millions-of-users)
 - [Beale U-2 crash](http://www.latimes.com/local/lanow/la-me-ln-spy-plane-pilot-identified-20160921-snap-story.html)

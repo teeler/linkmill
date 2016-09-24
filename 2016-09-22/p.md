@@ -3,6 +3,9 @@
 ## 
 - [Learn Python the right way in 5 steps](https://www.dataquest.io/blog/learn-python-the-right-way/)
 
+## EFavDB
+- [GPU-accelerated Theano & Keras with Windows 10](http://efavdb.com/gpu-accelerated-theano-keras-with-windows-10/)
+
 ## FlowingData
 - [Make your own tiled cartograms](http://flowingdata.com/2016/09/22/make-your-own-tiled-cartograms/)
 - [Finding the wet princes of Bel Air](http://flowingdata.com/2016/09/22/finding-the-wet-princes-of-bel-air/)
@@ -13,6 +16,16 @@
 ## Statistical Modeling, Causal Inference, and Social Science
 - [Multicollinearity causing risk and uncertainty](http://andrewgelman.com/2016/09/22/30824/)
 - [Why is the scientific replication crisis centered on psychology?](http://andrewgelman.com/2016/09/22/why-is-the-scientific-replication-crisis-centered-on-psychology/)
+
+## Data Analytics & R
+- [Book Memo: “Techniques and Environments for Big Data Analysis”](https://advanceddataanalytics.net/2016/09/23/book-memo-techniques-and-environments-for-big-data-analysis/)
+- [Book Memo: “Information Theory Tools for Visualization”](https://advanceddataanalytics.net/2016/09/23/book-memo-information-theory-tools-for-visualization/)
+- [R Packages worth a look](https://advanceddataanalytics.net/2016/09/23/r-packages-worth-a-look-566/)
+- [Document worth reading: “Multidimensional Scaling by Majorization: A Review”](https://advanceddataanalytics.net/2016/09/23/document-worth-reading-multidimensional-scaling-by-majorization-a-review/)
+- [If you did not already know: “Self-Organizing Systems”](https://advanceddataanalytics.net/2016/09/23/if-you-did-not-already-know-self-organizing-systems/)
+- [Magister Dixit](https://advanceddataanalytics.net/2016/09/23/magister-dixit-625/)
+- [Distilled News](https://advanceddataanalytics.net/2016/09/22/distilled-news-375/)
+- [Whats new on arXiv](https://advanceddataanalytics.net/2016/09/22/whats-new-on-arxiv-252/)
 
 ## R-bloggers
 - [an inverse permutation test](http://feedproxy.google.com/~r/RBloggers/~3/ZaS5Krhz600/)
