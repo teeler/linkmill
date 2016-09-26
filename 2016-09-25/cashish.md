@@ -3,10 +3,6 @@
 ## Dividend Earner
 - [Blue Chip Utility Stocks](http://www.dividendearner.com/blue-chip-utility-stocks/)
 
-## Insider Monkey – Free Hedge Fund and Insider Trading Data
-- [Billionaire Wilbur Ross Maintains Top Bets; Swaps Etsy Inc (ETSY) for Fitbit Inc (FIT)](http://feedproxy.google.com/~r/InsiderMonkey/~3/geNz7XMiaAk/)
-- [Billionaire David Abrams Maintains Stakes in The Western Union Company (WU), Microsoft Corporation (MSFT)](http://feedproxy.google.com/~r/InsiderMonkey/~3/XsWpLWNA5Sk/)
-
 ## Bronte Capital
 - [Comments on investment philosophy - part one of hopefully a few...](http://feedproxy.google.com/~r/BronteCapital/~3/qSxRoWb5GYQ/comments-on-investment-philosophy-part.html)
 
@@ -18,5 +14,6 @@
 - [Shift to index investing only in ‘early innings’](http://www.theglobeandmail.com/globe-investor/funds-and-etfs/etfs/vanguards-joe-brennan-on-the-evolution-of-index-funds/article32043753/?cmpid=rss1)
 - [Watch for a pullback before buying the TSX&#039;s top-performing financial stock this year](http://www.theglobeandmail.com/globe-investor/inside-the-market/tmx-rides-positive-market-momentum/article32043689/?cmpid=rss1)
 - [Jeffrey Gundlach changes tack on inflation-linked bonds](http://www.theglobeandmail.com/globe-investor/investment-ideas/jeffrey-gundlach-changes-tack-on-inflation-linked-bonds/article32043687/?cmpid=rss1)
+- [New banks in Canada look to target niche markets](http://www.theglobeandmail.com/report-on-business/new-banks-in-canada-look-to-target-niche-markets/article32043647/?cmpid=rss1)
 
 

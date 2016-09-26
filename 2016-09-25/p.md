@@ -4,6 +4,14 @@
 - [Sunday Morning Video: Bay Area Deep Learning School Day 2 Live streaming](http://feedproxy.google.com/~r/blogspot/wCeDd/~3/pY5hWW0nwXM/sunday-morning-video-bay-area-deep.html)
 - [Sunday Morning Videos: HORSE2016, On “Horses” and “Potemkin Villages” in Applied Machine Learning](http://feedproxy.google.com/~r/blogspot/wCeDd/~3/Og9a71Cj9Ew/sunday-morning-videos-horse2016-on.html)
 
+## Data Analytics & R
+- [Book Memo: “Encyclopedia of Algorithms”](https://advanceddataanalytics.net/2016/09/26/book-memo-encyclopedia-of-algorithms-2/)
+- [Book Memo: “Introduction to Nonparametric Statistics for the Biological Sciences Using R”](https://advanceddataanalytics.net/2016/09/26/book-memo-introduction-to-nonparametric-statistics-for-the-biological-sciences-using-r/)
+- [R Packages worth a look](https://advanceddataanalytics.net/2016/09/26/r-packages-worth-a-look-569/)
+- [Document worth reading: “Fast unfolding of communities in large networks”](https://advanceddataanalytics.net/2016/09/26/document-worth-reading-fast-unfolding-of-communities-in-large-networks/)
+- [If you did not already know: “Feedforward Sequential Memory Networks (FSMN)”](https://advanceddataanalytics.net/2016/09/26/if-you-did-not-already-know-feedforward-sequential-memory-networks-fsmn/)
+- [Magister Dixit](https://advanceddataanalytics.net/2016/09/26/magister-dixit-628/)
+
 ## R-bloggers
 - [When Trump visits… tweets from his trip to Mexico](http://feedproxy.google.com/~r/RBloggers/~3/ETVHrX7Bp4c/)
 - [Better Model Selection for Evolving Models](http://feedproxy.google.com/~r/RBloggers/~3/zerAyoGLIlY/)
@@ -36,5 +44,8 @@
 
 ## Machine Learning Mastery
 - [Python Machine Learning Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course/)
+
+## Datascope
+- [Unevenly Spaced Data](//datascopeanalytics.com/blog/unevenly-spaced-time-series/)
 
 
