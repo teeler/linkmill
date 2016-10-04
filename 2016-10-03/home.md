@@ -54,6 +54,9 @@ Reading list: Donald Trump, charitable giving...](http://nprfreshair.tumblr.com/
 - [The Strange Victorian Computer That Generated Latin Verse](http://presurfer.blogspot.com/2016/10/the-strange-victorian-computer-that.html)
 - [11 Collectible Facts About Hot Wheels](http://presurfer.blogspot.com/2016/10/11-collectible-facts-about-hot-wheels.html)
 
+## Tom MacWright
+- [Everything is fine with JavaScript](http://feedproxy.google.com/~r/tommacwright/odWX/~3/S8kETqn4un0/everything-is-fine-with-javascript.html)
+
 ## Blog - Mapbox
 - [Making malaria history with maps](https://www.mapbox.com/blog/making-malaria-history/)
 

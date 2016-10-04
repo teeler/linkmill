@@ -1,49 +1,21 @@
 # cashish
 
+## Latest Filings - Tue, 04 Oct 2016 17:21:09 EDT
+- [13F-HR - PARK NATIONAL CORP /OH/ (0000805676) (Filer)](http://www.sec.gov/Archives/edgar/data/805676/000114420416126519/0001144204-16-126519-index.htm)
+- [13F-HR - Highwater Wealth Management, LLC (0001683046) (Filer)](http://www.sec.gov/Archives/edgar/data/1683046/000158064216011389/0001580642-16-011389-index.htm)
+- [13F-HR - Newport Asia LLC (0001607597) (Filer)](http://www.sec.gov/Archives/edgar/data/1607597/000109544916000289/0001095449-16-000289-index.htm)
+- [13F-HR - KLS Professional Advisors Group, LLC (0001532292) (Filer)](http://www.sec.gov/Archives/edgar/data/1532292/000153229216000027/0001532292-16-000027-index.htm)
+- [13F-HR - LVM CAPITAL MANAGEMENT LTD/MI (0001053054) (Filer)](http://www.sec.gov/Archives/edgar/data/1053054/000105305416000008/0001053054-16-000008-index.htm)
+- [13F-HR - BEACON FINANCIAL GROUP (0001591379) (Filer)](http://www.sec.gov/Archives/edgar/data/1591379/000159137916000008/0001591379-16-000008-index.htm)
+- [13F-HR - LAU ASSOCIATES LLC (0001161825) (Filer)](http://www.sec.gov/Archives/edgar/data/1161825/000116182516000008/0001161825-16-000008-index.htm)
+- [13F-HR - CULLINAN ASSOCIATES INC (0001161670) (Filer)](http://www.sec.gov/Archives/edgar/data/1161670/000116167016000008/0001161670-16-000008-index.htm)
+- [13F-HR - Harbour Capital Advisors, LLC (0001682501) (Filer)](http://www.sec.gov/Archives/edgar/data/1682501/000168250116000003/0001682501-16-000003-index.htm)
+- [13F-HR - Bath Savings Trust Co (0001384943) (Filer)](http://www.sec.gov/Archives/edgar/data/1384943/000138494316000009/0001384943-16-000009-index.htm)
+- [13F-HR - LBJ Family Wealth Advisors, Ltd. (0001601622) (Filer)](http://www.sec.gov/Archives/edgar/data/1601622/000160162216000009/0001601622-16-000009-index.htm)
+- [13F-HR - CACTI ASSET MANAGEMENT LLC (0001452208) (Filer)](http://www.sec.gov/Archives/edgar/data/1452208/000114420416126432/0001144204-16-126432-index.htm)
+
 ## Dividend Earner
 - [Dividend Income – September 2016](http://www.dividendearner.com/dividend-income-september-2016/)
-
-## Latest Filings - Mon, 03 Oct 2016 13:25:40 EDT
-- [8-K - Truett-Hurst, Inc. (0001564709) (Filer)](http://www.sec.gov/Archives/edgar/data/1564709/000114420416126465/0001144204-16-126465-index.htm)
-- [497J - PNC ADVANTAGE FUNDS (0000908823) (Filer)](http://www.sec.gov/Archives/edgar/data/908823/000110465916148170/0001104659-16-148170-index.htm)
-- [8-K - FLOWERS FOODS INC (0001128928) (Filer)](http://www.sec.gov/Archives/edgar/data/1128928/000119312516729078/0001193125-16-729078-index.htm)
-- [497J - PNC FUNDS (0000778202) (Filer)](http://www.sec.gov/Archives/edgar/data/778202/000110465916148169/0001104659-16-148169-index.htm)
-- [D/A - MVP LS Fund I LLC (0001676430) (Filer)](http://www.sec.gov/Archives/edgar/data/1676430/000167643016000003/0001676430-16-000003-index.htm)
-- [424B2 - CITIGROUP INC (0000831001) (Filer)](http://www.sec.gov/Archives/edgar/data/831001/000095010316016785/0000950103-16-016785-index.htm)
-- [424B2 - Citigroup Global Markets Holdings Inc. (0000200245) (Filer)](http://www.sec.gov/Archives/edgar/data/200245/000095010316016785/0000950103-16-016785-index.htm)
-- [D - TVision Insights Inc. (0001686186) (Filer)](http://www.sec.gov/Archives/edgar/data/1686186/000168618616000001/0001686186-16-000001-index.htm)
-- [D - Alpha Meridian Capital Partners, LP (0001681634) (Filer)](http://www.sec.gov/Archives/edgar/data/1681634/000168163416000001/0001681634-16-000001-index.htm)
-- [8-K - DATASEA INC. (0001631282) (Filer)](http://www.sec.gov/Archives/edgar/data/1631282/000152013816001186/0001520138-16-001186-index.htm)
-- [D - SI Springfield SS Investor, LP (0001686207) (Filer)](http://www.sec.gov/Archives/edgar/data/1686207/000168620716000001/0001686207-16-000001-index.htm)
-- [4 - ZIMMERMAN DANIEL H (0001236028) (Reporting)](http://www.sec.gov/Archives/edgar/data/1236028/000123603116000046/0001236031-16-000046-index.htm)
-- [4 - CEL SCI CORP (0000725363) (Issuer)](http://www.sec.gov/Archives/edgar/data/725363/000123603116000046/0001236031-16-000046-index.htm)
-- [4 - MEIER JOHN F (0001046323) (Reporting)](http://www.sec.gov/Archives/edgar/data/1046323/000122520816039798/0001225208-16-039798-index.htm)
-- [4 - COOPER TIRE & RUBBER CO (0000024491) (Issuer)](http://www.sec.gov/Archives/edgar/data/24491/000122520816039798/0001225208-16-039798-index.htm)
-- [4 - CHAPMAN STEVEN M (0001238885) (Reporting)](http://www.sec.gov/Archives/edgar/data/1238885/000122520816039797/0001225208-16-039797-index.htm)
-- [4 - COOPER TIRE & RUBBER CO (0000024491) (Issuer)](http://www.sec.gov/Archives/edgar/data/24491/000122520816039797/0001225208-16-039797-index.htm)
-- [N-23C3A - Voya SENIOR INCOME FUND (0001124959) (Filer)](http://www.sec.gov/Archives/edgar/data/1124959/000110465916148166/0001104659-16-148166-index.htm)
-- [4 - TALOR EYAL (0001238028) (Reporting)](http://www.sec.gov/Archives/edgar/data/1238028/000123603116000045/0001236031-16-000045-index.htm)
-- [4 - CEL SCI CORP (0000725363) (Issuer)](http://www.sec.gov/Archives/edgar/data/725363/000123603116000045/0001236031-16-000045-index.htm)
-- [D - Mitotherapeutix, LLC (0001657701) (Filer)](http://www.sec.gov/Archives/edgar/data/1657701/000165770116000001/0001657701-16-000001-index.htm)
-- [424B5 - REPUBLIC OF SOUTH AFRICA (0000932419) (Filer)](http://www.sec.gov/Archives/edgar/data/932419/000110465916148165/0001104659-16-148165-index.htm)
-- [4 - PRICHEP PATRICIA  B (0001236215) (Reporting)](http://www.sec.gov/Archives/edgar/data/1236215/000123603116000044/0001236031-16-000044-index.htm)
-- [4 - CEL SCI CORP (0000725363) (Issuer)](http://www.sec.gov/Archives/edgar/data/725363/000123603116000044/0001236031-16-000044-index.htm)
-- [4 - OTIS CLARENCE JR (0001018572) (Reporting)](http://www.sec.gov/Archives/edgar/data/1018572/000124636016006866/0001246360-16-006866-index.htm)
-- [4 - V F CORP (0000103379) (Issuer)](http://www.sec.gov/Archives/edgar/data/103379/000124636016006866/0001246360-16-006866-index.htm)
-- [4 - DE BEDOUT JUAN ERNESTO (0001234996) (Reporting)](http://www.sec.gov/Archives/edgar/data/1234996/000124636016006865/0001246360-16-006865-index.htm)
-- [4 - V F CORP (0000103379) (Issuer)](http://www.sec.gov/Archives/edgar/data/103379/000124636016006865/0001246360-16-006865-index.htm)
-- [4 - Lang Laura W (0001296589) (Reporting)](http://www.sec.gov/Archives/edgar/data/1296589/000124636016006864/0001246360-16-006864-index.htm)
-- [4 - V F CORP (0000103379) (Issuer)](http://www.sec.gov/Archives/edgar/data/103379/000124636016006864/0001246360-16-006864-index.htm)
-- [SC 13D/A - Radius Health, Inc. (0001428522) (Subject)](http://www.sec.gov/Archives/edgar/data/1428522/000119312516729055/0001193125-16-729055-index.htm)
-- [4 - Carucci Richard (0001306837) (Reporting)](http://www.sec.gov/Archives/edgar/data/1306837/000124636016006863/0001246360-16-006863-index.htm)
-- [SC 13D/A - MPM BIOVENTURES III-QP L.P. (0001173409) (Filed by)](http://www.sec.gov/Archives/edgar/data/1173409/000119312516729055/0001193125-16-729055-index.htm)
-- [4 - V F CORP (0000103379) (Issuer)](http://www.sec.gov/Archives/edgar/data/103379/000124636016006863/0001246360-16-006863-index.htm)
-- [4 - Shattock Matthew J (0001531361) (Reporting)](http://www.sec.gov/Archives/edgar/data/1531361/000124636016006862/0001246360-16-006862-index.htm)
-- [4 - V F CORP (0000103379) (Issuer)](http://www.sec.gov/Archives/edgar/data/103379/000124636016006862/0001246360-16-006862-index.htm)
-- [4 - HURST ROBERT J/NY (0001090366) (Reporting)](http://www.sec.gov/Archives/edgar/data/1090366/000124636016006861/0001246360-16-006861-index.htm)
-- [4 - V F CORP (0000103379) (Issuer)](http://www.sec.gov/Archives/edgar/data/103379/000124636016006861/0001246360-16-006861-index.htm)
-- [4 - MCMULLEN W RODNEY (0001188115) (Reporting)](http://www.sec.gov/Archives/edgar/data/1188115/000124636016006860/0001246360-16-006860-index.htm)
-- [4 - V F CORP (0000103379) (Issuer)](http://www.sec.gov/Archives/edgar/data/103379/000124636016006860/0001246360-16-006860-index.htm)
 
 ## Press Releases
 - [SEC, FINRA and MSRB to Hold Compliance Outreach Program  for Municipal Advisors](http://www.sec.gov/news/pressrelease/2016-208.html)
@@ -57,13 +29,6 @@
 - [Alphabet Inc. (GOOGL), Cabela’s Inc. (CAB) & More: Here’s Why These Stocks Are on the Move Today](http://feedproxy.google.com/~r/InsiderMonkey/~3/CavRWjzHdtI/)
 - [Why Investors Are Buzzing About Janus Capital, Deutsche Bank, Freeport-McMoRan, and More](http://feedproxy.google.com/~r/InsiderMonkey/~3/CAkt6i3ZZio/)
 
-## Latest Filings - Mon, 03 Oct 2016 13:25:44 EDT
-- [13F-HR - CULLINAN ASSOCIATES INC (0001161670) (Filer)](http://www.sec.gov/Archives/edgar/data/1161670/000116167016000008/0001161670-16-000008-index.htm)
-- [13F-HR - Harbour Capital Advisors, LLC (0001682501) (Filer)](http://www.sec.gov/Archives/edgar/data/1682501/000168250116000003/0001682501-16-000003-index.htm)
-- [13F-HR - Bath Savings Trust Co (0001384943) (Filer)](http://www.sec.gov/Archives/edgar/data/1384943/000138494316000009/0001384943-16-000009-index.htm)
-- [13F-HR - LBJ Family Wealth Advisors, Ltd. (0001601622) (Filer)](http://www.sec.gov/Archives/edgar/data/1601622/000160162216000009/0001601622-16-000009-index.htm)
-- [13F-HR - CACTI ASSET MANAGEMENT LLC (0001452208) (Filer)](http://www.sec.gov/Archives/edgar/data/1452208/000114420416126432/0001144204-16-126432-index.htm)
-
 ## The Globe and Mail - Globe Investor
 - [Asian shares wobble, dollar firms after upbeat U.S. data](http://www.theglobeandmail.com/globe-investor/inside-the-market/market-updates/asian-shares-wobble-dollar-firms-after-upbeat-us-data/article32227919/?cmpid=rss1)
 - [This chart shows us why we should prepare for a 70-cent loonie](http://www.theglobeandmail.com/globe-investor/inside-the-market/prepare-for-a-70-cent-loonie/article32216293/?cmpid=rss1)
@@ -76,7 +41,5 @@
 - [Tesla’s next big delivery shouldn’t be too far off](http://www.theglobeandmail.com/globe-investor/investment-ideas/teslas-next-big-delivery-shouldnt-be-too-far-off/article32207806/?cmpid=rss1)
 - [Drug maker Concordia in talks to sell equity stake: sources](http://www.theglobeandmail.com/report-on-business/drug-maker-concordia-in-talks-to-sell-equity-stake-sources/article32207613/?cmpid=rss1)
 - [Gordon Pape: My High-Yield Portfolio has gained almost 12% in the last 6 months](http://www.theglobeandmail.com/globe-investor/inside-the-market/gordon-pape-my-high-yield-portfolio-has-gained-almost-12-in-the-last-6-months/article32207118/?cmpid=rss1)
-- [These are the stocks to own if Trump wins](http://www.theglobeandmail.com/globe-investor/investment-ideas/these-are-the-stocks-to-own-if-trump-wins/article32206731/?cmpid=rss1)
-- [At midday: TSX flat as materials stocks weigh](http://www.theglobeandmail.com/globe-investor/inside-the-market/market-updates/at-midday-tsx-flat-as-materials-stocks-weigh/article32206589/?cmpid=rss1)
 
 

@@ -13,6 +13,14 @@
 ## Revolutions
 - [Homer, not Bart, is the star of the Simpsons](http://blog.revolutionanalytics.com/2016/10/homer-not-bart-is-the-star-of-the-simpsons.html)
 
+## Data Analytics & R
+- [Book Memo: “Machine Learning”](https://advanceddataanalytics.net/2016/10/04/book-memo-machine-learning-2/)
+- [Book Memo: “R for Data Science”](https://advanceddataanalytics.net/2016/10/04/book-memo-r-for-data-science/)
+- [R Packages worth a look](https://advanceddataanalytics.net/2016/10/04/r-packages-worth-a-look-577/)
+- [Document worth reading: “Intelligent Choice of the Number of Clusters in K -Means Clustering: An Experimental Study with Different Cluster Spreads”](https://advanceddataanalytics.net/2016/10/04/document-worth-reading-intelligent-choice-of-the-number-of-clusters-in-k-means-clustering-an-experimental-study-with-different-cluster-spreads/)
+- [If you did not already know: “Hedonic Regression”](https://advanceddataanalytics.net/2016/10/04/if-you-did-not-already-know-hedonic-regression/)
+- [Magister Dixit](https://advanceddataanalytics.net/2016/10/04/magister-dixit-636/)
+
 ## R-bloggers
 - [Notes from 4th Bayesian Mixer Meetup](http://feedproxy.google.com/~r/RBloggers/~3/wUXY0uYp5LM/)
 - [Program of the european R users meeting [only 7 days to go]](http://feedproxy.google.com/~r/RBloggers/~3/pIAXwZKw4_8/)

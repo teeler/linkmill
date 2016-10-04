@@ -1,5 +1,9 @@
 # SEA
 
+## Seattle Transit Blog
+- [Life After ST3: If It Wins](http://feedproxy.google.com/~r/seattletransitblog/rss/~3/43JBAs4Ss8o/)
+- [Register to Vote by Monday, October 10; Safe Postmark Deadline This Friday](http://feedproxy.google.com/~r/seattletransitblog/rss/~3/ioIwYUzjksU/)
+
 ## seattlepi.com: Food & Recipes
 - [Hashbrown cups](http://www.seattlepi.com/lifestyle/food/article/Hashbrown-cups-9644097.php)
 
@@ -15,9 +19,23 @@
 ## Cliff Mass Weather Blog
 - [CO2 Levels Rise Above 400 PPM:  You Will Never See Lower Again!](http://cliffmass.blogspot.com/2016/10/co2-levels-rise-above-400-ppm-you-will.html)
 
-## Seattle Transit Blog
-- [Life After ST3: If It Wins](http://feedproxy.google.com/~r/seattletransitblog/rss/~3/43JBAs4Ss8o/)
-- [Register to Vote by Monday, October 10; Safe Postmark Deadline This Friday](http://feedproxy.google.com/~r/seattletransitblog/rss/~3/ioIwYUzjksU/)
+## Pinboard (items tagged seattle)
+- [Northwest Film Forum :: Calendar :: Moving History: An Archival Screening Night](http://www.nwfilmforum.org/live/page/calendar/4097?platform=hootsuite)
+- [Next Big Tech Corridor? Between Seattle and Vancouver, Planners Hope - The New York Times](http://www.nytimes.com/2016/10/03/technology/next-big-tech-corridor-between-seattle-and-vancouver-planners-hope.html)
+- [NYTimes: Next Big Tech Corridor? Between Seattle and Vancouver, Planners Hope](http://www.nytimes.com/2016/10/03/technology/next-big-tech-corridor-between-seattle-and-vancouver-planners-hope.html?smprod=nytcore-iphone)
+- [Next Big Tech Corridor? Between Seattle and Vancouver, Planners Hope - The New York Times](http://www.nytimes.com/2016/10/03/technology/next-big-tech-corridor-between-seattle-and-vancouver-planners-hope.html?action=click&pgtype=Homepage&version=Moth-Visible&moduleDetail=inside-nyt-region-5&module=inside-nyt-region&region=inside-nyt-region&WT.nav=inside-nyt-region&_r=0)
+
+## News and current events in or about Seattle, WA, USA
+- [The Weekly What's Happening Event & To-do Listings In Seattle Mega Thread: October 03 through Sunday](https://www.reddit.com/r/Seattle/comments/55mjq0/the_weekly_whats_happening_event_todo_listings_in/)
+- [Fireworks in Seattle](https://www.reddit.com/r/Seattle/comments/55r4iz/fireworks_in_seattle/)
+- [Of the 24,700 Seattleites who gave money to Bernie, only 261 have donated to another candidate](https://www.reddit.com/r/Seattle/comments/55o88s/of_the_24700_seattleites_who_gave_money_to_bernie/)
+- [Seatteites, what's that cool thing you are working on and are super proud of?](https://www.reddit.com/r/Seattle/comments/55rnta/seatteites_whats_that_cool_thing_you_are_working/)
+- [Real Seattle skylines include 7+ cranes [OC, camera details in comment]](https://www.reddit.com/r/Seattle/comments/55qoe2/real_seattle_skylines_include_7_cranes_oc_camera/)
+- [Dog in traffic on Market](https://www.reddit.com/r/Seattle/comments/55rl10/dog_in_traffic_on_market/)
+- [Bertha passes 4,635 halfway point; stopping for a month of planned maintenance.](https://www.reddit.com/r/Seattle/comments/55obow/bertha_passes_4635_halfway_point_stopping_for_a/)
+- [Ship Canal Bridge](https://www.reddit.com/r/Seattle/comments/55q63t/ship_canal_bridge/)
+- [Rainbow over Capitol Hill](https://www.reddit.com/r/Seattle/comments/55p6p0/rainbow_over_capitol_hill/)
+- [Where are your favorite bars to play steel-tip darts?](https://www.reddit.com/r/Seattle/comments/55r8qg/where_are_your_favorite_bars_to_play_steeltip/)
 
 ## PhinneyWood
 - [Phinney Ridge Community Council meets Tuesday to discuss two major development projects](http://phinneywood.com/2016/10/03/phinney-ridge-community-council-meets-tuesday-to-discuss-two-major-development-projects/)

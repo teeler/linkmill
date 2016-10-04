@@ -1,20 +1,5 @@
 # HW
 
-## Dangerous Prototypes
-- [RC2014/LL and RC2016/10](http://dangerousprototypes.com/blog/2016/10/03/rc2014ll-and-rc201610/)
-
-## SparkFun Electronics Blog Posts
-- [Genericizing Arduino Libraries](https://www.sparkfun.com/news/2194)
-
-## Feed - spencer wright
-- [Responsibility](http://pencerw.com/feed/2016/10/3/responsibility)
-
-## Make: DIY Projects and Ideas for Makers
-- [Hacking a Nokia Phone into a New Smartwatch](http://feedproxy.google.com/~r/makezineonline/~3/O7TWS8eGZ7g/)
-- [5 Cosplay Communities to Source Your Halloween Costume Inspiration](http://feedproxy.google.com/~r/makezineonline/~3/RsMcUUZv0oE/)
-- [How the First Humanitarian Maker Faire Advocated for Empowerment, not Charity](http://feedproxy.google.com/~r/makezineonline/~3/YBYQq4sn3ns/)
-- [Arrow Electronics Partners With Indiegogo To Empower Makers](http://feedproxy.google.com/~r/makezineonline/~3/n_FkUpMkuto/)
-
 ## Adafruit Industries – Makers, hackers, artists, designers and engineers!
 - [A Contemporary Art Center in Prague Builds 138-Foot Rooftop Airship as a Home for Public Events](https://blog.adafruit.com/2016/10/03/a-contemporary-art-center-in-prague-builds-138-foot-rooftop-airship-as-a-home-for-public-events/)
 - [A Day in the Life of a Board Loader #ManufacturingMonday (video)](https://blog.adafruit.com/2016/10/03/a-day-in-the-life-of-a-board-loader-manufacturingmonday-video/)
@@ -47,5 +32,61 @@
 - [How This Weird Game Can Help Alzheimers Research #CitizenScience #Alzheimers #EyesonAlz](https://blog.adafruit.com/2016/10/04/how-this-weird-game-can-help-alzheimers-research-citizenscience-alzheimers-eyesonalz/)
 - [National Hispanic Heritage Month: Celebrating Maria Irene Fornes #HispanicHeritageMonth](https://blog.adafruit.com/2016/10/04/national-hispanic-heritage-month-celebrating-maria-irene-fornes-hispanicheritagemonth/)
 - [School Successfully Replaces Detention With a Mindful Meditation Room #makereducation](https://blog.adafruit.com/2016/10/04/school-successfully-replaces-detention-with-a-mindful-meditation-room-makereducation/)
+
+## Pinboard (items tagged arduino)
+- [The Linux Mint Blog » Blog Archive » Mintbox Mini Pro](http://blog.linuxmint.com/?p=3095)
+- [Don Coleman, Sandeep Mistry - Creating Bluetooth Low Energy Peripherals with Arduino - Maker Faire Bay Area 2016](https://don.github.io/slides/2016-05-21-arduino-ble/#/)
+- [Make: Bluetooth: Bluetooth LE Projects with Arduino, Raspberry Pi, and Smartphones: Alasdair Allan, Don Coleman, Sandeep Mistry: 9781457187094: Amazon.com: Books](https://www.amazon.com/Make-Bluetooth-Projects-Raspberry-Smartphones/dp/1457187094)
+- [Genericizing Arduino Libraries - News - SparkFun Electronics](https://www.sparkfun.com/news/2194)
+
+## Recent research notes on PublicLab.org
+- [MapKnitter map of Lab 5 Map](https://publiclab.org/notes/show/13516)
+- [Activity Grids formatting - what will be their final form?](https://publiclab.org/notes/show/13517)
+
+## Feed - spencer wright
+- [Responsibility](http://pencerw.com/feed/2016/10/3/responsibility)
+
+## Pinboard (items tagged electronics)
+- [Mini Circuits - Global Leader of RF and Microwave Components](http://194.75.38.69/homepage/homepage.html)
+- [The Linux Mint Blog » Blog Archive » Mintbox Mini Pro](http://blog.linuxmint.com/?p=3095)
+- [Raspberry Pi GPIO Pinout](http://pinout.xyz/)
+- [The Museum of HP Calculators](http://www.hpmuseum.org/)
+- [How to use Solder Paste | Soldering | Radio-Electronics.Com](http://www.radio-electronics.com/info/manufacture/soldering/solder_paste/how-to-use-solder-paste.php)
+- [Solder Paste Syringes | SMT Manufacturing | Adafruit Learning System](https://learn.adafruit.com/smt-manufacturing/solder-paste-syringes)
+- [Applying Solder Paste with a Stencil - YouTube](https://www.youtube.com/watch?v=QZmzuUqzPm8)
+- [The Art of Making a Nixie Tube - YouTube](https://www.youtube.com/watch?v=wxL4ElboiuA)
+
+## Make: DIY Projects and Ideas for Makers
+- [Hacking a Nokia Phone into a New Smartwatch](http://feedproxy.google.com/~r/makezineonline/~3/O7TWS8eGZ7g/)
+- [5 Cosplay Communities to Source Your Halloween Costume Inspiration](http://feedproxy.google.com/~r/makezineonline/~3/RsMcUUZv0oE/)
+- [How the First Humanitarian Maker Faire Advocated for Empowerment, not Charity](http://feedproxy.google.com/~r/makezineonline/~3/YBYQq4sn3ns/)
+- [Arrow Electronics Partners With Indiegogo To Empower Makers](http://feedproxy.google.com/~r/makezineonline/~3/n_FkUpMkuto/)
+
+## Dangerous Prototypes
+- [RC2014/LL and RC2016/10](http://dangerousprototypes.com/blog/2016/10/03/rc2014ll-and-rc201610/)
+
+## Pinboard (items tagged hardware)
+- [The Linux Mint Blog » Blog Archive » Mintbox Mini Pro](http://blog.linuxmint.com/?p=3095)
+- [The Three Infrastructure Mistakes Your Company Must Not Make | First Round Review](http://firstround.com/review/the-three-infrastructure-mistakes-your-company-must-not-make/)
+- [How to Build a Cheap Wi-Fi Controlled Water Valve | Make:](http://makezine.com/projects/wifi-water-valve/)
+- [Stack Overflow: The Hardware - 2016 Edition](http://nickcraver.com/blog/2016/03/29/stack-overflow-the-hardware-2016-edition/)
+- [PANORELLA - Carry your own sky](http://panorel.la/?ref=producthunt)
+- [pre-convergence morgue](http://pre-convergence-morgue.tumblr.com/)
+- [Optimized RIP PC configuration for 4.5.X [Archive] - Fiery Wide Format Forum](http://proofingforums.efi.com/archive/index.php/t-17753.html)
+- [Split-flap display — Unknown Domain](http://unknowndomain.co.uk/category/design/split-flap-display/)
+- [29-Year-Old Gamer Leaves Sony Behind to Bring Eye-Tracking to Virtual Reality - Bloomberg](http://www.bloomberg.com/news/articles/2016-09-27/29-year-old-gamer-leaves-sony-behind-to-bring-eye-tracking-to-virtual-reality)
+- [The Museum of HP Calculators](http://www.hpmuseum.org/)
+- [Meet the man behind Spectacles, Snapchat’s new smart sunglasses - Recode](http://www.recode.net/2016/9/26/11965536/snapchat-spectacles-steve-horowitz)
+- [Meet ORWL. The first open source, physically secure computer | Ubuntu Insights](https://insights.ubuntu.com/2016/09/29/meet-orwl-the-first-open-source-physically-secure-computer/)
+- [Building a Deep Learning Box – Medium](https://medium.com/@acrosson/building-a-deep-learning-box-d17d97e2905c#.m0j4kaor7)
+- [Research Blog: Announcing an Open Source ADC board for BeagleBone](https://research.googleblog.com/2016/07/announcing-open-source-adc-board-for.html)
+- [iPhone 6s plus Armband,iPhone 6 plus Armband,by Ailun,Feartured with Sport Scratch-Resistant…](https://www.amazon.co.uk/Ailun-Feartured-Scratch-Resistant-Lightweight-Resistant-Armband-Black/dp/B01GRM84TI/ref=pd_lpo_23_lp_img_4?ie=UTF8&psc=1&refRID=4JCMK1DDZY57Y3J29FVC&tag=rnwap-20)
+- [AER - Throw your GoPro® by AERVIDEO —Kickstarter](https://www.kickstarter.com/projects/1025667430/aer-throw-your-gopro?token=0ce922ea)
+- [London Camera Exchange](https://www.lcegroup.co.uk/)
+- [People with $2,500 machines from 2013 - how you doing? : buildapc](https://www.reddit.com/r/buildapc/comments/55896b/people_with_2500_machines_from_2013_how_you_doing/)
+- [iPhone 7 Plus review: 2014 called – it wants its phablet back](https://www.theguardian.com/technology/2016/oct/03/iphone-7-plus-review-apple-newest-smartphone-phablet)
+
+## SparkFun Electronics Blog Posts
+- [Genericizing Arduino Libraries](https://www.sparkfun.com/news/2194)
 
 
