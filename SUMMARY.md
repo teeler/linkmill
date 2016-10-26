@@ -865,3 +865,12 @@
   * [sec](2016-10-13/sec.md)
   * [sfx](2016-10-13/sfx.md)
 
+* [2016-10-14](2016-10-14/index.md)
+  * [FOOD](2016-10-14/FOOD.md)
+  * [HW](2016-10-14/HW.md)
+  * [Linkmillery](2016-10-14/Linkmillery.md)
+  * [cashish](2016-10-14/cashish.md)
+  * [funky](2016-10-14/funky.md)
+  * [journals](2016-10-14/journals.md)
+  * [legal](2016-10-14/legal.md)
+
