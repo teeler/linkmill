@@ -4,11 +4,32 @@
 - []()
 
 ## Schneier on Security
+- [Whistleblower Investigative Report on NSA Suite B Cryptography](https://www.schneier.com/blog/archives/2016/11/whistleblower_i.html)
 - [Self-Propagating Smart Light Bulb Worm](https://www.schneier.com/blog/archives/2016/11/self-propagatin.html)
 - [Election-Day Humor](https://www.schneier.com/blog/archives/2016/11/election-day_hu.html)
 - [Lessons From the Dyn DDoS Attack](https://www.schneier.com/blog/archives/2016/11/lessons_from_th_5.html)
 
 ## STAT
+- [FDA issues a rule to block drug makers from abusing citizen petitions](https://www.statnews.com/pharmalot/2016/11/09/fda-citizen-petitions/?s_campaign=stat:rss)
+- [FDA to study how promotional tweets for drugs should convey side effects](https://www.statnews.com/pharmalot/2016/11/09/fda-twitter-side-effects/?s_campaign=stat:rss)
+- [After Colorado, right-to-die movement eyes new battlegrounds](https://www.statnews.com/2016/11/09/right-to-die-battlegrounds/?s_campaign=stat:rss)
+- [Phone use before bedtime is tied to poorer quality sleep](https://www.statnews.com/2016/11/09/phone-use-sleep-quality/?s_campaign=stat:rss)
+- [STAT urges Kentucky appeals court to uphold order unsealing OxyContin records](https://www.statnews.com/2016/11/09/stat-purdue-oxycontin-appeal/?s_campaign=stat:rss)
+- [Pharma may have defeated Prop 61, but state battles over pricing will continue](https://www.statnews.com/pharmalot/2016/11/09/prop-61-california-drug-prices/?s_campaign=stat:rss)
+- [Fearful of a Trump administration, many in research call for a ‘tutorial’ for the president-elect](https://www.statnews.com/2016/11/09/scientists-trump-new-reality/?s_campaign=stat:rss)
+- [Right-to-try laws could curtail the development of innovative new therapies](https://www.statnews.com/2016/11/09/right-try-laws/?s_campaign=stat:rss)
+- [What does Donald Trump’s win mean for science and medicine?](https://www.statnews.com/2016/11/09/donald-trump-win-science-medicine/?s_campaign=stat:rss)
+- [Biotech stocks rally after Donald Trump’s win](https://www.statnews.com/2016/11/09/trump-biotech-stock-rally/?s_campaign=stat:rss)
+- [Can Trump kill Obamacare? He’ll have to answer these questions first](https://www.statnews.com/2016/11/09/obamacare-fate-president-trump/?s_campaign=stat:rss)
+- [Pharmalot, Pharmalittle: Drug stocks rally on Trump presidential victory](https://www.statnews.com/pharmalot/2016/11/09/trump-drug-prices-stocks/?s_campaign=stat:rss)
+- [So your state just legalized marijuana: 6 things to know](https://www.statnews.com/2016/11/09/marijuana-legalized-states/?s_campaign=stat:rss)
+- [What do you expect from President Trump? Weigh in](https://www.statnews.com/2016/11/09/president-trump-expectations/?s_campaign=stat:rss)
+- [Marijuana and soda taxes win big, but cigarette taxes fail in several state votes](https://www.statnews.com/2016/11/09/marijuana-soda-ballot-meausres/?s_campaign=stat:rss)
+- [Big Pharma’s big question: Is Trump friend or foe?](https://www.statnews.com/2016/11/09/trump-drug-prices/?s_campaign=stat:rss)
+- [Prop 61: Californians appear to say no to lowering drug costs](https://www.statnews.com/2016/11/09/california-prop-61-no/?s_campaign=stat:rss)
+- [Top ally of drug industry fights off a strong re-election challenge](https://www.statnews.com/2016/11/08/burr-paulsen-races-biotech/?s_campaign=stat:rss)
+- [Florida Keys voters split on genetically modified mosquito trial](https://www.statnews.com/2016/11/08/florida-keys-voters-split-on-genetically-modified-mosquitoes/?s_campaign=stat:rss)
+- [Walgreens is suing Theranos after a botched blood-testing partnership](https://www.statnews.com/2016/11/08/theranos-walgreens-lawsuit/?s_campaign=stat:rss)
 - [Could changes to a global tobacco treaty harm health?](https://www.statnews.com/2016/11/08/electronic-cigarettes-tobacco-treaty-who/?s_campaign=stat:rss)
 - [FDA to hold two-day meeting on off-label drug marketing](https://www.statnews.com/pharmalot/2016/11/08/fda-off-label-free-speech/?s_campaign=stat:rss)
 - [FDA warns Valeant over production problems caused by acquisitions](https://www.statnews.com/pharmalot/2016/11/08/fda-valeant-warning-letter/?s_campaign=stat:rss)
@@ -25,6 +46,11 @@
 - [Data Manipulation with sparklyr on Azure HDInsight](http://blog.revolutionanalytics.com/2016/11/data-manipulation-with-sparklyr-on-azure-hdinsight.html)
 
 ## Scientific Method – Ars Technica
+- [Industry, party figures mix with Trump loyalists for cabinet picks](http://arstechnica.com/science/2016/11/speculation-begins-on-trumps-picks-for-science-energy-agencies/)
+- [What happened to all the Neanderthal genes?](http://arstechnica.com/science/2016/11/what-happened-to-all-the-neanderthal-genes/)
+- [Watching a cell cycle](http://arstechnica.com/science/2016/11/watching-a-cell-cycle/)
+- [Trump will probably undo Obama’s budget increases for Earth sciences](http://arstechnica.com/science/2016/11/trump-will-probably-undo-obamas-budget-increases-for-earth-sciences/)
+- [Don’t be fooled by the headlines: Teen vaping study is a mixed bag](http://arstechnica.com/science/2016/11/dont-be-fooled-by-the-headlines-teen-vaping-study-is-a-mixed-bag/)
 - [Yet another earthquake hits Oklahoma](http://arstechnica.com/science/2016/11/yet-another-earthquake-hits-oklahoma/)
 - [Gus Grissom taught NASA a hard lesson: “You can hurt yourself in the ocean”](http://arstechnica.com/science/2016/11/with-every-splashdown-nasa-embraces-the-legacy-of-gus-grissom/)
 - [Saving throw: Securing democracy with stats, spreadsheets, and 10-sided dice](http://arstechnica.com/tech-policy/2016/11/saving-american-elections-with-10-sided-dice-one-stats-profs-quest/)
@@ -41,6 +67,7 @@
 - [Talkwalker, Election 2016, Elbphilharmonie, More: Tuesday Buzz, November 8, 2016](http://feedproxy.google.com/~r/researchbuzz/main/~3/Io4gPVuNtp0/)
 
 ## NPR Fresh Air
+- [How Trump Broke Campaign Norms But Still Won The Election](http://nprfreshair.tumblr.com/post/152960390403)
 - [Photographer caption: An alien-looking, powerful supercell grows...](http://nprfreshair.tumblr.com/post/152915061606)
 - [Filmmaker Kelly Reichardt has been described by the New York...](http://nprfreshair.tumblr.com/post/152913375309)
 - [l10:
@@ -62,38 +89,89 @@ Issa Rae for...](http://nprfreshair.tumblr.com/post/152911615938)
 - [Spilt Milk: 12 Udderly Abandoned Dairies And Dairy Farms](http://presurfer.blogspot.com/2016/11/spilt-milk-12-udderly-abandoned-dairies.html)
 
 ## Futurity
+- [Why treating cholera in Haiti is so difficult](http://www.futurity.org/cholera-haiti-1293752-2/)
+- [Blood test may predict severity of fetal alcohol syndrome](http://www.futurity.org/fetal-alcohol-blood-test-1293972-2/)
+- [We’re losing the Neanderthal bits of our genome](http://www.futurity.org/why-were-losing-the-neanderthal-bits-of-our-genome/)
+- [90% of ivory comes from recently killed elephants](http://www.futurity.org/elephants-ivory-radiocarbon-dating-1293542-2/)
+- [Expert calls presidential appointee system ‘crazy’](http://www.futurity.org/presidential-appointees-1293582-2/)
+- [Why emissions near equator are extra dangerous](http://www.futurity.org/ozone-equator-emissions-1293442-2/)
 - [Watch: Gang of hyenas mobs lions to steal their food](http://www.futurity.org/hyenas-mobbing-lions-1293082-2/)
 - [Just 1 phone call cuts alcohol abuse among soldiers](http://www.futurity.org/soldiers-alcohol-abuse-intervention-1293032-2/)
 - [Seafood is full of lies—but there’s a silver lining](http://www.futurity.org/mislabeled-seafood-fish-1293232/)
 - [Med school grads suffer from residency frenzy](http://www.futurity.org/jobs-medical-school-graduates-1292702-2/)
-- [Vaccine keeps mice from getting UTIs](http://www.futurity.org/urinary-tract-infections-utis-siderophores-1292762-2/)
-- [Hungry baby bugs left clues to dino mass extinction](http://www.futurity.org/leaf-fossils-insects-1292542-2/)
-- [‘Discounted’ GABA drugs show promise as antidepressants](http://www.futurity.org/gaba-antidepressant-drugs-1292502-2/)
-- [Low vitamin D may raise risk of bladder cancer](http://www.futurity.org/vitamin-d-bladder-cancer-1292412-2/)
-- [Cut copays to improve healthcare for indigenous people?](http://www.futurity.org/indigenous-australian-copays-1291862-2/)
-- [Chikungunya spreads at home making women sick](http://www.futurity.org/chikungunya-mosquitoes-womens-health-1292042-2/)
 
 ## Dinosaur Comics!
 - [i wrote down the spice world release date from memory in the first draft and was only off by one year](http://www.qwantz.com/index.php?comic=3057)
+
+## Nature - Issue - nature.com science feeds
+- [Judge science on merit, not assumptions](http://feeds.nature.com/~r/nature/rss/current/~3/eLM7ppwKtFc/539139b)
+- [Geophysics: Volcano sneaks in magma sideways](http://feeds.nature.com/~r/nature/rss/current/~3/2k8ijytHF1g/539142a)
+- [Metabolism: Fat-molecule drop boosts metabolism](http://feeds.nature.com/~r/nature/rss/current/~3/kgIW_vCqp8w/539142b)
+- [Zoology: Thorny devil may drink from sand](http://feeds.nature.com/~r/nature/rss/current/~3/HzTA4r-3yFE/539142c)
+- [Evolution: Cat DNA shaped by diet](http://feeds.nature.com/~r/nature/rss/current/~3/Ct3T5aqGk1s/539142d)
+- [Astroparticle physics: Cosmic rays make more muons](http://feeds.nature.com/~r/nature/rss/current/~3/emLk-lfwZ7M/539143a)
+- [Plant biology: Plants transmit light down stems](http://feeds.nature.com/~r/nature/rss/current/~3/Gnb0p18RASY/539143b)
+- [Microbial evolution: Legionnaires' strains adapt well](http://feeds.nature.com/~r/nature/rss/current/~3/dRtTVSZcO5U/539143c)
+- [Zoology: Old apes can't see up close](http://feeds.nature.com/~r/nature/rss/current/~3/rDm-Nv-MDAU/539143d)
+- [Fluid dynamics: Fluid spills from strange straws](http://feeds.nature.com/~r/nature/rss/current/~3/CuQYb36QUNY/539143e)
+- [Heavy smog, a huge ship and a smashing record](http://feeds.nature.com/~r/nature/rss/current/~3/A8HC3SukUz8/539144a)
+- [Brexit chancellor’s annual address is a science nail-biter](http://feeds.nature.com/~r/nature/rss/current/~3/jXFo4aO0JoE/539148a)
+- [The quiet rise of the NIH’s hot new metric](http://feeds.nature.com/~r/nature/rss/current/~3/KVPn70ScF1M/539150a)
+- [Quest to map Africa’s soil microbiome begins](http://feeds.nature.com/~r/nature/rss/current/~3/1l9Hjw9YbeI/539152a)
+- [How to defeat dementia](http://feeds.nature.com/~r/nature/rss/current/~3/cLmJIkzEwNU/539156a)
+- [Neuroscience: Tide of forgetting](http://feeds.nature.com/~r/nature/rss/current/~3/hfj17K4NdKI/539166a)
+- [Books in brief](http://feeds.nature.com/~r/nature/rss/current/~3/TJOZ3K4qITU/539167a)
+- [Peer review: Revise rules on conflicts of interest](http://feeds.nature.com/~r/nature/rss/current/~3/DrKmFvkLs8k/539168a)
+- [Taxonomy: Preserve specimens for reproducibility](http://feeds.nature.com/~r/nature/rss/current/~3/pV8Owv4WGac/539168b)
+- [Ranking lists: Open up research evaluation in China](http://feeds.nature.com/~r/nature/rss/current/~3/G2swyk6jXyQ/539168c)
+- [Environment: Australia too casual with protection law](http://feeds.nature.com/~r/nature/rss/current/~3/pE3WHIdDCu0/539168d)
+- [Energy resources: Renewables from the bottom up](http://feeds.nature.com/~r/nature/rss/current/~3/xmHH65Qcgok/539168e)
+- [Mental health: Caught in a trap](http://feeds.nature.com/~r/nature/rss/current/~3/andKAHYxs_c/nj7628-319a)
+- [Europe: Call to keep funding](http://feeds.nature.com/~r/nature/rss/current/~3/F6gGXnCJo1U/nj7628-321a)
+- [Policy: Minorities programme](http://feeds.nature.com/~r/nature/rss/current/~3/VfcYMMEDeWA/nj7628-321b)
+- [Neurodegenerative diseases](http://feeds.nature.com/~r/nature/rss/current/~3/B07VOpJS-40/539179a)
+- [Ageing, neurodegeneration and brain rejuvenation](http://feeds.nature.com/~r/nature/rss/current/~3/aUUQeLQhMXc/nature20411)
+- [The road to restoring neural circuits for the treatment of Alzheimer's disease](http://feeds.nature.com/~r/nature/rss/current/~3/9qjYuT_if1o/nature20412)
+- [Decoding ALS: from genes to mechanism](http://feeds.nature.com/~r/nature/rss/current/~3/SxIbh4RgnnI/nature20413)
+- [Defects in trafficking bridge Parkinson's disease pathology and genetics](http://feeds.nature.com/~r/nature/rss/current/~3/n60BXY9zeiw/nature20414)
+- [Mammalian prions and their wider relevance in neurodegenerative diseases](http://feeds.nature.com/~r/nature/rss/current/~3/ljuIW3GPrqQ/nature20415)
+- [The activities of amyloids from a structural perspective](http://feeds.nature.com/~r/nature/rss/current/~3/Fw5QDPPVakk/nature20416)
+- [Melissa](http://feeds.nature.com/~r/nature/rss/current/~3/M_I222g0IQc/539324a)
+- [Nanoscience: Single-molecule instant replay](http://feeds.nature.com/~r/nature/rss/current/~3/YZ4dXkO2cz8/539170a)
+- [Evolution: Genomic remodelling in the primate brain](http://feeds.nature.com/~r/nature/rss/current/~3/N_6ofHYpQlY/539171a)
+- [Geoscience: Cliffs make a hasty retreat](http://feeds.nature.com/~r/nature/rss/current/~3/G46U6vn6Xnw/539173a)
+- [50 & 100 Years Ago](http://feeds.nature.com/~r/nature/rss/current/~3/C3j7NyfDUiY/539173b)
+- [Atomic physics: A strange kind of liquid](http://feeds.nature.com/~r/nature/rss/current/~3/icWD1MkVc_g/539176a)
+- [Spinal-cord injury: Neural interfaces take another step forward](http://feeds.nature.com/~r/nature/rss/current/~3/q9emk874NFE/539177a)
+- [Evolution of Osteocrin as an activity-regulated factor in the primate brain](http://feeds.nature.com/~r/nature/rss/current/~3/9plnLy0WxeE/nature20111)
+- [Self-bound droplets of a dilute magnetic quantum liquid](http://feeds.nature.com/~r/nature/rss/current/~3/ECGMadSJ9VU/nature20126)
+- [Tracking the ultrafast motion of a single molecule by femtosecond orbital imaging](http://feeds.nature.com/~r/nature/rss/current/~3/ncB9_emJu2M/nature19816)
+- [A brain–spine interface alleviating gait deficits after spinal cord injury in primates](http://feeds.nature.com/~r/nature/rss/current/~3/F1KVk1WHWKc/nature20118)
+- [Correction](http://feeds.nature.com/~r/nature/rss/current/~3/DKqRTC7UuHQ/539318a)
 
 ## Blog - Mapbox
 - [Live election results on The Washington Post](https://www.mapbox.com/blog/washpo-election-2016/)
 
 ## Recyclart
+- [Second Life](http://feedproxy.google.com/~r/Recyclart/~3/iZRnmsmfLPA/)
 - [Recycled DIY Decor: Faux "Raw" Cotton Branches](http://feedproxy.google.com/~r/Recyclart/~3/j8cT59R6Ers/)
 
-## Colossal
-- [Artist Charles Young’s Growing Metropolis of 635 Paper Structures](http://www.thisiscolossal.com/2016/11/artist-charles-youngs-growing-metropolis-of-635-paper-structures/)
-- [Explosive Scrap Timber Assemblages by Louise McRae](http://www.thisiscolossal.com/2016/11/explosive-scrap-timber-assemblages-by-louise-mcrae/)
+## Main Feed - Environmental Defense
+- [Will You Give Up--Or Stand and Fight?](http://feedproxy.google.com/~r/environmentaldefense/~3/_EZJRJcSURg/Advocacy)
 
 ## Modern FarmerModern Farmer
+- [Sponsored: The True Test of Olive Oil Quality](http://modernfarmer.com/2016/11/sponsored-california-olive-oil-council/)
 - [American-Style Third Wave Coffee Makes Inroads In Turkey](http://modernfarmer.com/2016/11/american-style-third-wave-coffee-makes-inroads-turkey/)
 - [New Technology Could Keep Billions of Male Chicks From Being Ground Alive](http://modernfarmer.com/2016/11/new-technology-keep-billions-male-chicks-ground-alive/)
 
 ## Big Picture
 - [Election Day 2016](http://www.bostonglobe.com/news/bigpicture/2016/11/08/election-day/t8NLsqVbzGsKMKw4zvgwuO/story.html)
 
+## CGP Grey
+- [The Trouble With The Electoral College [Updated]](http://www.cgpgrey.com/blog/the-trouble-with-the-electoral-college-updated)
+
 ## The Journal of Pediatrics
+- [White Matter Volume Predicts Language Development in Congenital Heart Disease](http://www.jpeds.com/article/S0022-3476(16)31054-X/fulltext?rss=yes)
 - [Information for Readers](http://www.jpeds.com/article/S0022-3476(16)30969-6/fulltext?rss=yes)
 - [Masthead](http://www.jpeds.com/article/S0022-3476(16)30968-4/fulltext?rss=yes)
 - [Table of Contents](http://www.jpeds.com/article/S0022-3476(16)30966-0/fulltext?rss=yes)
@@ -114,6 +192,7 @@ Issa Rae for...](http://nprfreshair.tumblr.com/post/152911615938)
 - [50 Years Ago in The Journal of Pediatrics](http://www.jpeds.com/article/S0022-3476(16)30220-7/fulltext?rss=yes)
 
 ## WebUrbanist
+- [Excavated Sanctuaries: Building Beneath a Protected Valley in Jordan](http://feedproxy.google.com/~r/WebUrbanist/~3/wzPxHvDAJZg/)
 - [Art of Camouflage: Flying Bird Silhouettes Blend into Broken Window Voids](http://feedproxy.google.com/~r/WebUrbanist/~3/1p2icnbSbPQ/)
 
 ## Evil Mad Scientist Laboratories
@@ -133,7 +212,19 @@ Issa Rae for...](http://nprfreshair.tumblr.com/post/152911615938)
 ## Root Simple
 - [Bidens rebuttal](http://feedproxy.google.com/~r/HomegrownEvolution/~3/SdDyp_WVUaQ/)
 
+## Jake and Amir
+- [Episode 243: Morning After Trump](http://jakeandamir.com/post/152959686197)
+
 ## Features – FiveThirtyEight
+- [Clinton Couldn’t Win Over White Women](http://fivethirtyeight.com/features/clinton-couldnt-win-over-white-women/)
+- [What A Difference 2 Percentage Points Makes](http://fivethirtyeight.com/features/what-a-difference-2-percentage-points-makes/)
+- [Trump’s Win Hasn’t Crashed The Markets — At Least Not yet](http://fivethirtyeight.com/features/trumps-win-hasnt-crashed-the-markets-at-least-not-yet/)
+- [Trump’s Trajectory Is Unique But Contains Echoes Of The Past](http://fivethirtyeight.com/features/trumps-trajectory-is-unique-but-contains-echoes-of-the-past/)
+- [The Polls Missed Trump. We Asked Pollsters Why.](http://fivethirtyeight.com/features/the-polls-missed-trump-we-asked-pollsters-why/)
+- [We Asked Three Voters How They’re Feeling After Trump Won](http://fivethirtyeight.com/features/the-voters-react/)
+- [Elections Podcast: President Trump](http://fivethirtyeight.com/features/elections-podcast-president-trump/)
+- [The College Football Playoff Picture Looks Tidy Now, But That Will Probably Change](http://fivethirtyeight.com/features/the-college-football-playoff-picture-looks-tidy-now-but-that-will-probably-change/)
+- [Are The Winless Pelicans And Sixers Equally Bad?](http://fivethirtyeight.com/features/are-the-0-8-pelicans-and-0-6-sixers-equally-bad/)
 - [Significant Digits For Wednesday, Nov. 9, 2016](http://fivethirtyeight.com/features/significant-digits-for-wednesday-nov-9-2016/)
 - [Election Night Analysis: Live Video](http://fivethirtyeight.com/features/live-election-night-video/)
 - [Final Election Update: There’s A Wide Range Of Outcomes, And Most Of Them Come Up Clinton](http://fivethirtyeight.com/features/final-election-update-theres-a-wide-range-of-outcomes-and-most-of-them-come-up-clinton/)
@@ -141,27 +232,31 @@ Issa Rae for...](http://nprfreshair.tumblr.com/post/152911615938)
 - [Can Miami Convince The Supreme Court That Subprime Loans Hurt Cities, Too?](http://fivethirtyeight.com/features/can-miami-convince-the-supreme-court-that-subprime-loans-hurt-cities-too/)
 - [An Hour-By-Hour Guide To Election Night](http://fivethirtyeight.com/features/how-to-watch-election-night/)
 
+## Internet Archive Blogs
+- [US Election Results](http://blog.archive.org/2016/11/09/us-election-results/)
+
 ## Mattias Inks
 - [the Dali Katch](http://feedproxy.google.com/~r/blogspot/SZAN/~3/K3BvG-ZQJ74/the-dali-katch.html)
 - [Air baroque economy class](http://feedproxy.google.com/~r/blogspot/SZAN/~3/I7PEf-Agh4M/air-baroque-economy-class.html)
 - [holding my breath](http://feedproxy.google.com/~r/blogspot/SZAN/~3/6yaoUQSaDRw/holding-my-breath.html)
 
 ## WIRED
+- [Trump’s Win Isn’t the Death of Data—It Was Flawed All Along](https://www.wired.com/2016/11/trumps-win-isnt-death-data-flawed-along/)
+- [America’s Brief Role as a Climate Leader Is Probably Over](https://www.wired.com/2016/11/americas-brief-role-climate-leader-probably/)
+- [Trump’s Win Signals Open Season for Russia’s Political Hackers](https://www.wired.com/2016/11/trumps-win-signals-open-season-russias-political-hackers/)
+- [Doctor Strange Has Us Totally Entranced](https://www.wired.com/2016/11/culture-podcast-72/)
+- [Clinton and Obama To Youth of America: Do Not Lose Heart](https://www.wired.com/2016/11/clinton-obama-youth-america-not-lose-heart/)
+- [An Incredible 360-Degree Look Behind the Scenes of Planet Earth II](https://www.wired.com/2016/11/incredible-360-degree-look-behind-scenes-planet-earth-ii/)
+- [Paul Ryan’s First Priority? Make Nice With Donald Trump](https://www.wired.com/2016/11/paul-ryans-first-priority-make-nice-donald-trump/)
+- [Watch Hillary Clinton’s Concession Speech Here](https://www.wired.com/2016/11/watch-hillary-clintons-concession-speech/)
+- [How NASA Will Choose Astronauts for Its Incredible Journey to Mars](https://www.wired.com/2016/11/nasa-will-choose-first-mars-faring-astronauts/)
 - [Facebook’s Race-Targeted Ads Aren’t as Racist As You Think](https://www.wired.com/2016/11/facebooks-race-targeted-ads-arent-racist-think/)
-- [This Florida Firefighter’s Instagram Is Better Than Yours](https://www.wired.com/2016/11/florida-firefighters-instagram-better/)
-- [WIRED Binge-Watching Guide: Nip/Tuck](https://www.wired.com/2016/11/wired-binge-watching-guide-niptuck/)
-- [Eagle Flight Lets You Soar In VR, But May Make You an Angry Bird](https://www.wired.com/2016/11/eagle-flight-vr-review/)
-- [VR Is Totally Changing How Architects Dream Up Buildings](https://www.wired.com/2016/11/vr-totally-changing-architects-dream-buildings/)
-- [Legal Weed Has Arrived. Get Ready for the Budweiser of Bud](https://www.wired.com/2016/11/legal-weed-arrived-get-ready-budweiser-bud/)
-- [Trump’s Big Data Mind Explains How He Knew Trump Could Win](https://www.wired.com/2016/11/trump-polling-data/)
-- [Instagram Users Post Black Squares After Trump Wins US Presidency](https://www.wired.com/2016/11/instagram-trump-win/)
-- [Donald Trump Becomes the 45th President of the United States](https://www.wired.com/2016/11/donald-trump-becomes-the-45th-president-of-the-united-states/)
-- [How Clinton Supporters Made the Pantsuit a Serious Symbol of Power](https://www.wired.com/2016/11/clinton-pantsuits/)
 
 ## We Make Money Not Art
 - [Magazines to make you forget that we’ve just entered the Dark Age: The Funambulist, Neural and Gambiologos](http://we-make-money-not-art.com/magazines-to-make-you-forget-that-weve-just-entered-the-dark-age-the-funambulist-neural-and-gambiologos/)
 
 ## Dilbert Daily Strip
+- [Comic for November 09, 2016](http://feedproxy.google.com/~r/DilbertDailyStrip/~3/vmJD2549PSw/2016-11-09)
 - [Comic for November 08, 2016](http://feedproxy.google.com/~r/DilbertDailyStrip/~3/0k5qG7c8no0/2016-11-08)
 
 ## Word Spy
@@ -420,26 +515,32 @@ Issa Rae for...](http://nprfreshair.tumblr.com/post/152911615938)
 - [Economic and Commercial Real Estate Outlook](http://feedproxy.google.com/~r/RealtororgResearchHeadlines/~3/1kmSiR9ekOY/economic-and-commercial-real-estate-outlook)
 
 ## GOOD
+- [Donald Trump&rsquo;s Dream Presidential Cabinet Is A Gallery Of Disgraced Party Cronies](http://www.good.is/posts/trump-cabinet-palin-giuliani-christi)
+- [The Emotional State Of America In 15 GIFs&nbsp;](http://www.good.is/posts/post-election-emotions-gifs)
+- [Here&rsquo;s What We Know About President Trump and Climate Change](http://www.good.is/posts/explainer-president-trump-climate-change-fossil-fuels)
+- [Hillary&rsquo;s Concession Speech Contained This Powerful Advice To Young Girls](http://www.good.is/posts/hillary-clinton-concession-speech)
+- [I&rsquo;ll &ldquo;Process&rdquo; Tomorrow&mdash;Right Now I&rsquo;m Really Angry](http://www.good.is/posts/im-angry-at-donald-trump)
+- [It&rsquo;s A Great&nbsp;Time For Marijuana In America](http://www.good.is/posts/marijuana-election-legalization)
+- [Former KKK Leader David Duke References &lsquo;Our People&rsquo; In Celebration Of Trump&rsquo;s Victory](http://www.good.is/posts/david-duke-trump-victory)
+- [Don&rsquo;t Despair Just Yet, These 5 Powerful Women Made History Last Night](http://www.good.is/posts/women-elected-across-america)
+- [This Beautiful Behind-The-Back Home Run Is As Effortless As It Is Unexpected](http://www.good.is/posts/softball-home-run)
+- [Hillary Clinton Actually Won The Popular Vote](http://www.good.is/posts/hillary-clinton-won-popular-vote)
+- [Michael Moore&rsquo;s &ldquo;Morning After To-Do List&rdquo; Facebook Post For Democrats Is Going Viral](http://www.good.is/posts/moore-five-point-plan)
+- [Minimum Wage Made Huge Gains In 4 States](http://www.good.is/posts/minimum-wage-election)
+- [5 Factors That Led To Trump&rsquo;s Presidential Victory](http://www.good.is/posts/explainer-5-things-that-led-to-trump-victory)
 - [What Now?](http://www.good.is/posts/donald-trump-president-what-now)
 - [Donald Trump Will Be Our Next President&nbsp;](http://www.good.is/posts/donald-trump-wins-presidency)
 - [Van Jones Perfectly Explains How All Clinton Supporters Feel Right Now](http://www.good.is/posts/van-jones-whitelash-presidential-election)
 - [How To Legally Rig An Election](http://www.good.is/posts/rig-an-election)
 - [If Hillary Wants To Win Tonight She&rsquo;s Going To Need America&rsquo;s Cities To Come Through](http://www.good.is/posts/exurban-voters-for-trump)
-- [Twitter Is Losing It On Florida Right Now&nbsp;](http://www.good.is/posts/twitter-reactions-florida)
-- [Is This Election Already Over? A Look At The Early Winners And Losers](http://www.good.is/posts/early-election-results)
-- [&lsquo;The Voter Suppression Trail&rsquo; Shows The Racial Disparity In The U.S. Election Process](http://www.good.is/posts/voter-suppression-trail)
-- [Random Act of Sport: Barack Obama Effortlessly Catches Fly On Live Television](http://www.good.is/posts/president-obama-catches-fly)
-- [Voters Commemorate A Historic Election Day At Susan B. Anthony&#39;s Grave&nbsp;](http://www.good.is/posts/celebrating-susan-b-and-hrc)
-- [Here&rsquo;s How The Media Projects A Presidential Winner](http://www.good.is/posts/calling-presidential-election)
-- [A Baby Iguana Fights Off Dozens Of Attacking Snakes In This Amazing Nature Clip](http://www.good.is/posts/iguana-snakes-chase)
-- [The 7 People (And Pets) We&rsquo;ll Miss The Most Once The Election Is Over&nbsp;](http://www.good.is/posts/best-election-moments)
-- [102-Year-Old Jerry Emmett Casts Her Vote For Hillary Clinton](http://www.good.is/posts/102-year-old-votes-for-hillary)
-- [Eric Trump Just Broke The Law In The Voting Booth. Don&rsquo;t Make The Same Mistake.&nbsp;](http://www.good.is/posts/eric-trump-busted)
-- [Tweet From &lsquo;The People Of Germany&rsquo; Warns Americans About Trump&nbsp;](http://www.good.is/posts/people-of-germany-on-trump)
-- [It&rsquo;s Time To Fall In Love With Democracy Again. Here&rsquo;s How](http://www.good.is/posts/millennials-dont-trust-democracy)
-- [GOOD&rsquo;s In-House Yoga Teacher Shares How To Stay Zen This Election Day](http://www.good.is/posts/stay-calm-election-day)
 
 ## Grist
+- [Colorado voters just made it a lot harder to pass fracking bans.](http://grist.org/briefly/colorado-voters-just-made-it-a-lot-harder-to-pass-fracking-bans/)
+- [Worried about your reproductive rights? Here’s what to do.](http://grist.org/briefly/worried-about-your-reproductive-rights-heres-what-to-do/)
+- [West Virginia’s top mine safety delinquent is also its new governor.](http://grist.org/briefly/west-virginias-top-mine-safety-delinquent-is-also-its-new-governor/)
+- [A bundle of food-related measures passed last night.](http://grist.org/briefly/a-bundle-of-food-related-measures-passed-last-night/)
+- [World continues spinning on its axis.](http://grist.org/briefly/world-continues-spinning-on-its-axis/)
+- [Global climate activists try not to freak out over Trump’s win](http://grist.org/climate-energy/global-climate-activists-try-not-to-freak-out-over-trumps-win/)
 - [Washington state voters rejected a carbon-tax ballot initiative.](http://grist.org/briefly/washington-state-voters-have-rejected-a-carbon-tax-ballot-initiative/)
 - [Trump’s win is a deadly threat to stopping climate change.](http://grist.org/briefly/trumps-win-is-a-deadly-threat-to-stopping-climate-change/)
 - [Florida voted down an anti-solar initiative.](http://grist.org/briefly/florida-voted-down-an-anti-solar-initiative/)
@@ -451,7 +552,12 @@ Issa Rae for...](http://nprfreshair.tumblr.com/post/152911615938)
 - [Are “I Voted” stickers bad for the planet?](http://grist.org/briefly/are-i-voted-stickers-bad-for-the-planet/)
 - [This really is a climate change election](http://grist.org/election-2016/this-really-is-a-climate-change-election/)
 
+## Colossal
+- [Artist Charles Young’s Growing Metropolis of 635 Paper Structures](http://www.thisiscolossal.com/2016/11/artist-charles-youngs-growing-metropolis-of-635-paper-structures/)
+- [Explosive Scrap Timber Assemblages by Louise McRae](http://www.thisiscolossal.com/2016/11/explosive-scrap-timber-assemblages-by-louise-mcrae/)
+
 ## In Custodia Legis: Law Librarians of Congress
+- [An Interview with Irma Gabriadze, Professional Fellow](http://blogs.loc.gov/law/2016/11/an-interview-with-irma-gabriadze-professional-fellow/)
 - [Additional Historical Statutes at Large Added to Law.gov](http://blogs.loc.gov/law/2016/11/additional-historical-statutes-at-large-added-to-law-gov/)
 
 ## Lightspeed MagazineLightspeed Magazine - Science Fiction & Fantasy
@@ -462,13 +568,18 @@ Issa Rae for...](http://nprfreshair.tumblr.com/post/152911615938)
 - [Under the Eaves](http://www.lightspeedmagazine.com/fiction/under-the-eaves/)
 
 ## Design MilkDesign Milk
+- [Pull Up A Chair Or A Rug And Stay A While At Calliope](http://feedproxy.google.com/~r/design-milk/~3/hKF8P4xYjEQ/)
+- [Minimalist Chicken Coop by RASKL](http://feedproxy.google.com/~r/design-milk/~3/nxjXMBuhK5E/)
+- [Design Milk Gets a Refresh!](http://feedproxy.google.com/~r/design-milk/~3/s2e0zTHY01U/)
+- [Favorites from Westedge Design Fair 2016](http://feedproxy.google.com/~r/design-milk/~3/Cz3rIFb0n4M/)
+- [Dustin Kroft of KROFT on Making Handcrafted Furniture and Running a Small Biz Shop](http://feedproxy.google.com/~r/design-milk/~3/Suwl8QMXCNA/)
+- [Facet: An Interactive Space Divider](http://feedproxy.google.com/~r/design-milk/~3/E_XHZB0GyR4/)
 - [The Naked Collection from Deadgood](http://feedproxy.google.com/~r/design-milk/~3/ActF4MTAKzY/)
 - [Design Milk Travels to… Los Angeles](http://feedproxy.google.com/~r/design-milk/~3/Av1kMzC6hdI/)
 - [A Bachelor’s Flat in Kiev That Focuses on Minimalism](http://feedproxy.google.com/~r/design-milk/~3/2o2kdOuP4Zw/)
 - [A Chair Created Through Generative Design](http://feedproxy.google.com/~r/design-milk/~3/XhqvSSVshmU/)
 - [Furniture Made From Puzzle Pieces](http://feedproxy.google.com/~r/design-milk/~3/RlJOKc91czs/)
 - [A Skeleton Frame Bookshelf by Vrokka](http://feedproxy.google.com/~r/design-milk/~3/wTl4SA4331k/)
-- [How Block Shop’s Soleri Scarf is Conceived](http://feedproxy.google.com/~r/design-milk/~3/1k8whSv6GVs/)
 
 ## McSweeney’s
 - [Every Episode of  Black Mirror](https://www.mcsweeneys.net/articles/every-episode-of-black-mirror)
@@ -505,12 +616,12 @@ Issa Rae for...](http://nprfreshair.tumblr.com/post/152911615938)
 - [Infernal 1.1: RNA alignment and database search, 10,000x faster](http://selab.janelia.org/people/eddys/blog/?p=643)
 
 ## BuzzFeed Index - Latest
-- [This Baby Was Born With The Exact White Streak In Her Hair As Her Mother](https://www.buzzfeed.com/javiermoreno/this-baby-was-born-with-the-exact-white-streak-in-her-hair-a?utm_term=4ldqpia)
+- [This Baby Was Born With The Exact Same White Streak In Her Hair As Her Mother](https://www.buzzfeed.com/javiermoreno/this-baby-was-born-with-the-exact-white-streak-in-her-hair-a?utm_term=4ldqpia)
 - [We Want To Know The Best Hidden Spots In Phoenix](https://www.buzzfeed.com/maycie/we-want-to-know-what-the-best-hidden-spots-in-phoe?utm_term=4ldqpia)
 - [26 Times "La Rosa De Guadalupe" Ruined Your Life](https://www.buzzfeed.com/norbertobriceno/la-rosa-de-guadalupe-ruined-your-life?utm_term=4ldqpia)
 - [Only Spicy Food Fans Can Handle This Hot Pepper Quiz](https://www.buzzfeed.com/sarahaspler/can-you-pass-this-hot-pepper-quiz?utm_term=4ldqpia)
 - [Only People With Intense Color Vision Can See This Purple Leaf](https://www.buzzfeed.com/anjalipatel/can-you-find-the-beautiful-purple-leaf-in-under-a-minute?utm_term=4ldqpia)
-- [25 Incredible Treehouses You Can Actually Rent](https://www.buzzfeed.com/danielacadena/incredible-treehouses-you-can-actually-rent?utm_term=4ldqpia)
+- [25 Amazing And Affordable Treehouses You'll Want To Rent For Your Next Vacay](https://www.buzzfeed.com/danielacadena/incredible-treehouses-you-can-actually-rent?utm_term=4ldqpia)
 - [31 Tumblr Posts That'll Leave You Shook](https://www.buzzfeed.com/erinchack/31-tumblr-posts-thatll-leave-you-shook?utm_term=4ldqpia)
 - [I Did The Whole30 Food Challenge And Lived To Tell The Tale](https://www.buzzfeed.com/laraparker/i-did-the-whole30-food-challenge-and-lived-to-tell-the-tale?utm_term=4ldqpia)
 - [Send Us Your Best Voting Day Picture!](https://www.buzzfeed.com/michelleno/send-us-a-picture-of-you-voting?utm_term=4ldqpia)
@@ -522,6 +633,9 @@ Issa Rae for...](http://nprfreshair.tumblr.com/post/152911615938)
 - [11 Big Butt Problems Your Booty Needs To Apologize For](https://www.buzzfeed.com/annaborges/yes-i-know-the-leg-is-weird?utm_term=4ldqpia)
 - [What's Your Favorite Obscure "Harry Potter" Quote?](https://www.buzzfeed.com/laraparker/whats-your-favorite-obscure-quote-from-harry-potter?utm_term=4ldqpia)
 - [36 Starbucks Name Fails That Are So Bad They're Actually Good](https://www.buzzfeed.com/jonmichaelpoff/starbucks-name-fails?utm_term=4ldqpia)
+
+## The Curious Wavefunction
+- [Richard Feynman on our difficult times: "Whatever else is going on, we've always got our physics."](http://feedproxy.google.com/~r/curiouswavefunction/~3/fFl-SEdo0KI/richard-feynman-on-our-difficult-times.html)
 
 ## kottke.org
 - [An American Tragedy](http://kottke.org/16/11/an-american-tragedy)
@@ -575,7 +689,6 @@ Issa Rae for...](http://nprfreshair.tumblr.com/post/152911615938)
 - [Atomic-AES v 2.0, by Subhadeep Banik and Andrey Bogdanov and Francesco Regazzoni](http://eprint.iacr.org/2016/1005)
 - [Private Circuits III: Hardware Trojan-Resilience via Testing Amplification, by Stefan Dziembowski and Sebastian Faust and Francois-Xavier Standaert](http://eprint.iacr.org/2016/1004)
 - [Cryptanalysis of Indistinguishability Obfuscations of Circuits over GGH13, by Daniel Apon and Nico D\"{o}ttling and Sanjam Garg and Pratyay Mukherjee](http://eprint.iacr.org/2016/1003)
-- [Decryption phase in Norwegian electronic voting, by Anders Smedstuen Lund and Martin Strand](http://eprint.iacr.org/2016/1002)
 - [Revisiting RC4 Key Collision: Faster Search Algorithm and New 22-byte Colliding Key Pairs, by Amit Jana and Goutam Paul](http://eprint.iacr.org/2016/1001)
 - [Solving Trapdoor Basis of Ideal Lattice from Public Basis , by Yupu Hu and Zhizhu Lian and Jiangshan Chen](http://eprint.iacr.org/2016/1000)
 - [Cryptanalyses of Candidate Branching Program Obfuscators, by Yilei Chen and Craig Gentry and Shai Halevi](http://eprint.iacr.org/2016/998)
@@ -586,16 +699,15 @@ Issa Rae for...](http://nprfreshair.tumblr.com/post/152911615938)
 - [Computing generator in cyclotomic integer rings, by Thomas Espitau and Pierre-Alain Fouque and Alexandre Gélin and Paul Kirchner](http://eprint.iacr.org/2016/957)
 - [Fast Actively Secure OT Extension for Short Secrets, by Arpita Patra and Pratik Sarkar and  Ajith Suresh](http://eprint.iacr.org/2016/940)
 - [Asymptotically Tight Bounds for Composing ORAM with PIR, by Kartik Nayak and Ling Ren and Christopher W Fletcher and Ittai Abraham and Benny Pinkas](http://eprint.iacr.org/2016/849)
-- [All the AES You Need on Cortex-M3 and M4, by Peter Schwabe and Ko Stoffelen](http://eprint.iacr.org/2016/714)
 - [Overlaying Circuit Clauses for Secure Computation, by W. Sean Kennedy and Vladimir Kolesnikov and Gordon Wilfong](http://eprint.iacr.org/2016/685)
 - [Post-Quantum Cryptography on FPGA Based on Isogenies on Elliptic Curves, by Brian Koziel, Reza Azarderakhsh, Mehran Mozaffari Kermani, David Jao](http://eprint.iacr.org/2016/672)
 - [NEON-SIDH: Efficient Implementation of Supersingular Isogeny Diffie-Hellman Key-Exchange Protocol on ARM, by Brian Koziel, Amir Jalali, Reza Azarderakhsh, Mehran Mozaffari Kermani and David Jao](http://eprint.iacr.org/2016/669)
 - [5Gen: A Framework for Prototyping Applications Using Multilinear Maps and Matrix Branching Programs, by Kevin Lewi and Alex J. Malozemoff and Daniel Apon and Brent Carmer and Adam Foltzer and Daniel Wagner and David W. Archer and Dan Boneh and Jonathan Katz and Mariana Raykova](http://eprint.iacr.org/2016/619)
 - [A Survey of Microarchitectural Timing Attacks and Countermeasures on Contemporary Hardware, by Qian Ge and Yuval Yarom and David Cock and Gernot Heiser](http://eprint.iacr.org/2016/613)
+- [Speeding up the Number Theoretic Transform for Faster Ideal Lattice-Based Cryptography, by Patrick Longa and Michael Naehrig](http://eprint.iacr.org/2016/504)
 - [Proof of Knowledge on Monotone Predicates and its Application to Attribute-Based Identification and Signature, by Hiroaki Anada and Seiko Arita and Kouichi Sakurai](http://eprint.iacr.org/2016/483)
 - [Side-Channel Analysis Protection and Low-Latency in Action - case study of PRINCE and Midori, by Amir Moradi and Tobias Schneider](http://eprint.iacr.org/2016/481)
 - [Two-Input Functional Encryption for Inner Products from Bilinear Maps, by Kwangsu Lee and Dong Hoon Lee](http://eprint.iacr.org/2016/432)
-- [Homomorphic Encryption for Arithmetic of Approximate Numbers, by Jung Hee Cheon, Andrey Kim, Miran Kim, and Yongsoo Song](http://eprint.iacr.org/2016/421)
 - [Can PPAD Hardness be Based on Standard Cryptographic Assumptions?, by Alon Rosen and Gil Segev and Ido Shahaf](http://eprint.iacr.org/2016/375)
 - [Arithmetic Coding and Blinding Countermeasures for Lattice Signatures: Engineering a Side-Channel Resistant Post-Quantum Signature Scheme with Compact Signatures, by Markku-Juhani O. Saarinen](http://eprint.iacr.org/2016/276)
 - [On Post-Compromise Security, by Katriel Cohn-Gordon and Cas Cremers and Luke Garratt](http://eprint.iacr.org/2016/221)
@@ -616,10 +728,16 @@ Issa Rae for...](http://nprfreshair.tumblr.com/post/152911615938)
 - [Post-quantum key exchange for the TLS protocol from the ring learning with errors problem, by Joppe W. Bos and Craig Costello and Michael Naehrig and Douglas Stebila](http://eprint.iacr.org/2014/599)
 - [The Joint Signature and Encryption Revisited, by Laila El Aimani](http://eprint.iacr.org/2012/154)
 
-## Browse All Reports
-- [Applications of Clinical Microbial Next-Generation Sequencing, February 2016](http://academy.asm.org/index.php/browse-all-reports/5413-applications-of-clinical-microbial-next-generation-sequencing)
+## National Geographic News
+- [A Last Look at the U.S. Presidential Candidates’ Stances on Science](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/ZqLuUodyAvk/)
+- [Huge Puffin Die-Off May Be Linked to Hotter Seas](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/BZT4kvctowM/)
+- [Hero Lost at Pearl Harbor Comes Home After Years in an Unknown Grave](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/j-jjxJUtU5I/)
 
 ## OET Experimental Licensing Branch Recent Grants
+- [File Number: 0128-EX-CN-2016, Callsign: WI2XOP](../reports/GetApplicationInfo.cfm?id_file_num=0128-EX-CN-2016)
+- [File Number: 0079-EX-CN-2016, Callsign: WI2XOR](../reports/GetApplicationInfo.cfm?id_file_num=0079-EX-CN-2016)
+- [File Number: 0066-EX-CN-2016, Callsign: WI2XOE](../reports/GetApplicationInfo.cfm?id_file_num=0066-EX-CN-2016)
+- [File Number: 0059-EX-CN-2016, Callsign: WI2XOS](../reports/GetApplicationInfo.cfm?id_file_num=0059-EX-CN-2016)
 - [File Number: 1446-EX-ST-2016, Callsign: WI9XQD](../reports/GetApplicationInfo.cfm?id_file_num=1446-EX-ST-2016)
 - [File Number: 1440-EX-ST-2016, Callsign: WK9XLX](../reports/GetApplicationInfo.cfm?id_file_num=1440-EX-ST-2016)
 - [File Number: 1589-EX-ST-2016, Callsign: WK9XOA](../reports/GetApplicationInfo.cfm?id_file_num=1589-EX-ST-2016)
@@ -628,26 +746,63 @@ Issa Rae for...](http://nprfreshair.tumblr.com/post/152911615938)
 ## Planet Haskell
 - [Brent Yorgey: The divided difference track](https://byorgey.wordpress.com/2016/11/08/the-divided-difference-track/)
 - [FP Complete: Covariance and Contravariance](http://www.fpcomplete.com/blog/2016/11/covariance-contravariance)
+- [Sandy Maguire: Book Announcement](http://reasonablypolymorphic.com//blog/book-announcement)
 
 ## TechFragments
+- [Metamaterials Enable Semiconductor-free Microelectronic Device](http://techfragments.com/semiconductor-free-microelectronics/)
 - [Graded Bandgap Perovskite Solar Cells Set Efficiency Record](http://techfragments.com/perovskite-efficiency-record/)
 
-## National Geographic News
-- [A Last Look at the U.S. Presidential Candidates’ Stances on Science](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/ZqLuUodyAvk/)
-- [Huge Puffin Die-Off May Be Linked to Hotter Seas](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/BZT4kvctowM/)
-- [Hero Lost at Pearl Harbor Comes Home After Years in an Unknown Grave](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/j-jjxJUtU5I/)
+## Browse All Reports
+- [Applications of Clinical Microbial Next-Generation Sequencing, February 2016](http://academy.asm.org/index.php/browse-all-reports/5413-applications-of-clinical-microbial-next-generation-sequencing)
 
 ## Garden and Gun
+- [A Cool New NOLA Arrival in Savannah](http://gardenandgun.com/blog/cool-new-nola-arrival-savannah)
 - [Country Music Hair Through the Decades](http://gardenandgun.com/blog/country-music-hair-through-decades)
 
 ## FT Data
 - [Datawatch: world’s largest cities](http://blogs.ft.com/ftdata/2016/11/08/datawatch-world-largest-cities/)
 
 ## someecards.com
+- [Macklemore reacts to Trump win as a dad: 'Donald Trump is not raising my daughter. I am.'](http://www.someecards.com/entertainment/celebrities/macklemore-reacts-trump-win-daughter/)
+- [](http://www.someecards.com/family-cards/presidents-come-go-disagreeing-family-forever)
+- [13 tweets from people who believe #Kanye2020 will save us all.](http://www.someecards.com/entertainment/celebrities/kanye-west-for-president-2020-twitter/)
+- [Martin Shkreli is going to be Katy Perry's 'new right-wing boyfriend?' Ew.](http://www.someecards.com/entertainment/celebrities/martin-shkreli-offered-to-be-katy-perrys-bf-lily-allen/)
+- [](http://www.someecards.com/encouragement-cards/let-me-know-cheered-up-someone-sobbing-14-hours)
+- [George R.R. Martin on President Trump: ‘Winter is Coming.'](http://www.someecards.com/news/politics/george-rr-martin-trump-election-winter-is-coming/)
+- [This guy is living his dream and it involves a lot of pizza (and frequent flyer miles).](http://www.someecards.com/life/digital-life/attractive-man-eats-pizza-around-the-world/)
+- [](http://www.someecards.com/sympathy-cards/sorry-celebrated-clintons-victory-early-woke-hungover-trump)
+- [This girl for sure had the most extreme reaction to Trump's win than anybody ever.](http://www.someecards.com/news/politics/extreme-reaction-to-the-election-twitter/)
+- [A divided nation still can't tell whether this creature is a cat or a dog.](http://www.someecards.com/cute/animals/fuzzy-animal-cat-dog/)
+- [Mom goes on Instagram to reveal the 'unspoken reality' of struggling to breastfeed.](http://www.someecards.com/parenting/moms/annie-may-mother-struggling-to-breastfeed/)
+- [](http://www.someecards.com/sympathy-cards/hillary-condolence-email-fbi-would-investigate)
+- [George Takei, who survived interment camps, offers message of hope.](http://www.someecards.com/news/politics/geogre-takei-star-trek-star-dont-despair/)
+- [Cry along with Miley Cyrus’s post-election video.](http://www.someecards.com/entertainment/celebrities/miley-cyrus-trump-win-tears-video/)
+- [Start the healing by watching Dr. Pimple Popper squeeze out more of Momma Squishy's gooey cysts.](http://www.someecards.com/videos/wtf/dr-pimple-popper-momma-squishy-part-6/)
+- ['The Simpsons' predicted a Donald Trump presidency in 2000.](http://www.someecards.com/entertainment/tv/simpsons-predicted-donald-trump-presidency/)
+- [](http://www.someecards.com/sorry-cards/sorry-candidate-won-blamed-everything-next-four-years)
+- [Internet strangers help grieving dad uncover his late wife's lullabies.](http://www.someecards.com/parenting/dads/reddit-helps-uncover-late-wife-lullabies/)
+- [Woops, this guy's apocalypse t-shirt just got a lot less funny.](http://www.someecards.com/news/politics/donald-trump-brexit-apocalypse-t-shirt/)
+- [Kylie Jenner's dogs have their own room, because of course they do.](http://www.someecards.com/entertainment/celebrities/kylie-jenner-dogs-room/)
+- [](http://www.someecards.com/workplace-cards/job-incompetence-less-visible-election-pollsters)
+- [8 happy stories from today to get your mind off politics.](http://www.someecards.com/news/so-that-happened/good-news/)
+- [Hillary gives emotional concession speech, hopes Trump will be a successful president.](http://www.someecards.com/news/policitcs/hillary-tweeting-her-concession-speech/)
+- [Canada threw a savage subtweet at America on election night.](http://www.someecards.com/news/politics/canada-subtweet-america-during-election/)
+- [Ellen DeGeneres says America's already great because of all our differences.](http://www.someecards.com/entertainment/tv/ellen-degeneres-hopeful-message/)
+- [](http://www.someecards.com/news-cards/congratulations-trump-good-luck-journalists-on-list)
+- [This dad's letter to his daughters after Trump won provides some much-needed comfort.](http://www.someecards.com/news/politics/dads-letter-to-daughter-after-trump-win-joel-levin/)
+- [Lady Gaga wasted no time protesting outside of Trump Tower.](http://www.someecards.com/entertainment/celebrities/lady-gaga-protests-trump/)
+- [The internet is trying to guilt Michelle Obama back into the White House in 2020.](http://www.someecards.com/news/politics/michelle-obama-2020/)
+- [19 people finding the election's silver (green) lining in newly legalized marijuana.](http://www.someecards.com/news/so-that-happened/2016-election-legal-marijuana/)
+- [British people are bragging that they're not the most racist idiots in the world anymore.](http://www.someecards.com/news/politics/election-trump-brexit-tweets/)
+- [The Canadian immigration website couldn't handle all the panicked Americans last night.](http://www.someecards.com/news/politics/canadian-immigration-website-crash-election/)
+- [](http://www.someecards.com/news-cards/heres-to-the-first-president-who-might-sue-over-an-ecard)
 - [Watch and read Donald Trump's full acceptance speech asking America to 'come together.'](http://www.someecards.com/news/politics/donald-trump-acceptance-speech-video-text/)
+- [Celebrities laugh, mourn, and celebrate Trump's shocking victory.](http://www.someecards.com/entertainment/celebrities/celebrities-react-trump-win/)
+- [CNN commenter Van Jones goes viral in emotional reaction: 'How do I explain this to my children?'](http://www.someecards.com/news/politics/van-jones-reacts-election-results/)
 - [](http://www.someecards.com/news-cards/congratulations-trump-winning-election-rigged)
+- [Did someone actually yell 'Kill Obama' during Trump's acceptance speech? It's hard to tell.](http://www.someecards.com/news/politics/donald-trump-acceptance-speech-kill-obama/)
 - [Stephen Colbert tries his absolute best to make sense of what happened last night.](http://www.someecards.com/news/politics/stephen-colbert-post-election-makes-sense/)
-- [The 'funniest' reactions to Donald Trump winning the presidential election. God help us all.](http://www.someecards.com/news/politics/donald-trump-winning-reactions/)
+- [The 'funniest' reactions to Donald Trump winning the presidential election.](http://www.someecards.com/news/politics/donald-trump-winning-reactions/)
 - [21 post-election tweets about moving to Canada, Europe, Mars and anywhere else but here.](http://www.someecards.com/news/tweet-picks/post-election-tweets-about-moving-abroad/)
 - [21 people on social media asking what went wrong in this election.](http://www.someecards.com/news/tweet-picks/21-best-reactions-to-election-results/)
 - [13 election watchers on social media who are in a state of pure panic.](http://www.someecards.com/news/politics/election-tweets-panic/)
@@ -715,6 +870,7 @@ Issa Rae for...](http://nprfreshair.tumblr.com/post/152911615938)
 - [Links for November 8th](http://feedproxy.google.com/~r/infovoredotorg/~3/Zx6VLw7rUZE/)
 
 ## Singularity HUB
+- [Battle of the Bots: How AI Is Taking Over the World of Cybersecurity](http://singularityhub.com/2016/11/09/battle-of-the-bots-how-ai-is-taking-over-the-world-of-cybersecurity/)
 - [Researchers Repair Brain Damage in Mice With Stem Cell Transplants](http://singularityhub.com/2016/11/08/researchers-repair-brain-damage-in-mice-with-stem-cell-transplants/)
 - [The Motivating Power of a Massive Transformative Purpose](http://singularityhub.com/2016/11/08/the-motivating-power-of-a-massive-transformative-purpose/)
 

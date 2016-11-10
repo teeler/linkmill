@@ -1,6 +1,9 @@
 # FOOD
 
 ## Serious Eats
+- [Kick the Can: 8 Fresh Thanksgiving Green Bean Recipes](http://feeds.seriouseats.com/~r/seriouseatsfeaturesvideos/~3/mcUpoRugHz4/thanksgiving-green-bean-recipes.html)
+- [Ask Serious Eats: Your Thanksgiving Questions, Answered](http://feeds.seriouseats.com/~r/seriouseatsfeaturesvideos/~3/VFsNeZvm7Zk/faq)
+- [The Food Lab: 18 Comfort Foods, in Case You Need Comforting Now](http://feeds.seriouseats.com/~r/seriouseatsfeaturesvideos/~3/EvAneITbJyI/the-food-lab-18-comfort-food-classics-recipes.html)
 - [15 Thanksgiving Salad Recipes to Brighten Up Your Meal](http://feeds.seriouseats.com/~r/seriouseatsfeaturesvideos/~3/0CyAvmj5I5k/thanksgiving-salad-recipes.html)
 - [Essential Thanksgiving Equipment and Tools](http://feeds.seriouseats.com/~r/seriouseatsfeaturesvideos/~3/pc2TNnzVmtw/essential-tools)
 - [How to Make Buttery-Soft Canadian Bacon With Your Sous Vide Cooker](http://feeds.seriouseats.com/~r/seriouseatsfeaturesvideos/~3/alAyvGJEd7Y/buttery-soft-canadian-bacon-breakfast-ham-sous-vide.html)
@@ -9,21 +12,21 @@
 - [Slow Cooker Rutabaga Gratin with Millet](http://feedproxy.google.com/~r/NaturallyElla/~3/8j9PFJ2qiUU/)
 
 ## MUNCHIESMUNCHIES
-- [Drinking at Vegas’s Oldest Bar Feels Like Therapy](https://munchies.vice.com/en/articles/drinking-at-vegass-oldest-bar-feels-like-therapy)
-- [Chickpeas and Chorizo](https://munchies.vice.com/en/recipes/chickpeas-and-chorizo)
-- [How-To: Make Lamb Rump Salad With Sarah De Burgh](https://munchies.vice.com/en/videos/how-to-make-lamb-rump-salad-with-sarah-de-burgh)
-- [This Beef Lasagna Recipe Is Better Than Your Mom’s](https://munchies.vice.com/en/articles/this-beef-lasagna-recipe-is-better-than-your-moms)
-- [This Is What Undocumented Street Vendors Think About Donald Trump](https://munchies.vice.com/en/articles/this-is-what-undocumented-street-vendors-think-about-donald-trump)
-- [We’re All Gonna Get Through This](https://munchies.vice.com/en/articles/were-all-gonna-get-through-this)
-- [I Got Drunk at the Trump Bar in Trump Tower and It Was Predictably Terrible](https://munchies.vice.com/en/articles/getting-drunk-at-the-trump-tower-bar-was-the-worst-night-of-my-life)
-- [How to Get as Much Free Food as Possible on Election Day](https://munchies.vice.com/en/articles/how-to-get-as-much-free-food-as-possible-on-election-day)
-- [How a Plate of Tamales May Have Crushed Gerald Ford’s 1976 Presidential Campaign](https://munchies.vice.com/en/articles/how-a-plate-of-tamales-may-have-crushed-gerald-fords-1976-presidential-campaign)
-- [Why the Next President (Probably) Won’t Destroy Our Food System](https://munchies.vice.com/en/articles/why-the-next-president-probably-wont-destroy-our-food-system)
-- [MUNCHIES: The Podcast: Riding Along with the World’s Most Expensive Milk Man](https://munchies.vice.com/en/articles/munchies-the-podcast-riding-along-with-the-worlds-most-expensive-milk-man)
-- [MUNCHIES Staff Picks: Election Day Coping Mechanisms](https://munchies.vice.com/en/articles/munchies-staff-picks-election-day-coping-mechanisms)
-- [A Look Back at All the Weird Shit Our Candidates Ate on the Campaign Trail This Year](https://munchies.vice.com/en/articles/presidential-candidates-campaign-trail-food-2016)
-- [The Best Fancy Spots to Eat Like a President in Washington, DC](https://munchies.vice.com/en/articles/get-presidential-in-d-c-s-best-fancy-restaurants)
-- [Here Are Some Very Potent Tiki Drinks to Help You Make It Through Election Day](https://munchies.vice.com/en/articles/how-to-turn-your-life-into-a-tiki-bar)
+- [Comfort Yourself with This Homemade Ricotta Cavatelli Recipe](https://munchies.vice.com/en/articles/think-outside-the-cardboard-box-with-this-homemade-ricotta-cavatelli)
+- [How a Lost Wedding Ring Reappeared on a Carrot](https://munchies.vice.com/en/articles/how-a-lost-wedding-ring-reappeared-on-a-carrot)
+- [Crispy Mashed Potatoes](https://munchies.vice.com/en/recipes/crispy-mashed-potatoes)
+- [Roasted Chickpea and Garlic Mash](https://munchies.vice.com/en/recipes/roasted-chickpea-and-garlic-mash)
+- [Sweet Potato Mash with Walnuts](https://munchies.vice.com/en/recipes/sweet-potato-mash-with-walnuts)
+- [Fear and Loathing in New York’s Ten Best Ramen Shops](https://munchies.vice.com/en/articles/i-ate-all-of-new-yorks-best-ramen)
+- [If You’re Feeling Depressed, Torch a Box of Camembert](https://munchies.vice.com/en/articles/if-youre-feeling-depressed-torch-a-box-of-camembert)
+- [The Brief History of the Taco Emoji Now Has a Happy Ending](https://munchies.vice.com/en/articles/the-brief-history-of-the-taco-emoji-now-has-a-happy-ending)
+- [Here Are the Best Cocktail Bars in D.C.](https://munchies.vice.com/en/articles/here-are-the-best-cocktail-bars-in-d-c)
+- [Workaholics: Chickpeas and Chorizo Are the Ultimate After-Work Meal](https://munchies.vice.com/en/articles/workaholics-chickpeas-and-chorizo-are-the-ultimate-after-work-meal)
+- [Step Inside This Bread Dough Hotel in Sweden](https://munchies.vice.com/en/articles/there-is-now-a-hotel-for-bread-dough-in-sweden)
+- [How to Save the Art of Butchery](https://munchies.vice.com/en/articles/how-to-save-the-art-of-butchery)
+- [These 12 Bars and Restaurants Prove that DC Is Still Seriously Cool](https://munchies.vice.com/en/articles/these-12-bars-and-restaurants-prove-that-dc-is-still-seriously-cool)
+- [Here’s the Breakfast Sandwich That Will Cure Your Election Hangover](https://munchies.vice.com/en/articles/heres-the-breakfast-sandwich-that-will-cure-your-election-hangover)
+- [I Soaked in Coffee-Flavored Hot Springs and a Sweet Potato Sauna in Taiwan](https://munchies.vice.com/en/articles/i-soaked-in-coffee-flavored-hot-springs-and-a-sweet-potato-sauna-in-taiwan)
 
 ## USDA - National Agricultural Statistics Service - Washington Field Office
 - [Washington's 2012 Apple Production Up 5 Percent from Last Year, Grape Production Expected Up 31 Percent](http://www.nass.usda.gov/Statistics_by_State/Washington/Publications/Current_News_Release/appleaug.pdf)
@@ -33,27 +36,29 @@
 - [Washington and U.S. Sweet Cherry Production Higher](http://www.nass.usda.gov/Statistics_by_State/Washington/Publications/Current_News_Release/swtchery.pdf)
 
 ## The Kitchn | Inspiring cooks, nourishing homes
+- [How To Make Sweet Potato Pie — Baking Lessons from The Kitchn](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/CPvDeHK7sj4/how-to-make-sweet-potato-pie-237637)
+- [3 Signs Your Pumpkin Pie Is Ready to Come out of the Oven — Baking Tips from The Kitchn](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/Um-r5hw2FOU/3-signs-your-pumpkin-pie-is-ready-to-come-out-of-the-oven-237643)
+- [A Smarter, Cuter Way to Post Your Grocery List — Kitchen Hang-Ups](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/YEU8UduvxEY/a-smarter-cuter-way-to-post-your-grocery-list-237055)
+- [Everything You Ever Wanted to Know About Making a Better Pumpkin Pie — Tips from The Kitchn](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/D-3A7EYqRcY/everything-you-ever-wanted-to-know-about-making-a-better-pumpkin-pie-237635)
+- [Want to Volunteer in Your Community? 5 Tips for Finding the Right Opportunity — From Me to You](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/iWuYdvaabIQ/want-to-volunteer-in-your-community-5-tips-for-finding-the-right-opportunity-237261)
+- [How To Cut a Mango — Cooking Lessons from The Kitchn](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/twhXo1i9BQY/how-to-cut-a-mango-cooking-lessons-from-the-kitchn-166290)
+- [When (and Why) Did Cabbage Become Cool? — Beautiful Brassicas](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/V-qXo8DoXe4/when-and-why-did-cabbage-become-cool-237629)
+- [My Strategy for Everyday Cooking During the Holiday Season — Weeknight Cooking](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/7tfQMPeydn8/my-strategy-for-everyday-cooking-during-the-holiday-season-237511)
+- [Recipe: Syrian Stuffed Pumpkins — Recipes from The Kitchn](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/3zLxBuB2s7U/recipe-syrian-stuffed-pumpkins-237614)
+- [10 Things to Clean Now Before the Holiday Season Gets Going — Cleaning Tips from The Kitchn](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/NDDHmIZ3Iso/10-things-to-clean-now-before-the-holiday-season-gets-going-237454)
+- [A Syrian Refugee Family's First Thanksgiving — My First Thanksgiving](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/Z4cY6Sai-OE/exchanges-in-gratitude-from-a-shared-first-thanksgiving-237631)
+- [The Best Modern Round Dining Tables for Every Budget — Apartment Therapy](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/LjjqcTIvGaQ/the-best-modern-round-dining-tables-for-every-budget-238458)
+- [Set Your Thanksgiving Table with IKEA — One-Stop Tabletop](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/tMsRYyYQhEA/set-your-thanksgiving-table-with-ikea-237447)
+- [Corn Is the Centerpiece of a Great Gluten-Free Thanksgiving — Sidekick Side Dishes](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/xLxy2UJy0yw/corn-is-the-centerpiece-of-a-great-gluten-free-thanksgiving-237476)
+- [10 Dish Drying Racks That Are Better than a Tea Towel — Shopping](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/jUenCk6BaFs/10-dish-drying-racks-that-are-better-than-a-tea-towel-237650)
+- [The Thanksgiving Host's Ultimate Cleaning Checklist — Apartment Therapy](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/Q_lx3zsKdBg/the-thanksgiving-hosts-ultimate-cleaning-checklist-238457)
+- [20 Thanksgiving Sides You Can Bring to Friendsgiving — Thanksgiving Recipes from The Kitchn](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/8rTth7gY_gc/20-thanksgiving-sides-you-can-bring-to-friendsgiving-237620)
 - [Have You Tried Pumpkin Hummus Yet? — Delicious Links](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/UHv3Ogj2AX0/have-you-tried-pumpkin-hummus-yet-238451)
 - [Why Does Cauliflower Get Brown Spots? — Ingredient Intelligence](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/VCxjQ-zqG6k/why-does-cauliflower-get-brown-spots-237522)
-- [How To Make Turkey Stock — Cooking Lessons from The Kitchn](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/7OO2Vtj3fMk/how-to-make-turkey-stock-237636)
-- [5 Essential Holiday Travel Tips, According to a Travel Expert — Travel Tips from The Kitchn](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/IamWq9CWe94/5-essential-holiday-travel-tips-according-to-a-travel-expert-237460)
-- [5 Mistakes to Avoid When Making Mashed Potatoes — Tips from The Kitchn](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/UFL-VojS9D0/5-mistakes-to-avoid-when-making-mashed-potatoes-212271)
-- [Why You Should Just Buy a Case of Cava Now — Thanksgiving Drinks](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/VyjUHbdRCQk/why-you-should-just-buy-a-case-of-cava-now-237668)
-- [How To Make Bread Stuffing (Dressing) for Thanksgiving — Cooking Lessons from The Kitchn](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/VmRSxhK-S9M/how-to-make-easy-thanksgiving-stuffing-cooking-lessons-from-the-kitchn-180112)
-- [A Love Letter to Stuffing, the True Star of the Thanksgiving Table — Sidekick Side Dishes](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/kzFXZbukI6U/a-love-letter-to-stuffing-the-true-star-of-the-thanksgiving-table-237367)
-- [Hear Us Out: Make Lasagna for Thanksgiving This Year — New Holiday Traditions](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/Y62oxm9ahjM/hear-us-out-make-lasagna-for-thanksgiving-this-year-237533)
-- [Don't Be a Hero: 5 Reasons You Should Just Buy the Pie — My First Thanksgiving](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/W-5JHA7_BtE/dont-be-a-hero-5-reasons-you-should-just-buy-the-pie-237633)
-- [Gilmore Girls Ice Cream Exists and It Sounds Delicious — Food News](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/PN88V1HCY70/gilmore-girls-ice-cream-exists-and-it-sounds-delicious-238608)
-- [Recipe: Cuban Meaty Potato Stuffing Recipe — Recipes from The Kitchn](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/VsIcztnqktY/recipe-cuban-meaty-potato-stuffing-recipe-237612)
-- [12 Ways to Make Washing Dishes Better, Faster, and More Fun — The Kitchen Sink](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/TKFs1rKVdrc/12-ways-to-make-washing-dishes-better-faster-and-more-fun-237657)
-- [15 Comforting Recipes to Make for Election Night — Recipes from The Kitchn](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/LtnwgyApf9M/15-comforting-recipes-to-make-for-election-night-238585)
-- [Recipe: Scalloped Sweet Potatoes — Recipes from The Kitchn](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/axaP4bExau0/recipe-scalloped-sweet-potatoes-237172)
-- [10 Reasons Why It's Totally Fine to Go Out to Eat on Thanksgiving — Apartment Therapy](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/hQ-imKJpjGM/10-reasons-why-its-totally-fine-to-go-out-to-eat-on-thanksgiving-238456)
-- [Set Your Thanksgiving Table with World Market — One-Stop Tabletop](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/zWSYPwNVxDg/set-your-thanksgiving-table-with-world-market-237448)
-- [Recipe: Apple Cider Syrup — Recipes from The Kitchn](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/ZkLTp-tGmb8/recipe-apple-cider-syrup-237096)
-- [10 Wine Glasses That Can Go in the Dishwasher — Shopping](http://feedproxy.google.com/~r/apartmenttherapy/thekitchn/~3/vHuyYK7WesI/10-wine-glasses-that-can-go-in-the-dishwasher-237649)
 
 ## Journal of Food Science
+- [Preparation of Zein Fibers Using Solution Blow Spinning Method](http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F1750-3841.13537)
+- [Emulsion Stabilized with Starch Octenyl Succinate Prolongs Nisin Activity Against Listeria Monocytogenes in a Cantaloupe Juice Model](http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F1750-3841.13550)
 - [Oral Toxicity of Cold Plasma-Treated Edible Films for Food Coating](http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F1750-3841.13551)
 
 ## Southern Foodways Alliance
@@ -115,17 +120,28 @@
 ## Joy the Baker
 - [Pumpkin Spice New Orleans Fried Rice Calas](http://joythebaker.com/2016/11/pumpkin-spice-new-orleans-fried-rice-cakes/)
 
-## Chocolate & Zucchini
-- [Stockholm Mini-Guide](http://chocolateandzucchini.com/travels/stockholm-mini-guide/)
+## Hummusapien
+- [What I Ate Wednesday](http://www.hummusapien.com/what-i-ate-wednesday-59/)
 
 ## Oh My Veggies
 - [Ingredient Spotlight: Blackstrap Molasses](http://ohmyveggies.com/ingredient-spotlight-blackstrap-molasses/)
 - [9 Vegetarian Stuffing Recipes Everyone Will Love](http://ohmyveggies.com/9-vegetarian-stuffing-recipes-everyone-will-love/)
 
+## Chocolate & Zucchini
+- [Stockholm Mini-Guide](http://chocolateandzucchini.com/travels/stockholm-mini-guide/)
+
 ## Blog – Food First
 - [Good Food Rising](https://foodfirst.org/good-food-rising/)
 
 ## Journal of Agricultural and Food Chemistry: Latest Articles (ACS Publications)
+- [Soy and Gut Microbiota: Interaction and Implication
+for Human Health](http://feedproxy.google.com/~r/acs/jafcau/~3/XfhTiz53pJA/acs.jafc.6b03725)
+- [Formation of 3-MCPD Fatty Acid Esters from
+Monostearoyl Glycerol and the Thermal Stability of 3-MCPD Monoesters](http://feedproxy.google.com/~r/acs/jafcau/~3/aZHCA9PgWrc/acs.jafc.6b04048)
+- [Effect of Soil Fumigation on Degradation of Pendimethalin
+and Oxyfluorfen in Laboratory and Ginger Field Studies](http://feedproxy.google.com/~r/acs/jafcau/~3/G8323-S032E/acs.jafc.6b01437)
+- [Molecular Characterization and Anti-inflammatory Activity
+of Galactosylglycerides and Galactosylceramides from the Microalga Isochrysis galbana](http://feedproxy.google.com/~r/acs/jafcau/~3/BpG9D0tqYRM/acs.jafc.6b03931)
 - [Effective Monitoring of Fluxapyroxad and Its Three
 Biologically Active Metabolites in Vegetables, Fruits, and Cereals
 by Optimized QuEChERS Treatment Based on UPLC-MS/MS](http://feedproxy.google.com/~r/acs/jafcau/~3/4cmfvoQ89zM/acs.jafc.6b03253)
@@ -154,24 +170,14 @@ in Microfiltered Pasteurized Milk](http://feedproxy.google.com/~r/acs/jafcau/~3/
 - [Characterization of Seed Storage Proteins of Several
 Perennial Glycine Species](http://feedproxy.google.com/~r/acs/jafcau/~3/-K9a794y-xY/acs.jafc.6b03677)
 
+## Sprouted Kitchen
+- [PUMPKIN PIE TART](http://www.sproutedkitchen.com/home/2016/11/8/pumpkin-pie-tart)
+
 ## Oatmeal with a Fork
 - [What I Ate Wednesday (11/9/16)](http://www.oatmealwithafork.com/2016/11/09/ate-wednesday-11916/)
 
-## Hummusapien
-- [What I Ate Wednesday](http://www.hummusapien.com/what-i-ate-wednesday-59/)
-
 ## USDA - National Agricultural Statistics Service Reports
-- [Crop Progress](http://www.nass.usda.gov/Publications/Todays_Reports/reports/prog4616.pdf)
-- [Cotton Ginnings](http://www.nass.usda.gov/Publications/Todays_Reports/reports/ctgn4416.pdf)
-- [Crop Progress](http://www.nass.usda.gov/Publications/Todays_Reports/reports/prog4416.pdf)
-- [Broiler Hatchery](http://www.nass.usda.gov/Publications/Todays_Reports/reports/brls4416.pdf)
-- [Overview of the United States Slaughter Industry](http://www.nass.usda.gov/Publications/Todays_Reports/reports/usslau16.pdf)
-- [Peanut Prices](http://www.nass.usda.gov/Publications/Todays_Reports/reports/pnpr4416.pdf)
-- [Agricultural Prices](http://www.nass.usda.gov/Publications/Todays_Reports/reports/agpr1016.pdf)
-- [Crop Progress](http://www.nass.usda.gov/Publications/Todays_Reports/reports/prog4516.pdf)
-- [Cotton System Consumption and Stocks](http://www.nass.usda.gov/Publications/Todays_Reports/reports/cact1116.pdf)
-- [Broiler Hatchery](http://www.nass.usda.gov/Publications/Todays_Reports/reports/brls4516.pdf)
-- [Dairy Products](http://www.nass.usda.gov/Publications/Todays_Reports/reports/dary1116.pdf)
-- [Peanut Prices](http://www.nass.usda.gov/Publications/Todays_Reports/reports/pnpr4516.pdf)
+- [Broiler Hatchery](http://www.nass.usda.gov/Publications/Todays_Reports/reports/brls4616.pdf)
+- [Crop Production](http://www.nass.usda.gov/Publications/Todays_Reports/reports/crop1116.pdf)
 
 
