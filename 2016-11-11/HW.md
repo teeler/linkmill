@@ -1,0 +1,90 @@
+# HW
+
+## Adafruit Industries – Makers, hackers, artists, designers and engineers!
+- [3D Printed IoT Pet Feeder](https://blog.adafruit.com/2016/11/11/3d-printed-iot-pet-feeder/)
+- [Are you subscribed to the Adafruit Youtube channel? #Youtube](https://blog.adafruit.com/2016/11/11/are-you-subscribed-to-the-adafruit-youtube-channel-youtube-12/)
+- [Check out this Wooden Pipe Organ that Plays itself using an Arduino and Raspberry Pi @Raspberry_Pi #piday #raspberrypi](https://blog.adafruit.com/2016/11/11/check-out-this-wooden-pipe-organ-that-plays-itself-using-an-arduino-and-raspberry-pi-raspberry_pi-piday-raspberrypi/)
+- [Cold-Welding and the Phenomenon of Welding in Space](https://blog.adafruit.com/2016/11/11/cold-welding-and-the-phenomenon-of-welding-in-space/)
+- [Collect and Display Weather Data with a Raspberry Pi #piday #raspberrypi @Raspberry_Pi](https://blog.adafruit.com/2016/11/11/collect-and-display-weather-data-with-a-raspberry-pi-piday-raspberrypi-raspberry_pi/)
+- [Community Corner – November 11, 2016: The Featured Projects from this Week](https://blog.adafruit.com/2016/11/11/community-corner-november-11-2016-the-featured-projects-from-this-week/)
+- [DIY Motorized Skateboard controlled by Raspberry Pi Zero Reaches Speeds of 30km/h  #piday #raspberrypi @Raspberry_Pi](https://blog.adafruit.com/2016/11/11/diy-motorized-skateboard-controlled-by-raspberry-pi-zero-reaches-speeds-of-30kmh-piday-raspberrypi-raspberry_pi/)
+- [Flipframe: A pi powered rotating picture frame #piday #raspberrypi @Raspberry_Pi](https://blog.adafruit.com/2016/11/11/flipframe-a-pi-powered-rotating-picture-frame-piday-raspberrypi-raspberry_pi/)
+- [Incredible Godzilla Cosplay Goes to a Horror Film Fest](https://blog.adafruit.com/2016/11/11/incredible-godzilla-cosplay-goes-to-a-horror-film-fest/)
+- [Internet of Grabby Things #piday #raspberrypi @Raspberry_Pi](https://blog.adafruit.com/2016/11/11/internet-of-grabby-things-piday-raspberrypi-raspberry_pi/)
+- [IPMapper: Tripod Displays WiFi Traffic on a World Map #piday #raspberrypi @Raspberry_Pi](https://blog.adafruit.com/2016/11/11/ipmapper-tripod-displays-wifi-traffic-on-a-world-map-piday-raspberrypi-raspberry_pi/)
+- [Laser-Cut Two Stage Hand-Cranked Planetary Gear](https://blog.adafruit.com/2016/11/11/laser-cut-two-stage-hand-cranked-planetary-gear/)
+- [New Products 11/9/2016 (Video)](https://blog.adafruit.com/2016/11/11/new-products-1192016-video/)
+- [Parking Solution using Raspberry Pi @Raspberry_Pi #piday #raspberrypi](https://blog.adafruit.com/2016/11/11/parking-solution-using-raspberry-pi-raspberry_pi-piday-raspberrypi/)
+- [RaspberryPi SenseHAT live pressure graphs #piday #raspberrypi @Raspberry_Pi](https://blog.adafruit.com/2016/11/11/raspberrypi-sensehat-live-pressure-graphs-piday-raspberrypi-raspberry_pi/)
+- [Spinach Plants can Detect Explosives with the help of a Raspberry Pi @Raspberry_Pi #piday #raspberrypi](https://blog.adafruit.com/2016/11/11/spinach-plants-can-detect-explosives-with-the-help-of-a-raspberry-pi-raspberry_pi-piday-raspberrypi/)
+- [This Magic Mirror Includes a Stylist #piday #raspberrypi @Raspberry_Pi](https://blog.adafruit.com/2016/11/11/this-magic-mirror-includes-a-stylist-piday-raspberrypi-raspberry_pi/)
+- [Timelapse Turning Pixels into Pictures with Raspberry Pi & RGB Matrix HAT #piday @Raspberry_Pi #raspberrypi](https://blog.adafruit.com/2016/11/11/timelapse-turning-pixels-into-pictures-with-raspberry-pi-rgb-matrix-hat-piday-raspberry_pi-raspberrypi/)
+- [World of Light: An Interactive Map with a Raspberry Pi  #piday #raspberrypi @Raspberry_Pi](https://blog.adafruit.com/2016/11/11/world-of-light-an-interactive-map-with-a-raspberry-pi-piday-raspberrypi-raspberry_pi/)
+- [World of Warcraft Gul’dan Costume](https://blog.adafruit.com/2016/11/11/world-of-warcraft-guldan-costume/)
+- [Yay! 2m boards! #manufacturing](https://blog.adafruit.com/2016/11/11/yay-2m-boards-manufacturing/)
+- [2016 Siena International Photography Awards Winners #CelebratePhotography](https://blog.adafruit.com/2016/11/12/2016-siena-international-photography-awards-winners-celebratephotography/)
+- [Chris Smith’s Tips for Photographing Monday’s Supermoon #celebratephotography](https://blog.adafruit.com/2016/11/12/chris-smiths-tips-for-photographing-mondays-supermoon-celebratephotography/)
+- [Commnication is Essential, Even Inside Your Own Body: The Central Nervous System #SaturdayMorningCartoons](https://blog.adafruit.com/2016/11/12/commnication-is-essential-even-inside-your-own-body-the-central-nervous-system-saturdaymorningcartoons/)
+- [Francois Peyranne’s All I Need Is Blue #celebratephotography](https://blog.adafruit.com/2016/11/12/francois-peyrannes-all-i-need-is-blue-celebratephotography/)
+- [“NES Classic Mini boot image dump method via UART and USB”](https://blog.adafruit.com/2016/11/12/nes-classic-mini-boot-image-dump-method-via-uart-and-usb/)
+
+## Make: DIY Projects and Ideas for Makers
+- [Weekend Watch: Barb Makes Things](http://feedproxy.google.com/~r/makezineonline/~3/BSqDrM7SFT0/)
+- [3D Print a High-Power Electric Unicycle](http://feedproxy.google.com/~r/makezineonline/~3/d2sxYFqHPXE/)
+- [How One Community Beat the Youtube Trolls](http://feedproxy.google.com/~r/makezineonline/~3/e_Iq2a028mM/)
+- [Maker Pro News: Makers in Dallas, Shakeups in Hardware, and More](http://feedproxy.google.com/~r/makezineonline/~3/g28BqIszM0g/)
+- [How to Easily Build a “Light Paintbrush”](http://feedproxy.google.com/~r/makezineonline/~3/tJGruaCPLY8/)
+
+## Thingiverse - Newest Things
+- [Flashforge Creator Pro (2016) 40mm fan guard](http://www.thingiverse.com/thing:1866837)
+- [Flexbot Accessories (Battle Bots)](http://www.thingiverse.com/thing:1884834)
+- [Age of Empires II Barracks](http://www.thingiverse.com/thing:1885308)
+- [Miniature retro radio](http://www.thingiverse.com/thing:1887011)
+- [Arc de Triomphe de l’Étoile 3D Print](http://www.thingiverse.com/thing:1887020)
+- [Bic Lighter Cap](http://www.thingiverse.com/thing:1887021)
+- [Container for coins](http://www.thingiverse.com/thing:1887027)
+- [MKS GEN 1.4 BOX](http://www.thingiverse.com/thing:1887031)
+- [Shimano A01S/M06 bleed spacer](http://www.thingiverse.com/thing:1887049)
+- [Support nourrice Nx4](http://www.thingiverse.com/thing:1887051)
+- [Buster Sword](http://www.thingiverse.com/thing:1887053)
+- [Small Shelf](http://www.thingiverse.com/thing:1887061)
+- [Plaque simple mozaïc legrand](http://www.thingiverse.com/thing:1887063)
+- [Vapestand and battery and more.](http://www.thingiverse.com/thing:1887067)
+- [Bague pédale embrayage PT Cruiser](http://www.thingiverse.com/thing:1887073)
+- [Roman Box With caesar](http://www.thingiverse.com/thing:1887075)
+- [Lion's Courage Medal from The Wizard of Oz](http://www.thingiverse.com/thing:1887081)
+- [aquarium pipe](http://www.thingiverse.com/thing:1887084)
+- [Hictop Bowden Motor Bracket](http://www.thingiverse.com/thing:1887091)
+- [Text Stand](http://www.thingiverse.com/thing:1887098)
+- [PLA Spring motor, rolling car easy to mount](http://www.thingiverse.com/thing:1887099)
+- [Thumbs up!](http://www.thingiverse.com/thing:1887102)
+- [Tin Man's Heart from The Wizard of Oz](http://www.thingiverse.com/thing:1887105)
+- [Embout train Vibe 90SG](http://www.thingiverse.com/thing:1887117)
+- [Guignol avion indoor](http://www.thingiverse.com/thing:1887126)
+- [Einhängefach für Nobilia Schubladen](http://www.thingiverse.com/thing:1887127)
+- [Gopro Hero5 stereo rig](http://www.thingiverse.com/thing:1887140)
+- [Motedis 20x20 I-Type aluminium extrusion tapping guide](http://www.thingiverse.com/thing:1887143)
+- [28BYJ-48 spacer (pulley version)](http://www.thingiverse.com/thing:1887147)
+- [ZMR Flight Contoller guard](http://www.thingiverse.com/thing:1887151)
+
+## Dangerous Prototypes
+- [100W AF dummy load](http://dangerousprototypes.com/blog/2016/11/11/100w-af-dummy-load/)
+- [Free PCB coupon via Facebook to 2 random commenters](http://dangerousprototypes.com/blog/2016/11/11/free-pcb-coupon-via-facebook-to-2-random-commenters-257/)
+- [XBOX 360 GPU die decap: A look at the graphics processor silicon](http://dangerousprototypes.com/blog/2016/11/11/xbox-360-gpu-die-decap-a-look-at-the-graphics-processor-silicon/)
+
+## Arduino Blog
+- [Keep smoke out of your apartment with an automated fan array](https://blog.arduino.cc/2016/11/11/keep-smoke-out-of-your-apartment-with-an-automated-fan-array/)
+
+## Hackaday
+- [ESP8266 Lullaby](http://hackaday.com/2016/11/11/esp8266-lullaby/)
+- [Hackenings: KiCAD, Science, DevOps, and Cyber](http://hackaday.com/2016/11/12/hackenings-kicad-science-devops-and-cyber/)
+- [How Not To Build A CPU Hand Warmer](http://hackaday.com/2016/11/12/how-not-to-build-a-cpu-hand-warmer/)
+- [Pi Zero Transforms to Game Boy](http://hackaday.com/2016/11/12/pi-zero-transforms-to-game-boy/)
+- [Raspberry Pi Spies On… Err… Monitors Baby](http://hackaday.com/2016/11/12/raspberry-pi-spies-on-err-monitors-baby/)
+- [Transparent Rocket Engine](http://hackaday.com/2016/11/12/transparent-rocket-engine/)
+- [Vote With Your Feet](http://hackaday.com/2016/11/12/vote-with-your-feet/)
+
+## SparkFun Electronics Blog Posts
+- [Friday Product Post: Holy Pimoroni!](https://www.sparkfun.com/news/2230)
+
+

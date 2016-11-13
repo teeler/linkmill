@@ -971,3 +971,12 @@
   * [sec](2016-11-10/sec.md)
   * [sfx](2016-11-10/sfx.md)
 
+* [2016-11-11](2016-11-11/index.md)
+  * [FOOD](2016-11-11/FOOD.md)
+  * [HW](2016-11-11/HW.md)
+  * [Linkmillery](2016-11-11/Linkmillery.md)
+  * [cashish](2016-11-11/cashish.md)
+  * [funky](2016-11-11/funky.md)
+  * [journals](2016-11-11/journals.md)
+  * [legal](2016-11-11/legal.md)
+
