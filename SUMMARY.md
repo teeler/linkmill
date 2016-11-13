@@ -980,3 +980,8 @@
   * [journals](2016-11-11/journals.md)
   * [legal](2016-11-11/legal.md)
 
+* [2016-11-12](2016-11-12/index.md)
+  * [FOOD](2016-11-12/FOOD.md)
+  * [cashish](2016-11-12/cashish.md)
+  * [funky](2016-11-12/funky.md)
+
