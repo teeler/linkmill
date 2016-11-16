@@ -1,0 +1,101 @@
+# HW
+
+## Adafruit Industries – Makers, hackers, artists, designers and engineers!
+- [A Sound Installation in Miami’s Drains Warns of the Impending Flood #ArtTuesday](https://blog.adafruit.com/2016/11/15/a-sound-installation-in-miamis-drains-warns-of-the-impending-flood-arttuesday/)
+- [Adafruit Holiday Gift Guide 2016: Gifts for Pet Lovers](https://blog.adafruit.com/2016/11/15/adafruit-holiday-gift-guide-2016-gifts-for-pet-lovers/)
+- [Art Is The New Black: An Interview With Tatiana von Fürstenberg On “On The Inside” #ArtTuesday](https://blog.adafruit.com/2016/11/15/art-is-the-new-black-an-interview-with-tatiana-von-furstenberg-on-on-the-inside-arttuesday/)
+- [Beetlejuice Makeup How-To](https://blog.adafruit.com/2016/11/15/beetlejuice-makeup-how-to/)
+- [Case Maclaim Paints a New Mural in Jacksonville, FL #ArtTuesday](https://blog.adafruit.com/2016/11/15/case-maclaim-paints-a-new-mural-in-jacksonville-fl-arttuesday/)
+- [Danielle Clough’s Embroidered Portraits #ArtTuesday](https://blog.adafruit.com/2016/11/15/danielle-cloughs-embroidered-portraits-arttuesday/)
+- [Hops Used in Beer Show Fat-Burning Potential](https://blog.adafruit.com/2016/11/15/hops-used-in-beer-show-fat-burning-potential/)
+- [How the rubber glove was invented #MakerEducation](https://blog.adafruit.com/2016/11/15/how-the-rubber-glove-was-invented-makereducation/)
+- [IKEA Recreates a Syrian Home in Showroom as Powerful Reminder of the Humanitarian Crisis #ArtTuesday](https://blog.adafruit.com/2016/11/15/ikea-recreates-a-syrian-home-in-showroom-as-powerful-reminder-of-the-humanitarian-crisis-arttuesday/)
+- [Immersive Glass Portals Unveil the Secret Life of Nature #ArtTuesday](https://blog.adafruit.com/2016/11/15/immersive-glass-portals-unveil-the-secret-life-of-nature-arttuesday/)
+- [Inheritance, a precious heirloom made of gold and radioactive stones #ArtTuesday](https://blog.adafruit.com/2016/11/15/inheritance-a-precious-heirloom-made-of-gold-and-radioactive-stones-arttuesday/)
+- [Jay Keeree’s Texture Rich GIFs #ArtTuesday](https://blog.adafruit.com/2016/11/15/jay-keerees-texture-rich-gifs-arttuesday/)
+- [NEW GUIDE: Circuit Playground Fruit Drums #AdafruitLearningSystem](https://blog.adafruit.com/2016/11/15/new-guide-circuit-playground-fruit-drums-adafruitlearningsystem/)
+- [NEW PRODUCT – Adafruit Pocket Screwdriver – Black](https://blog.adafruit.com/2016/11/15/new-product-adafruit-pocket-screwdriver-black/)
+- [NEW PRODUCT – Adafruit PT100 RTD Temperature Sensor Amplifier – MAX31865](https://blog.adafruit.com/2016/11/15/new-product-adafruit-pt100-rtd-temperature-sensor-amplifier-max31865/)
+- [Raspberry Pi joins the Particle Cloud!](https://blog.adafruit.com/2016/11/15/raspberry-pi-joins-the-particle-cloud/)
+- [Tesla Sparks and Miniature Thunderstorms Photographed by Marc Simon Frei #ArtTuesday](https://blog.adafruit.com/2016/11/15/tesla-sparks-and-miniature-thunderstorms-photographed-by-marc-simon-frei-arttuesday/)
+- [This T. Rex Costume Could Be in Jurassic Park](https://blog.adafruit.com/2016/11/15/this-t-rex-costume-could-be-in-jurassic-park/)
+- [Time Travel Tuesday #timetravel a look back at the Adafruit, maker, science, technology and engineering world](https://blog.adafruit.com/2016/11/15/time-travel-tuesday-timetravel-a-look-back-at-the-adafruit-maker-science-technology-and-engineering-world-173/)
+- [Tips for ‘Securing Your Server’s SSH Configuration’](https://blog.adafruit.com/2016/11/15/tips-for-securing-your-servers-ssh-configuration/)
+- [To Create a Quieter City, They’re Recording the Sounds of New York #makereducation](https://blog.adafruit.com/2016/11/15/to-create-a-quieter-city-theyre-recording-the-sounds-of-new-york-makereducation/)
+- [Using a 4066 IC to Trigger Electronic Toy Momentary Pushbutton Switches #CircuitBending 101](https://blog.adafruit.com/2016/11/15/using-a-4066-ic-to-trigger-electronic-toy-momentary-pushbutton-switches-circuitbending-101/)
+- [Yoshitoshi Kanemaki’s Glitchy Sculptures #ArtTuesday](https://blog.adafruit.com/2016/11/15/yoshitoshi-kanemakis-glitchy-sculptures-arttuesday/)
+- [Adafruit Holiday Gift Guide 2016: Wearables Projects from the Adafruit Learning System #WearableWednesday](https://blog.adafruit.com/2016/11/16/adafruit-holiday-gift-guide-2016-wearables-projects-from-the-adafruit-learning-system-wearablewednesday/)
+- [AxiDraw Modified to Laser-Cut and UV Light Paint](https://blog.adafruit.com/2016/11/16/axidraw-modified-to-laser-cut-and-uv-light-paint/)
+- [Celebrating Wallace Hampton Tucker #NativeAmericanHeritageMonth](https://blog.adafruit.com/2016/11/16/celebrating-wallace-hampton-tucker-nativeamericanheritagemonth/)
+- [Five Light Spheres #NeoPixels](https://blog.adafruit.com/2016/11/16/five-light-spheres-neopixels/)
+- [GISday #GISDay @gisday](https://blog.adafruit.com/2016/11/16/gisday-gisday-gisday/)
+- [Google’s RAISR sharpens low-resolution images using machine learning](https://blog.adafruit.com/2016/11/16/googles-raisr-sharpens-low-resolution-images-using-machine-learning/)
+- [How to Be the Ultimate World of Warcraft Orc Death Knight #WearableWednesday #Warcraft #Wearabletech @MissHenchwench](https://blog.adafruit.com/2016/11/16/how-to-be-the-ultimate-world-of-warcraft-death-knight-wearablewednesday/)
+- [How to Make a Powerful Air Quality Wearable #WearableWednesday #Wearabletech #CitizenScience](https://blog.adafruit.com/2016/11/16/how-to-make-a-powerful-air-quality-wearable-wearablewednesday/)
+- [Next Space Station Crew Set for Launch Nov. 17, Watch Live on NASA TV! #NASA](https://blog.adafruit.com/2016/11/16/next-space-station-crew-set-for-launch-nov-17-watch-live-on-nasa-tv-nasa/)
+- [The Tech That Makes This Cyberpunk Armor So Fascinating #WearableWednesday #Wearabletech #Arduino #DIY](https://blog.adafruit.com/2016/11/16/the-tech-that-makes-this-cyberpunk-armor-so-fascinating-wearablewednesday/)
+- [Warrior Wonder Woman Costume with a Shield Made from a Plate](https://blog.adafruit.com/2016/11/16/warrior-wonder-woman-costume-with-a-shield-made-from-a-plate/)
+
+## JeeLabs
+- [So many memories](http://jeelabs.org/2016/11/so-many-memories/)
+
+## Make: DIY Projects and Ideas for Makers
+- [Makers in the Arab World](http://feedproxy.google.com/~r/makezineonline/~3/BHyj4bZzv2Q/)
+- [Maker Spotlight: Lisa Winter](http://feedproxy.google.com/~r/makezineonline/~3/HyNNDZkh1HE/)
+- [Raspberry Pi Can Now Connect to the Particle Cloud](http://feedproxy.google.com/~r/makezineonline/~3/cHWJ0tUNZYM/)
+- [6 Qualities to Look for When Buying a 3D Printer for Your Classroom](http://feedproxy.google.com/~r/makezineonline/~3/fVEJ2SLJ7Og/)
+- [6 Projects to Justify Hoarding Your Bottle Caps](http://feedproxy.google.com/~r/makezineonline/~3/n8Re0r_JedE/)
+
+## Thingiverse - Newest Things
+- [Amazing Gift Card Box](http://www.thingiverse.com/thing:1889214)
+- [Cart Chip for your keychain / Einkaufswagenchip für den Schlüsselbund](http://www.thingiverse.com/thing:1892686)
+- [Crystal brain teaser](http://www.thingiverse.com/thing:1892966)
+- [Hot Wheels GoPro Car](http://www.thingiverse.com/thing:1893055)
+- [Silhouette Minis - Set 2 - Elf, Elf Maiden, Dwarf](http://www.thingiverse.com/thing:1893898)
+- [Raspberry Pi 3_Modell B - Sleeve with 3.5 TFT](http://www.thingiverse.com/thing:1895374)
+- [Batman key chain](http://www.thingiverse.com/thing:1895378)
+- [Fire Bannon](http://www.thingiverse.com/thing:1895399)
+- [Ultrasonic radar parts for Arduino 2wd Car](http://www.thingiverse.com/thing:1895405)
+- [Thermistor Prism](http://www.thingiverse.com/thing:1895410)
+- [Universal joint](http://www.thingiverse.com/thing:1895414)
+- [Support de cables USB](http://www.thingiverse.com/thing:1895423)
+- [Soporte bobina filamento PRUSA i3 Sunhokey](http://www.thingiverse.com/thing:1895432)
+- [StandVesa30](http://www.thingiverse.com/thing:1895438)
+- [OUTLET COVER FOR PULL DOWN OUTLET BOX](http://www.thingiverse.com/thing:1895446)
+- [Raspberry Pi WiFi Radio Enclosure](http://www.thingiverse.com/thing:1895458)
+- [Baseball Cap Horn](http://www.thingiverse.com/thing:1895460)
+- [Collare inferiore reggi tubo d15 cm. per aspiratore CNC - Collar down for support of a 15 cm ...](http://www.thingiverse.com/thing:1895467)
+- [Gears of War - (Classic) " Hammerburst " Assault Rifle "](http://www.thingiverse.com/thing:1895484)
+- [Project Enclosure 100x50x50mm](http://www.thingiverse.com/thing:1895488)
+- [Roof/Wall round Cable holder](http://www.thingiverse.com/thing:1895495)
+- [PLA bushing 8mm better printability](http://www.thingiverse.com/thing:1895518)
+- [Dual Bowder fan duct](http://www.thingiverse.com/thing:1895540)
+- [Heart paper clip](http://www.thingiverse.com/thing:1895544)
+- [determination extractor stand](http://www.thingiverse.com/thing:1895550)
+- [Phantom 2 - Holder LCD 4.5'](http://www.thingiverse.com/thing:1895551)
+- [Gears os war "Longshot" Sniper Rifle](http://www.thingiverse.com/thing:1895554)
+- [Savanah Miller coffee cup2](http://www.thingiverse.com/thing:1895563)
+- [ArNY](http://www.thingiverse.com/thing:1895564)
+- [impossible triangle](http://www.thingiverse.com/thing:1895575)
+
+## Adafruit Learning System | Latest Published Guides
+- [Adafruit MAX31865 RTD PT100 Amplifier](https://learn.adafruit.com/adafruit-max31865-rtd-pt100-amplifier)
+
+## Arduino Blog
+- [PolySync launches open-source kit for autonomous car development](https://blog.arduino.cc/2016/11/15/polysync-launches-open-source-kit-for-autonomous-car-development/)
+- [Skintillates: Temporary tattoos with embedded electronics](https://blog.arduino.cc/2016/11/15/skintillates-temporary-tattoos-with-embedded-electronics/)
+- [This machine sends messages using common chemicals](https://blog.arduino.cc/2016/11/16/this-machine-sends-messages-using-common-chemicals/)
+
+## Hackaday
+- [2,000 LEDs on Fire](http://hackaday.com/2016/11/15/2000-leds-on-fire/)
+- [An SDR For The Rest Of Them](http://hackaday.com/2016/11/15/an-sdr-for-the-rest-of-them/)
+- [Put an Honest Face On Alexa With This HAL 9000 Build](http://hackaday.com/2016/11/15/put-an-honest-face-on-alexa-with-this-hal-9000-build/)
+- [Waiting For A Letter? This IoT Mailbox Will Tell You Exactly When It Arrives.](http://hackaday.com/2016/11/15/waiting-for-a-letter-this-iot-mailbox-will-tell-you-exactly-when-it-arrives/)
+- [Another Kind of Cloud: The Internet of Farts](http://hackaday.com/2016/11/16/another-kind-of-cloud-the-internet-of-farts/)
+- [Direct To Object 3D Printing](http://hackaday.com/2016/11/16/direct-to-object-3d-printing/)
+- [Star Trek Phone Dock Might as Well Be From Picard’s Night Stand](http://hackaday.com/2016/11/16/star-trek-phone-dock-might-as-well-be-from-picards-night-stand/)
+
+## SparkFun Electronics Blog Posts
+- [T³: A makerspace in your school?](https://www.sparkfun.com/news/2232)
+
+
