@@ -999,3 +999,17 @@
   * [sec](2016-11-15/sec.md)
   * [sfx](2016-11-15/sfx.md)
 
+* [2016-11-16](2016-11-16/index.md)
+  * [FOOD](2016-11-16/FOOD.md)
+  * [HW](2016-11-16/HW.md)
+  * [Linkmillery](2016-11-16/Linkmillery.md)
+  * [SEA](2016-11-16/SEA.md)
+  * [cashish](2016-11-16/cashish.md)
+  * [funky](2016-11-16/funky.md)
+  * [home](2016-11-16/home.md)
+  * [journals](2016-11-16/journals.md)
+  * [legal](2016-11-16/legal.md)
+  * [p](2016-11-16/p.md)
+  * [sec](2016-11-16/sec.md)
+  * [sfx](2016-11-16/sfx.md)
+
