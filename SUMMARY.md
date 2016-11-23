@@ -1027,3 +1027,11 @@
   * [sec](2016-11-20/sec.md)
   * [sfx](2016-11-20/sfx.md)
 
+* [2016-11-21](2016-11-21/index.md)
+  * [FOOD](2016-11-21/FOOD.md)
+  * [HW](2016-11-21/HW.md)
+  * [cashish](2016-11-21/cashish.md)
+  * [funky](2016-11-21/funky.md)
+  * [journals](2016-11-21/journals.md)
+  * [legal](2016-11-21/legal.md)
+
